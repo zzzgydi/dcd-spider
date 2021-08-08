@@ -1,0 +1,5 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+小鹏汽车,指导价：,2,小鹏汽车P5,暂无报价,5004,https://p1-dcd.byteimg.com/img/motor-img/87c42a3662317760e547c8fbf7358fb9~noop.png,暂无报价,True,1950050040000000,暂无报价,暂无上市时间,16.00-23.00万,,"{'type': 4, 'text': '即将上市'}",,0,1628414431354245097,195,小鹏汽车,轿车
+小鹏汽车,指导价：,0,小鹏汽车P7,22.99-40.99万,3352,https://p3-dcd.byteimg.com/img/motor-img/5d49eb0e339b5f9a2d2ad0f9ff5f50aa~noop.png,22.99-40.99万,False,1950033520000000,22.99-40.99万,,,,,,402,1628414431354246267,195,小鹏汽车,轿车
+小鹏汽车,指导价：,0,小鹏汽车G3,14.98-19.98万,2819,https://p1-dcd.byteimg.com/img/motor-img/9083792a1c7cc69e295d935731df4dee~noop.png,14.98-19.98万,False,1950028190000000,14.98-19.98万,,,,,,375,1628414431354249224,195,小鹏汽车,SUV
+小鹏汽车,指导价：,3,小鹏汽车BETA版,暂无报价,1776,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700002ccb4e2d9bce~noop.png,,True,1950017760000000,暂无报价,,,,,,0,1628414431354250932,195,小鹏汽车,SUV·概念车

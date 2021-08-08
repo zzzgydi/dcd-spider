@@ -1,0 +1,16 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+长城汽车,指导价：,0,WEY VV5,12.58-14.78万,1611,https://p1-dcd.byteimg.com/img/motor-img/ff1e2d601ed4d6d3bc081ca480097f83~noop.png,11.08-13.28万,False,660016110000000,12.58-14.78万,,,,,376,1628414399517974750,66,WEY,SUV,
+长城汽车,指导价：,0,WEY VV6,14.80-17.50万,2831,https://p1-dcd.byteimg.com/img/motor-img/3bc573e32743d12b62f4b643ef2ffea9~noop.png,13.30-16.00万,False,660028310000000,14.80-17.50万,,,,,383,1628414399517975570,66,WEY,SUV,
+长城汽车,指导价：,2,玛奇朵,暂无报价,4896,https://p3-dcd.byteimg.com/img/motor-img/bba8bc8bf8c558fcd079c18872cdafcb~noop.png,暂无报价,True,660048960000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414399517976098,66,WEY,SUV,"{'type': 4, 'text': '即将上市'}"
+长城汽车,指导价：,0,WEY VV7,16.98-19.28万,55,https://p1-dcd.byteimg.com/img/motor-img/d1c98089f0e0d6d8ce954fa23d777827~noop.png,14.98-17.28万,False,660000550000000,16.98-19.28万,,,,,383,1628414399517976590,66,WEY,SUV,
+长城汽车,指导价：,0,WEY VV7 PHEV,21.98-23.98万,3714,https://p1-dcd.byteimg.com/img/motor-img/978aaa814237265ed6c89ae6906e38a6~noop.png,21.68-23.68万,False,660037140000000,21.98-23.98万,,,,,0,1628414399517977350,66,WEY,SUV,
+长城汽车,指导价：,0,WEY VV7 GT,19.18-25.88万,4131,https://p9-dcd.byteimg.com/img/motor-img/df1dd3b57173562ef480141c7d92f24c~noop.png,17.18-25.88万,False,660041310000000,19.18-25.88万,,,,,369,1628414399517977779,66,WEY,SUV,
+长城汽车,指导价：,0,WEY VV7 GT PHEV,25.68万,4151,https://p1-dcd.byteimg.com/img/motor-img/1279e0a5799ffefa3a47a52e90414a4b~noop.png,25.38万,False,660041510000000,25.68万,,,,,0,1628414399517978379,66,WEY,SUV,
+长城汽车,指导价：,0,摩卡,17.58-21.88万,4866,https://p1-dcd.byteimg.com/img/motor-img/d9c5b2d4341886a02bb8f38b0c237ce6~noop.png,17.58-21.88万,False,660048660000000,17.58-21.88万,,,,,389,1628414399517978810,66,WEY,SUV,
+长城汽车,指导价：,3,拿铁,暂无报价,4868,https://p1-dcd.byteimg.com/img/motor-img/9b00af106145540a63476e76994ea997~noop.png,,True,660048680000000,暂无报价,,,,,0,1628414399517980165,66,WEY,SUV·未上市,
+长城汽车,指导价：,3,玛奇朵PHEV,暂无报价,5148,https://p1-dcd.byteimg.com/img/motor-img/d866e14be8ee72080ba0e8de7e13552f~noop.png,,True,660051480000000,暂无报价,,,,,0,1628414399517981019,66,WEY,SUV·未上市,
+长城汽车,指导价：,3,摩卡PHEV,暂无报价,4867,https://p3-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,660048670000000,暂无报价,,,,,0,1628414399517981548,66,WEY,SUV·未上市,
+长城汽车,指导价：,1,WEY P8,29.28-31.28万,1796,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef200011245dc8e53c7~noop.png,,True,660017960000000,29.28-31.28万,,,,,0,1628414399517982569,66,WEY,SUV·停售,
+长城汽车,指导价：,3,WEY-S,暂无报价,4149,https://p1-dcd.byteimg.com/img/motor-img/355b10c743e638118beb77c15bd765f6~noop.png,,True,660041490000000,暂无报价,,,,,0,1628414399517983550,66,WEY,SUV·概念车,
+长城汽车,指导价：,3,WEY XEV,暂无报价,1797,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20001411432f988a5~noop.png,,True,660017970000000,暂无报价,,,,,0,1628414399517984607,66,WEY,SUV·概念车,
+长城汽车,指导价：,3,WEY-X,暂无报价,2852,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000100e94a3d3843~noop.png,,True,660028520000000,暂无报价,,,,,0,1628414399517985053,66,WEY,SUV·概念车,

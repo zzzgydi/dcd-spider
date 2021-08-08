@@ -1,0 +1,10 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+长城汽车,指导价：,0,欧拉黑猫,6.98-8.58万,2911,https://p1-dcd.byteimg.com/img/motor-img/e507542fd2502c0271f96e2afcb0435c~noop.png,5.98-7.58万,False,2380029110000000,6.98-8.58万,,,,,343,1628414194838126268,238,欧拉,轿车,
+长城汽车,指导价：,0,欧拉白猫,7.18-8.88万,2912,https://p3-dcd.byteimg.com/img/motor-img/9114d17a07c3bcfdf42c6dd977de20d6~noop.png,6.18-8.38万,False,2380029120000000,7.18-8.88万,,,,,347,1628414194838127694,238,欧拉,轿车,
+长城汽车,指导价：,0,欧拉好猫,10.39-14.39万,4635,https://p1-dcd.byteimg.com/img/motor-img/379daadeeff33da05004d3cd90d270e6~noop.png,10.39-14.39万,False,2380046350000000,10.39-14.39万,,,,,352,1628414194838128403,238,欧拉,轿车,
+长城汽车,指导价：,0,欧拉iQ,12.73-15.03万,2910,https://p3-dcd.byteimg.com/img/motor-img/c3064595fa7320c020d088d7fa3941c5~noop.png,12.73-15.03万,False,2380029100000000,12.73-15.03万,,,,,0,1628414194838128902,238,欧拉,轿车,
+长城汽车,指导价：,2,欧拉好猫GT,暂无报价,5269,https://p1-dcd.byteimg.com/img/motor-img/ec31db5fd2377bb90f69a2279963f6d1~noop.png,暂无报价,True,2380052690000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414194838129458,238,欧拉,轿车,"{'type': 4, 'text': '即将上市'}"
+长城汽车,指导价：,3,欧拉闪电猫,暂无报价,5053,https://p1-dcd.byteimg.com/img/motor-img/452aaec5782af60e32654a89920036e7~noop.png,,True,2380050530000000,暂无报价,,,,,0,1628414194838131093,238,欧拉,轿车·未上市,
+长城汽车,指导价：,3,欧拉大猫,暂无报价,5055,https://p1-dcd.byteimg.com/img/motor-img/1b1172b8a6d90a60116db61a54703597~noop.png,,True,2380050550000000,暂无报价,,,,,0,1628414194838132857,238,欧拉,SUV·未上市,
+长城汽车,指导价：,3,欧拉朋克猫,暂无报价,5079,https://p1-dcd.byteimg.com/img/motor-img/1dade28ef80a11cf2af6d64bb7f58863~noop.png,,True,2380050790000000,暂无报价,,,,,0,1628414194838134182,238,欧拉,轿车·概念车,
+长城汽车,指导价：,3,欧拉,暂无报价,2303,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600002eda814f7a18~noop.png,,True,2380023030000000,暂无报价,,,,,0,1628414194838134995,238,欧拉,轿车·概念车,

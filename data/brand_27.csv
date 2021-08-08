@@ -1,0 +1,23 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+一汽奔腾,指导价：,0,奔腾B70,9.99-13.99万,267,https://p1-dcd.byteimg.com/img/motor-img/bf1dd6769e7afb09fd5c2b0a3cdf2bbd~noop.png,9.99-13.99万,False,270002670000000,9.99-13.99万,,,,,367,1628413675197031749,27,奔腾,轿车
+一汽奔腾,指导价：,0,奔腾T33,8.59-10.59万,3722,https://p1-dcd.byteimg.com/img/motor-img/3621d8fc628707ebe0f22bfccf2993a1~noop.png,6.19-8.19万,False,270037220000000,8.59-10.59万,,,,,358,1628413675197035245,27,奔腾,SUV
+一汽奔腾,指导价：,0,奔腾T55,9.89-12.69万,4794,https://p3-dcd.byteimg.com/img/motor-img/5eb9a1106aaeba38383586d41c10fd06~noop.png,8.99-12.69万,False,270047940000000,9.89-12.69万,,,,,363,1628413675197036387,27,奔腾,SUV
+一汽奔腾,指导价：,0,奔腾T77,10.58-14.18万,2867,https://p1-dcd.byteimg.com/img/motor-img/d8b3b7c2d41dc4e5b45659ab6826cd75~noop.png,9.68-13.28万,False,270028670000000,10.58-14.18万,,,,,368,1628413675197037379,27,奔腾,SUV
+一汽奔腾,指导价：,0,奔腾E01,19.68-22.88万,4278,https://p1-dcd.byteimg.com/img/motor-img/3775b0fd779b392934bda5da3e46864d~noop.png,19.68-22.88万,False,270042780000000,19.68-22.88万,,,,,0,1628413675197038301,27,奔腾,SUV
+一汽奔腾,指导价：,0,奔腾T99,14.99-19.19万,3474,https://p1-dcd.byteimg.com/img/motor-img/914c0be70573ea76132fab419d6cfa4c~noop.png,13.49-17.69万,False,270034740000000,14.99-19.19万,,,,,384,1628413675197039012,27,奔腾,SUV
+一汽奔腾,指导价：,0,奔腾NAT,14.58-15.18万,4861,https://p1-dcd.byteimg.com/img/motor-img/86e59b68321279091b353bb89ec0d411~noop.png,14.58-15.18万,False,270048610000000,14.58-15.18万,,,,,0,1628413675197041687,27,奔腾,MPV
+一汽奔腾,指导价：,3,奔腾X70,暂无报价,4121,https://p3-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,270041210000000,暂无报价,,,,,0,1628413675197044232,27,奔腾,SUV·未上市
+一汽奔腾,指导价：,3,奔腾70S,暂无报价,5149,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,270051490000000,暂无报价,,,,,0,1628413675197045494,27,奔腾,SUV·未上市
+一汽奔腾,指导价：,1,奔腾B30,6.58-9.28万,266,https://p3-dcd.byteimg.com/img/motor-img/7583708ad63b6679bd8c2db3665ea4d0~noop.png,,True,270002660000000,6.58-9.28万,,,,,0,1628413675197048400,27,奔腾,轿车·停售
+一汽奔腾,指导价：,1,奔腾B30 EV,17.38-18.98万,1843,https://p9-dcd.byteimg.com/img/mosaic-legacy/17675000053a8d79cd345~noop.png,,True,270018430000000,17.38-18.98万,,,,,0,1628413675197049362,27,奔腾,轿车·停售
+一汽奔腾,指导价：,1,奔腾B50,6.98-15.28万,265,https://p1-dcd.byteimg.com/img/motor-img/88b88e7b3a5bff9ea36daa30298c1c2c~noop.png,,True,270002650000000,6.98-15.28万,,,,,0,1628413675197050494,27,奔腾,轿车·停售
+一汽奔腾,指导价：,1,奔腾B90,13.98-20.18万,268,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef300009508381af97d~noop.png,,True,270002680000000,13.98-20.18万,,,,,0,1628413675197052017,27,奔腾,轿车·停售
+一汽奔腾,指导价：,1,奔腾X40,6.68-10.18万,269,https://p1-dcd.byteimg.com/img/motor-img/e52c677daddd5bfd245b7f4fce55d734~noop.png,,True,270002690000000,6.68-10.18万,,,,,0,1628413675197054010,27,奔腾,SUV·停售
+一汽奔腾,指导价：,1,奔腾X40 EV,18.38-19.38万,3027,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef1000016d9459eba25~noop.png,,True,270030270000000,18.38-19.38万,,,,,0,1628413675197055313,27,奔腾,SUV·停售
+一汽奔腾,指导价：,1,奔腾X80,9.98-18.18万,270,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef200004916f919ff04~noop.png,,True,270002700000000,9.98-18.18万,,,,,0,1628413675197056405,27,奔腾,SUV·停售
+一汽奔腾,指导价：,3,奔腾E² Concept,暂无报价,3386,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000cd1f8e94c4f2~noop.png,,True,270033860000000,暂无报价,,,,,0,1628413675197058298,27,奔腾,轿车·概念车
+一汽奔腾,指导价：,3,奔腾全新概念轿车,暂无报价,5156,https://p1-dcd.byteimg.com/img/motor-img/2a894230350b332671d878161a9f815e~noop.png,,True,270051560000000,暂无报价,,,,,0,1628413675197059460,27,奔腾,轿车·概念车
+一汽奔腾,指导价：,3,奔腾B²-Concept,暂无报价,4605,https://p1-dcd.byteimg.com/img/motor-img/e8c77d464bb735260cb6e170e65be57c~noop.png,,True,270046050000000,暂无报价,,,,,0,1628413675197060532,27,奔腾,轿车·概念车
+一汽奔腾,指导价：,3,奔腾全新概念SUV,暂无报价,5158,https://p1-dcd.byteimg.com/img/motor-img/d97577a14d5ae03a856829121067afbc~noop.png,,True,270051580000000,暂无报价,,,,,0,1628413675197062787,27,奔腾,SUV·概念车
+一汽奔腾,指导价：,3,奔腾X4,暂无报价,2105,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800002ef12f9d0092~noop.png,,True,270021050000000,暂无报价,,,,,0,1628413675197068107,27,奔腾,SUV·概念车
+一汽奔腾,指导价：,3,奔腾X6,暂无报价,2108,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef4000106593ca01e24~noop.png,,True,270021080000000,暂无报价,,,,,0,1628413675197069128,27,奔腾,SUV·概念车

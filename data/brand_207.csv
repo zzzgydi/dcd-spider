@@ -1,0 +1,6 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+零跑汽车,指导价：,0,零跑T03,5.98-9.98万,4272,https://p1-dcd.byteimg.com/img/motor-img/846a572aec5fdc674e7cc599e765d102~noop.png,5.97-9.98万,False,2070042720000000,5.98-9.98万,,,,"{'type': 1, 'text': '新增车型'}",,335,1628414053387622817,207,零跑汽车,轿车
+零跑汽车,指导价：,0,零跑S01,11.99-15.09万,1934,https://p1-dcd.byteimg.com/img/motor-img/3b318ce984dc799f5fe64c2b8a74b54d~noop.png,11.99-15.09万,False,2070019340000000,11.99-15.09万,,,,,,327,1628414053387623685,207,零跑汽车,轿车
+零跑汽车,指导价：,0,零跑C11,15.98-19.98万,4731,https://p1-dcd.byteimg.com/img/motor-img/2424e00978716b513ae9ec7537bf4db3~noop.png,15.18-19.18万,False,2070047310000000,15.98-19.98万,,,,,,0,1628414053387625197,207,零跑汽车,SUV
+零跑汽车,指导价：,3,零跑C-more,暂无报价,3370,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000066d7ce8c0e65~noop.png,,True,2070033700000000,暂无报价,,,,,,0,1628414053387627331,207,零跑汽车,SUV·未上市
+零跑汽车,指导价：,3,零跑C01,暂无报价,5106,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,2070051060000000,暂无报价,,,,,,0,1628414053387629067,207,零跑汽车,轿车·概念车

@@ -1,0 +1,46 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+法拉利,指导价：,0,法拉利Roma,238.00万,4274,https://p1-dcd.byteimg.com/img/motor-img/2a85d084ebb7477b747a8f7604dbcb46~noop.png,238.00万,False,440042740000000,238.00万,,,,,414,1628413827637441070,44,法拉利,跑车
+法拉利,指导价：,0,Portofino,263.80万,1699,https://p1-dcd.byteimg.com/img/motor-img/ec879989614edba64cb491b30c9c14e9~noop.png,263.80万,False,440016990000000,263.80万,,,,,0,1628413827637441900,44,法拉利,跑车
+法拉利,指导价：,0,法拉利F8,298.80-341.80万,3177,https://p1-dcd.byteimg.com/img/motor-img/7317ac6a785b72073a9fbf24c1e26734~noop.png,298.80-341.80万,False,440031770000000,298.80-341.80万,,,,,428,1628413827637442664,44,法拉利,跑车
+法拉利,指导价：,0,法拉利SF90,488.80-499.80万,3726,https://p3-dcd.byteimg.com/img/motor-img/910fd56dfef57e7528e9ec46af6c86a7~noop.png,488.80-499.80万,False,440037260000000,488.80-499.80万,,,,,0,1628413827637443165,44,法拉利,跑车
+法拉利,指导价：,0,法拉利488,408.00-449.90万,494,https://p1-dcd.byteimg.com/img/motor-img/e8525633ea9d8b2c09cb0ce363bf2328~noop.png,408.00-449.90万,False,440004940000000,408.00-449.90万,,,,,0,1628413827637443912,44,法拉利,跑车
+法拉利,指导价：,0,法拉利812,485.90-530.00万,503,https://p3-dcd.byteimg.com/img/motor-img/f59669b6142978d7f5ad5846739a4ac3~noop.png,485.90-530.00万,False,440005030000000,485.90-530.00万,,,,,428,1628413827637444416,44,法拉利,跑车
+法拉利,指导价：,3,Purosangue,暂无报价,5214,https://p1-dcd.byteimg.com/img/motor-img/76c0ebbee9b39c0dd2a5cb39b1d53879~noop.png,,True,440052140000000,暂无报价,,,,,0,1628413827637446024,44,法拉利,SUV·未上市
+法拉利,指导价：,3,Omologata,暂无报价,4765,https://p1-dcd.byteimg.com/img/motor-img/a09647adc2c6acf968fcc2a4c4b250a9~noop.png,,True,440047650000000,暂无报价,,,,,0,1628413827637447373,44,法拉利,跑车·未上市
+法拉利,指导价：,3,法拉利296 GTB,暂无报价,5228,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,440052280000000,暂无报价,,,,,0,1628413827637448600,44,法拉利,跑车·未上市
+法拉利,指导价：,3,California T,暂无报价,491,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000a3f17e7c2a5f~noop.png,,True,440004910000000,暂无报价,,,,,0,1628413827637449105,44,法拉利,跑车·未上市
+法拉利,指导价：,3,Monza SP1,暂无报价,3042,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800006b2864fd526e~noop.png,,True,440030420000000,暂无报价,,,,,0,1628413827637449718,44,法拉利,跑车·未上市
+法拉利,指导价：,3,Monza SP2,暂无报价,3043,https://p9-dcd.byteimg.com/img/mosaic-legacy/176740000002e81403fcc~noop.png,,True,440030430000000,暂无报价,,,,,0,1628413827637450673,44,法拉利,跑车·未上市
+法拉利,指导价：,3,法拉利J50,暂无报价,2111,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef800006b09f12253d3~noop.png,,True,440021110000000,暂无报价,,,,,0,1628413827637451285,44,法拉利,跑车·未上市
+法拉利,指导价：,3,法拉利SP3JC,暂无报价,3684,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000e5f66f7e8971~noop.png,,True,440036840000000,暂无报价,,,,,0,1628413827637451754,44,法拉利,跑车·未上市
+法拉利,指导价：,1,GTC4Lusso,314.50-473.20万,495,https://p1-dcd.byteimg.com/img/motor-img/2a3b420e276fae274a1cee0c0ba34093~noop.png,,True,440004950000000,314.50-473.20万,,,,,0,1628413827637452858,44,法拉利,跑车·停售
+法拉利,指导价：,1,F12berlinetta,530.80万,492,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000994aa81301c0~noop.png,,True,440004920000000,530.80万,,,,,0,1628413827637453481,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利550,暂无报价,3219,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000066d0395277e9~noop.png,,True,440032190000000,暂无报价,,,,,0,1628413827637454043,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利360,280.00-300.00万,496,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800006ae83e1d1d91~noop.png,,True,440004960000000,280.00-300.00万,,,,,0,1628413827637454544,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利575M,320.00万,498,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef7000034178804fd3d~noop.png,,True,440004980000000,320.00万,,,,,0,1628413827637455043,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利F430,360.80-445.80万,497,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800003c5d549f8b42~noop.png,,True,440004970000000,360.80-445.80万,,,,,0,1628413827637456166,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利456,暂无报价,3579,https://p1-dcd.byteimg.com/img/mosaic-legacy/17675000068f5a84b4e96~noop.png,,True,440035790000000,暂无报价,,,,,0,1628413827637456853,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利458,388.00-558.80万,501,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de00010c13bb92f298~noop.png,,True,440005010000000,388.00-558.80万,,,,,0,1628413827637457382,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利599,492.80万,500,https://p9-dcd.byteimg.com/img/mosaic-legacy/9b130000301966d2b783~noop.png,,True,440005000000000,492.80万,,,,,0,1628413827637457916,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利FF,530.80万,502,https://p1-dcd.byteimg.com/img/mosaic-legacy/888300009ebe76c9d5bd~noop.png,,True,440005020000000,530.80万,,,,,0,1628413827637458586,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利612,569.80万,499,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500004e3a726669ed~noop.png,,True,440004990000000,569.80万,,,,,0,1628413827637459184,44,法拉利,跑车·停售
+法拉利,指导价：,1,LaFerrari,2250.00万,493,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006bd05b496b0e~noop.png,,True,440004930000000,2250.00万,,,,,0,1628413827637459852,44,法拉利,跑车·停售
+法拉利,指导价：,1,ENZO,暂无报价,1866,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef70000668a6d0bcc22~noop.png,,True,440018660000000,暂无报价,,,,,0,1628413827637460546,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利250 GT,暂无报价,3775,https://p1-dcd.byteimg.com/img/motor-img/b4a767fc6f03e257038fb22562442e3a~noop.png,,True,440037750000000,暂无报价,,,,,0,1628413827637461093,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利212,暂无报价,3776,https://p1-dcd.byteimg.com/img/motor-img/a55fa0fd0c5fa5feb8295fa43995b645~noop.png,,True,440037760000000,暂无报价,,,,,0,1628413827637461861,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利275,暂无报价,3777,https://p3-dcd.byteimg.com/img/motor-img/bdeda9552b837aff0d038e3fc13ef08f~noop.png,,True,440037770000000,暂无报价,,,,,0,1628413827637463092,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利328,暂无报价,3778,https://p1-dcd.byteimg.com/img/motor-img/6794aed5b025daead5acd37a5a9209c5~noop.png,,True,440037780000000,暂无报价,,,,,0,1628413827637464211,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利348,暂无报价,3779,https://p9-dcd.byteimg.com/img/motor-img/1508336d04654b91a08baea737c406b5~noop.png,,True,440037790000000,暂无报价,,,,,0,1628413827637465061,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利375,暂无报价,3780,https://p3-dcd.byteimg.com/img/motor-img/5c8c1100a1f77b4b12d7636f17e6cbcc~noop.png,,True,440037800000000,暂无报价,,,,,0,1628413827637466210,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利400,暂无报价,3781,https://p1-dcd.byteimg.com/img/motor-img/747eeefeb0cf71cad65fa7d168e8a22d~noop.png,,True,440037810000000,暂无报价,,,,,0,1628413827637466952,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利410,暂无报价,3782,https://p1-dcd.byteimg.com/img/motor-img/54e4ab2acb2086ed358f0c9588db2c33~noop.png,,True,440037820000000,暂无报价,,,,,0,1628413827637467575,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利500,暂无报价,3783,https://p1-dcd.byteimg.com/img/motor-img/21b28a1a08d757c570e69dceb3e60a3a~noop.png,,True,440037830000000,暂无报价,,,,,0,1628413827637468150,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利F40,暂无报价,3784,https://p1-dcd.byteimg.com/img/motor-img/b000f48a1de8f397212c359e264e8751~noop.png,,True,440037840000000,暂无报价,,,,,0,1628413827637468779,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利F50,暂无报价,3785,https://p9-dcd.byteimg.com/img/motor-img/77be16c15ed5d923973ff57d4be9a396~noop.png,,True,440037850000000,暂无报价,,,,,0,1628413827637469359,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利F355,暂无报价,3786,https://p1-dcd.byteimg.com/img/motor-img/a20e101709d0a0a88159e189b75d6e66~noop.png,,True,440037860000000,暂无报价,,,,,0,1628413827637469938,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利GTO,暂无报价,3787,https://p1-dcd.byteimg.com/img/motor-img/46360d7e978eb92c1c707d2ee488aae9~noop.png,,True,440037870000000,暂无报价,,,,,0,1628413827637470492,44,法拉利,跑车·停售
+法拉利,指导价：,1,Dino,暂无报价,3968,https://p1-dcd.byteimg.com/img/motor-img/798a735e2584f7c2215e316b966cd3cc~noop.png,,True,440039680000000,暂无报价,,,,,0,1628413827637471193,44,法拉利,跑车·停售
+法拉利,指导价：,1,法拉利308,暂无报价,3574,https://p1-dcd.byteimg.com/img/mosaic-legacy/17676000015a4d404babc~noop.png,,True,440035740000000,暂无报价,,,,,0,1628413827637472053,44,法拉利,跑车·停售
+法拉利,指导价：,3,法拉利P80/C,暂无报价,3788,https://p1-dcd.byteimg.com/img/motor-img/3a01f2a083109770cc20dee7997b18a8~noop.png,,True,440037880000000,暂无报价,,,,,0,1628413827637473247,44,法拉利,跑车·概念车
+法拉利,指导价：,3,Sergio,暂无报价,2500,https://p1-dcd.byteimg.com/img/motor-img/e74aff745fcc158ece1a775c31700a1a~noop.png,,True,440025000000000,暂无报价,,,,,0,1628413827637473842,44,法拉利,跑车·概念车
+法拉利,指导价：,3,法拉利SP38,暂无报价,2925,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400003b7162bc849f~noop.png,,True,440029250000000,暂无报价,,,,,0,1628413827637474388,44,法拉利,跑车·概念车

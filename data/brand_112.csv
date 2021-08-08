@@ -1,0 +1,8 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+蔚来,指导价：,0,蔚来ET7,44.80-52.60万,3478,https://p1-dcd.byteimg.com/img/motor-img/9dbf9bbf2cd623f86f6d872796a75f79~noop.png,44.30-52.10万,False,1120034780000000,44.80-52.60万,,,,,0,1628414401672524624,112,蔚来,轿车
+蔚来,指导价：,0,蔚来ES6,35.80-52.60万,2843,https://p1-dcd.byteimg.com/img/motor-img/6c923efdd0639f2ae5e921325cb516f2~noop.png,34.65-50.80万,False,1120028430000000,35.80-52.60万,,,,,406,1628414401672526297,112,蔚来,SUV
+蔚来,指导价：,0,蔚来EC6,36.80-52.60万,4357,https://p1-dcd.byteimg.com/img/motor-img/7ee326810d8b5c4cd7ec4b12c72161e4~noop.png,35.36-50.80万,False,1120043570000000,36.80-52.60万,,,,,402,1628414401672526933,112,蔚来,SUV
+蔚来,指导价：,0,蔚来ES8,46.80-62.40万,1616,https://p1-dcd.byteimg.com/img/motor-img/7dd1bdb8fea294631e7d354e374f7c41~noop.png,45.36-60.60万,False,1120016160000000,46.80-62.40万,,,,,407,1628414401672527714,112,蔚来,SUV
+蔚来,指导价：,3,formula E赛车,暂无报价,5088,https://p9-dcd.byteimg.com/img/motor-img/22c03379e58efe87619ead0a969b0477~noop.png,,True,1120050880000000,暂无报价,,,,,0,1628414401672530307,112,蔚来,跑车·未上市
+蔚来,指导价：,1,蔚来EP9,暂无报价,1265,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600002c2a9af08056~noop.png,,True,1120012650000000,暂无报价,,,,,0,1628414401672532377,112,蔚来,跑车·停售
+蔚来,指导价：,3,蔚来EVE,暂无报价,2077,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000cf3311c0c2d2~noop.png,,True,1120020770000000,暂无报价,,,,,0,1628414401672534125,112,蔚来,轿车·概念车

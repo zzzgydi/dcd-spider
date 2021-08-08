@@ -1,0 +1,54 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+广汽三菱,指导价：,0,劲炫ASX,9.98-13.98万,1198,https://p1-dcd.byteimg.com/img/motor-img/7e11d70130ec54a44a1caaedf7f43c39~noop.png,8.98-11.98万,False,260011980000000,9.98-13.98万,,,,,341,1628414287275398793,26,三菱,SUV
+广汽三菱,指导价：,0,奕歌,12.98-18.58万,2932,https://p1-dcd.byteimg.com/img/motor-img/99c469d3813d3c2998ccc2817e391da1~noop.png,10.98-18.58万,False,260029320000000,12.98-18.58万,,,,,368,1628414287275399825,26,三菱,SUV
+广汽三菱,指导价：,0,欧蓝德,15.98-22.58万,1199,https://p1-dcd.byteimg.com/img/motor-img/e9ea951a954bd6efdec4293a6057bb11~noop.png,13.98-20.58万,False,260011990000000,15.98-22.58万,,,,,361,1628414287275400387,26,三菱,SUV
+三菱(进口),指导价：,3,三菱i,暂无报价,2299,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000970dff15a426~noop.png,,True,260022990000000,暂无报价,,,,,0,1628414287275402305,26,三菱,轿车·未上市
+三菱(进口),指导价：,3,Attrage,暂无报价,2349,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500003107ccf6027e~noop.png,,True,260023490000000,暂无报价,,,,,0,1628414287275403372,26,三菱,轿车·未上市
+三菱(进口),指导价：,3,三菱eK,暂无报价,2360,https://p1-dcd.byteimg.com/img/motor-img/e7655c7ac94f3206529cf660acebc3b6~noop.png,,True,260023600000000,暂无报价,,,,,0,1628414287275404531,26,三菱,轿车·未上市
+三菱(进口),指导价：,3,Mirage,暂无报价,2478,https://p1-dcd.byteimg.com/img/motor-img/86325cfeafaba56860676dab928d8c99~noop.png,,True,260024780000000,暂无报价,,,,,0,1628414287275405397,26,三菱,轿车·未上市
+三菱(进口),指导价：,3,Mirage G4,暂无报价,2673,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000df16c0f1e574~noop.png,,True,260026730000000,暂无报价,,,,,0,1628414287275406413,26,三菱,轿车·未上市
+三菱(进口),指导价：,3,Global Small,暂无报价,2369,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000f96b1dfc4186~noop.png,,True,260023690000000,暂无报价,,,,,0,1628414287275407458,26,三菱,轿车·未上市
+三菱(进口),指导价：,3,GRAND LANCER,暂无报价,2005,https://p1-dcd.byteimg.com/img/motor-img/0d77cc23e74f6aa7973e396f38e2c6bc~noop.png,,True,260020050000000,暂无报价,,,,,0,1628414287275408132,26,三菱,轿车·未上市
+广汽三菱,指导价：,3,阿图柯,暂无报价,5121,https://p1-dcd.byteimg.com/img/motor-img/e96c92609cd85e55c456ebe5ff585d47~noop.png,,True,260051210000000,暂无报价,,,,,0,1628414287275409441,26,三菱,SUV·未上市
+三菱(进口),指导价：,3,奕歌(海外),暂无报价,1764,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000004c17603be6e~noop.png,,True,260017640000000,暂无报价,,,,,0,1628414287275410127,26,三菱,SUV·未上市
+三菱(进口),指导价：,3,奕歌PHEV(海外),暂无报价,4735,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,260047350000000,暂无报价,,,,,0,1628414287275410837,26,三菱,SUV·未上市
+三菱(进口),指导价：,3,欧蓝德PHEV(进口),暂无报价,2718,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30001412d71f2737a~noop.png,,True,260027180000000,暂无报价,,,,,0,1628414287275411599,26,三菱,SUV·未上市
+三菱(进口),指导价：,3,Endeavor,暂无报价,2363,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002c4c6c346067~noop.png,,True,260023630000000,暂无报价,,,,,0,1628414287275412404,26,三菱,SUV·未上市
+三菱(进口),指导价：,3,劲炫ASX(进口),暂无报价,1203,https://p3-dcd.byteimg.com/img/motor-img/89702cbe5a8cfae317a45b19e1765f04~noop.png,,True,260012030000000,暂无报价,,,,,0,1628414287275413520,26,三菱,SUV·未上市
+三菱(进口),指导价：,3,Xpander,暂无报价,1654,https://p3-dcd.byteimg.com/img/motor-img/092de2283729b3a5a22e6553f339d663~noop.png,,True,260016540000000,暂无报价,,,,,0,1628414287275414700,26,三菱,MPV·未上市
+三菱(进口),指导价：,3,Delica,暂无报价,3245,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000b0a8140980ee~noop.png,,True,260032450000000,暂无报价,,,,,0,1628414287275415512,26,三菱,MPV·未上市
+三菱(进口),指导价：,3,三菱Express,暂无报价,4533,https://p1-dcd.byteimg.com/img/motor-img/978b2bc1078af9db6948586867ad57a5~noop.png,,True,260045330000000,暂无报价,,,,,0,1628414287275416164,26,三菱,MPV·未上市
+三菱(进口),指导价：,1,Colt,暂无报价,3526,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef00000d39ff7fa6370~noop.png,,True,260035260000000,暂无报价,,,,,0,1628414287275417618,26,三菱,轿车·停售
+东南汽车,指导价：,1,蓝瑟,6.98-11.48万,476,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000ca08c54cb3f8~noop.png,,True,260004760000000,6.98-11.48万,,,,,0,1628414287275418392,26,三菱,轿车·停售
+三菱(进口),指导价：,1,LANCER,21.80-50.80万,1202,https://p1-dcd.byteimg.com/img/motor-img/46524907a56153de63cf298e82acb72b~noop.png,,True,260012020000000,21.80-50.80万,,,,,375,1628414287275418971,26,三菱,轿车·停售
+东南汽车,指导价：,1,翼神,9.58-16.98万,478,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400004cc293f03fac~noop.png,,True,260004780000000,9.58-16.98万,,,,,0,1628414287275419749,26,三菱,轿车·停售
+东南汽车,指导价：,1,风迪思,9.88-14.98万,481,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700003ef55d178b97~noop.png,,True,260004810000000,9.88-14.98万,,,,,0,1628414287275420469,26,三菱,轿车·停售
+东南汽车,指导价：,1,三菱戈蓝,14.98-21.98万,483,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600003f1cdc9e3ebd~noop.png,,True,260004830000000,14.98-21.98万,,,,,0,1628414287275421277,26,三菱,轿车·停售
+广汽三菱,指导价：,1,帕杰罗·劲畅,20.88-30.88万,1200,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000098421f2fed31~noop.png,,True,260012000000000,20.88-30.88万,,,,,0,1628414287275422493,26,三菱,SUV·停售
+三菱(进口),指导价：,1,帕杰罗·劲畅(进口),27.98-39.80万,1205,https://p1-dcd.byteimg.com/img/motor-img/edc3e22a27d1d49559739fd2486fb552~noop.png,,True,260012050000000,27.98-39.80万,,,,,373,1628414287275423046,26,三菱,SUV·停售
+三菱(进口),指导价：,1,帕杰罗(进口),29.00-65.00万,1206,https://p1-dcd.byteimg.com/img/motor-img/856976a1a6ad80c5178af7735e5959e3~noop.png,,True,260012060000000,29.00-65.00万,,,,,362,1628414287275424077,26,三菱,SUV·停售
+北京吉普,指导价：,1,欧蓝德经典,15.48-21.98万,1196,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef8000066b820193aae~noop.png,,True,260011960000000,15.48-21.98万,,,,,0,1628414287275424690,26,三菱,SUV·停售
+广汽三菱,指导价：,1,帕杰罗,29.80-48.60万,1201,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef800006af495e86cfc~noop.png,,True,260012010000000,29.80-48.60万,,,,,0,1628414287275425351,26,三菱,SUV·停售
+北京吉普,指导价：,1,帕杰罗速跑,18.20-38.60万,1197,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef700006665b76557ec~noop.png,,True,260011970000000,18.20-38.60万,,,,,0,1628414287275425961,26,三菱,SUV·停售
+三菱(进口),指导价：,1,欧蓝德(进口),19.98-37.40万,1204,https://p9-dcd.byteimg.com/img/mosaic-legacy/9b13000151edc2cb7d5c~noop.png,,True,260012040000000,19.98-37.40万,,,,,0,1628414287275426616,26,三菱,SUV·停售
+东南汽车,指导价：,1,君阁,12.98-17.98万,489,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef5000099a9dcb14f64~noop.png,,True,260004890000000,12.98-17.98万,,,,,0,1628414287275427882,26,三菱,MPV·停售
+三菱(进口),指导价：,1,格蓝迪,25.25-31.80万,1207,https://p1-dcd.byteimg.com/img/mosaic-legacy/176760000110737723477~noop.png,,True,260012070000000,25.25-31.80万,,,,,0,1628414287275428499,26,三菱,MPV·停售
+三菱(进口),指导价：,1,伊柯丽斯,29.80-33.80万,1208,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000cb84480572a3~noop.png,,True,260012080000000,29.80-33.80万,,,,,0,1628414287275429386,26,三菱,跑车·停售
+三菱(进口),指导价：,1,三菱3000GT,暂无报价,3853,https://p9-dcd.byteimg.com/img/motor-img/61852af92b2fb16615af1973eb017912~noop.png,,True,260038530000000,暂无报价,,,,,0,1628414287275430116,26,三菱,跑车·停售
+三菱(进口),指导价：,1,Street Raider,暂无报价,4111,https://p1-dcd.byteimg.com/img/motor-img/25f8715a61c2e9b042b979bac17bc75a~noop.png,,True,260041110000000,暂无报价,,,,,0,1628414287275431171,26,三菱,皮卡·停售
+三菱(进口),指导价：,3,Super Height K-Wagon,暂无报价,4176,https://p9-dcd.byteimg.com/img/motor-img/b72a4f2cf5ce4a8724c89c1637dc1da2~noop.png,,True,260041760000000,暂无报价,,,,,0,1628414287275432106,26,三菱,轿车·概念车
+三菱(进口),指导价：,3,三菱CA-MiEV,暂无报价,2563,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000004d99c62c5fb~noop.png,,True,260025630000000,暂无报价,,,,,0,1628414287275432867,26,三菱,轿车·概念车
+三菱(进口),指导价：,3,三菱G4,暂无报价,2308,https://p1-dcd.byteimg.com/img/motor-img/d6c99f928db2a4facb6196295b7e584c~noop.png,,True,260023080000000,暂无报价,,,,,0,1628414287275433857,26,三菱,轿车·概念车
+三菱(进口),指导价：,3,三菱eX,暂无报价,2260,https://p9-dcd.byteimg.com/img/motor-img/3d4665154f03c643377a7aa97b95ae3b~noop.png,,True,260022600000000,暂无报价,,,,,0,1628414287275435776,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱XR-PHEV,暂无报价,2633,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef000013ffa6df79c32~noop.png,,True,260026330000000,暂无报价,,,,,0,1628414287275436948,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱PX-MiEV,暂无报价,3298,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000bd529058b215~noop.png,,True,260032980000000,暂无报价,,,,,0,1628414287275437900,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱GT-PHEV,暂无报价,2218,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006a818dc3c06d~noop.png,,True,260022180000000,暂无报价,,,,,0,1628414287275439002,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱MI-TECH,暂无报价,4177,https://p1-dcd.byteimg.com/img/motor-img/1e08f5a9f530265b4f9844441d79a45c~noop.png,,True,260041770000000,暂无报价,,,,,0,1628414287275440385,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,e-EVOLUTION,暂无报价,1947,https://p1-dcd.byteimg.com/img/motor-img/2e494e4ec93a3664e5efb6061b3601ef~noop.png,,True,260019470000000,暂无报价,,,,,0,1628414287275441675,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱GC-PHEV,暂无报价,2626,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006aca26f2c36d~noop.png,,True,260026260000000,暂无报价,,,,,0,1628414287275442646,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱e-Yi,暂无报价,3384,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000c874a947ba5f~noop.png,,True,260033840000000,暂无报价,,,,,0,1628414287275443869,26,三菱,SUV·概念车
+三菱(进口),指导价：,3,三菱XM,暂无报价,2217,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef00013cda0ed38928~noop.png,,True,260022170000000,暂无报价,,,,,0,1628414287275445596,26,三菱,MPV·概念车
+三菱(进口),指导价：,3,三菱AR,暂无报价,2624,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767600001598594adaa8~noop.png,,True,260026240000000,暂无报价,,,,,0,1628414287275446666,26,三菱,MPV·概念车
+三菱(进口),指导价：,3,三菱RA,暂无报价,3321,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000066d5826c62c8~noop.png,,True,260033210000000,暂无报价,,,,,0,1628414287275447702,26,三菱,跑车·概念车
+三菱(进口),指导价：,3,三菱L200,暂无报价,2627,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000106f883f59fbc~noop.png,,True,260026270000000,暂无报价,,,,,0,1628414287275449386,26,三菱,皮卡·概念车
+三菱(进口),指导价：,3,三菱GR-HEV,暂无报价,2564,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000bfa93d82ed4d~noop.png,,True,260025640000000,暂无报价,,,,,0,1628414287275450040,26,三菱,皮卡·概念车

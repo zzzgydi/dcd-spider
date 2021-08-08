@@ -1,0 +1,25 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+奇瑞捷豹路虎,指导价：,0,捷豹XEL,29.98-38.08万,1789,https://p1-dcd.byteimg.com/img/motor-img/4ed25584673478bb253640103995b474~noop.png,23.88-30.36万,False,310017890000000,29.98-38.08万,,,,,397,1628413963440655046,31,捷豹,轿车
+奇瑞捷豹路虎,指导价：,0,捷豹XFL,37.58-57.88万,798,https://p1-dcd.byteimg.com/img/motor-img/190c57af7bbbeef1fe4d861898bc4fb0~noop.png,30.78-47.48万,False,310007980000000,37.58-57.88万,,,,,400,1628413963440656063,31,捷豹,轿车
+奇瑞捷豹路虎,指导价：,0,捷豹E-PACE,28.18-38.58万,2816,https://p1-dcd.byteimg.com/img/motor-img/8240383a232d8f8e38756d2c34ca5253~noop.png,16.91-23.15万,False,310028160000000,28.18-38.58万,,,,,381,1628413963440658069,31,捷豹,SUV
+捷豹,指导价：,0,捷豹F-PACE,45.68-78.78万,795,https://p1-dcd.byteimg.com/img/motor-img/e48a085b6cd509a929daa2db503bce6f~noop.png,35.68-59.08万,False,310007950000000,45.68-78.78万,,,,,395,1628413963440659121,31,捷豹,SUV
+捷豹,指导价：,0,捷豹I-PACE,63.08-70.88万,2074,https://p1-dcd.byteimg.com/img/motor-img/75a43e5b237d6a99c6414a796bef2d44~noop.png,39.60-44.67万,False,310020740000000,63.08-70.88万,,,,,0,1628413963440659942,31,捷豹,SUV
+捷豹,指导价：,0,捷豹F-TYPE,58.20-91.80万,796,https://p1-dcd.byteimg.com/img/motor-img/a5e84abd8eef6dbcf5e2a3540b936487~noop.png,58.20-91.80万,False,310007960000000,58.20-91.80万,,,,,402,1628413963440661396,31,捷豹,跑车
+捷豹,指导价：,3,捷豹E-Type,暂无报价,1717,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef2000143e029a380d5~noop.png,,True,310017170000000,暂无报价,,,,,0,1628413963440664808,31,捷豹,轿车·未上市
+捷豹,指导价：,3,捷豹E-PACE(海外),暂无报价,1588,https://p9-dcd.byteimg.com/img/mosaic-legacy/17674000003f10042983e~noop.png,,True,310015880000000,暂无报价,,,,,0,1628413963440666146,31,捷豹,SUV·未上市
+捷豹,指导价：,3,捷豹E-PACE PHEV,暂无报价,4788,https://p3-dcd.byteimg.com/img/motor-img/dca8bf7d4dae5057a6b299396abbec97~noop.png,,True,310047880000000,暂无报价,,,,,0,1628413963440666898,31,捷豹,SUV·未上市
+捷豹,指导价：,3,捷豹F-PACE新能源,暂无报价,4726,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,310047260000000,暂无报价,,,,,0,1628413963440667699,31,捷豹,SUV·未上市
+捷豹,指导价：,3,捷豹C-X75,暂无报价,2428,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c5f0928b41c6~noop.png,,True,310024280000000,暂无报价,,,,,0,1628413963440669164,31,捷豹,跑车·未上市
+捷豹,指导价：,1,捷豹XF,45.58-188.80万,792,https://p1-dcd.byteimg.com/img/motor-img/9e5f19a2cc70e93e10d4f34b3d5752f5~noop.png,,True,310007920000000,45.58-188.80万,,,,,0,1628413963440670896,31,捷豹,轿车·停售
+捷豹,指导价：,1,捷豹XJ,79.80-308.80万,794,https://p1-dcd.byteimg.com/img/motor-img/397eb3cbd5b430440a734c5b476fe7f1~noop.png,,True,310007940000000,79.80-308.80万,,,,,0,1628413963440671740,31,捷豹,轿车·停售
+捷豹,指导价：,1,捷豹XE,39.80-61.00万,790,https://p3-dcd.byteimg.com/img/motor-img/a77061f7de45973f96e4ce4a9b34a70b~noop.png,,True,310007900000000,39.80-61.00万,,,,,0,1628413963440672399,31,捷豹,轿车·停售
+捷豹,指导价：,1,捷豹X-Type,53.00万,791,https://p1-dcd.byteimg.com/img/motor-img/2098fc81fadb816d280f8d738f691ff4~noop.png,,True,310007910000000,53.00万,,,,,0,1628413963440673050,31,捷豹,轿车·停售
+捷豹,指导价：,1,捷豹S-Type,63.30-103.00万,793,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef00000b4cc8ccadb0d~noop.png,,True,310007930000000,63.30-103.00万,,,,,0,1628413963440673702,31,捷豹,轿车·停售
+捷豹,指导价：,1,捷豹XK,142.00-261.80万,797,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef00013ccce3a440f2~noop.png,,True,310007970000000,142.00-261.80万,,,,,0,1628413963440675098,31,捷豹,跑车·停售
+捷豹,指导价：,1,捷豹D-Type,暂无报价,3440,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef800006725bf42ab46~noop.png,,True,310034400000000,暂无报价,,,,,0,1628413963440675809,31,捷豹,跑车·停售
+捷豹,指导价：,1,捷豹SS100,暂无报价,3817,https://p9-dcd.byteimg.com/img/motor-img/5777dadff14a035331c588ecd9ab6a35~noop.png,,True,310038170000000,暂无报价,,,,,0,1628413963440676364,31,捷豹,跑车·停售
+捷豹,指导价：,1,捷豹C-Type,暂无报价,3262,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000ac3972ff0295~noop.png,,True,310032620000000,暂无报价,,,,,0,1628413963440677132,31,捷豹,跑车·停售
+捷豹,指导价：,3,FUTURE-TYPE,暂无报价,1735,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000df2840499725~noop.png,,True,310017350000000,暂无报价,,,,,0,1628413963440678185,31,捷豹,轿车·概念车
+捷豹,指导价：,3,捷豹B99,暂无报价,2426,https://p1-dcd.byteimg.com/img/mosaic-legacy/474800007b90d0d5b5b6~noop.png,,True,310024260000000,暂无报价,,,,,0,1628413963440679215,31,捷豹,轿车·概念车
+捷豹,指导价：,3,捷豹C-X16,暂无报价,2427,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef7000054199b3b1722~noop.png,,True,310024270000000,暂无报价,,,,,0,1628413963440680531,31,捷豹,跑车·概念车
+捷豹,指导价：,3,捷豹Vision Gran Turismo,暂无报价,4225,https://p1-dcd.byteimg.com/img/motor-img/15b2972e1bae0847a8700ecb7feb726f~noop.png,,True,310042250000000,暂无报价,,,,,0,1628413963440681425,31,捷豹,跑车·概念车

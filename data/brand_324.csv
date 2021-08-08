@@ -1,0 +1,6 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+LEVC,指导价：,2,LEVC TX,暂无报价,4779,https://p1-dcd.byteimg.com/img/motor-img/0ab4fbed99a45047ef11569679f95caf~noop.png,暂无报价,True,3240047790000000,暂无报价,暂无上市时间,暂无报价,,"{'type': 4, 'text': '即将上市'}",,0,1628414085059527593,324,LEVC,MPV
+LEVC(进口),指导价：,3,LEVC LX,暂无报价,4756,https://p1-dcd.byteimg.com/img/motor-img/ab6c89e53c96649d8801e39aba4fe665~noop.png,,True,3240047560000000,暂无报价,,,,,,0,1628414085059530288,324,LEVC,MPV·未上市
+LEVC(进口),指导价：,3,LEVC TX(海外),92.51-101.17万,4055,https://p1-dcd.byteimg.com/img/motor-img/844f2203b4e0497f132a2239228234b7~noop.png,,True,3240040550000000,92.51-101.17万,,,,,,0,1628414085059531260,324,LEVC,MPV·未上市
+LEVC(进口),指导价：,3,LEVC e-Camper,暂无报价,5231,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,3240052310000000,暂无报价,,,,,,0,1628414085059532812,324,LEVC,MPV·未上市
+LEVC(进口),指导价：,3,LEVC LCV,暂无报价,4559,https://p1-dcd.byteimg.com/img/motor-img/7843307dee1ff8fb1d8b10b5aa81b022~noop.png,,True,3240045590000000,暂无报价,,,,,,0,1628414085059534916,324,LEVC,轻客·未上市

@@ -1,0 +1,27 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+东风乘用车,指导价：,0,奕炫,6.99-9.89万,3365,https://p1-dcd.byteimg.com/img/motor-img/4202b9f1f325aa7f3f2f5cfddc72bf37~noop.png,6.99-9.39万,False,370033650000000,6.99-9.89万,,,,,360,1628413772189245077,37,东风风神,轿车,
+东风乘用车,指导价：,2,奕炫MAX,暂无报价,5031,https://p1-dcd.byteimg.com/img/motor-img/6fe12870279d4ad84127edfeb0b27e4b~noop.png,暂无报价,True,370050310000000,暂无报价,暂无上市时间,9.79-11.59万,,,0,1628413772189245937,37,东风风神,轿车,"{'type': 4, 'text': '即将上市'}"
+东风乘用车,指导价：,0,奕炫EV,14.98-15.98万,4164,https://p1-dcd.byteimg.com/img/motor-img/b262d8b1f42e823a250c0e03c9245727~noop.png,14.98-15.98万,False,370041640000000,14.98-15.98万,,,,,0,1628413772189246872,37,东风风神,轿车,
+东风乘用车,指导价：,0,东风风神E60,13.27-13.97万,5265,https://p1-dcd.byteimg.com/img/motor-img/3645e5106165def002a7ab1f2300c71c~noop.png,13.27-13.97万,False,370052650000000,13.27-13.97万,,,,,0,1628413772189247422,37,东风风神,轿车,"{'type': 3, 'text': '全新车系'}"
+东风乘用车,指导价：,0,东风风神E70,13.28-15.98万,1655,https://p1-dcd.byteimg.com/img/motor-img/3645e5106165def002a7ab1f2300c71c~noop.png,13.28-15.98万,False,370016550000000,13.28-15.98万,,,,,0,1628413772189248230,37,东风风神,轿车,"{'type': 1, 'text': '新增车型'}"
+东风乘用车,指导价：,0,东风风神AX4,7.59-9.39万,1689,https://p1-dcd.byteimg.com/img/motor-img/ec0cc53b0807f0c4dd39261fd1341411~noop.png,7.59-9.39万,False,370016890000000,7.59-9.39万,,,,,0,1628413772189249673,37,东风风神,SUV,
+东风乘用车,指导价：,0,奕炫GS,7.49-10.89万,4487,https://p1-dcd.byteimg.com/img/motor-img/774e15a01fccdd682927b7333276e494~noop.png,7.49-10.19万,False,370044870000000,7.49-10.89万,,,,,0,1628413772189250224,37,东风风神,SUV,
+东风乘用车,指导价：,0,东风风神AX7,8.98-14.39万,457,https://p1-dcd.byteimg.com/img/motor-img/5c9e6739d8413c60ae4a07702425f882~noop.png,8.98-13.19万,False,370004570000000,8.98-14.39万,,,,,369,1628413772189251046,37,东风风神,SUV,
+东风雷诺,指导价：,3,风诺,暂无报价,2129,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800001b4d5161fc4d~noop.png,,True,370021290000000,暂无报价,,,,,0,1628413772189252924,37,东风风神,轿车·未上市,
+东风乘用车,指导价：,3,东风风神D01,暂无报价,4123,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,370041230000000,暂无报价,,,,,0,1628413772189254146,37,东风风神,SUV·未上市,
+东风乘用车,指导价：,3,东风风神AX5 EV,暂无报价,1841,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef500006f62a1208d19~noop.png,,True,370018410000000,暂无报价,,,,,0,1628413772189254950,37,东风风神,SUV·未上市,
+东风乘用车,指导价：,3,东风风神AX7 PHEV,暂无报价,1779,https://p9-dcd.byteimg.com/img/mosaic-legacy/9b13000154a6074153e1~noop.png,,True,370017790000000,暂无报价,,,,,0,1628413772189255640,37,东风风神,SUV·未上市,
+东风乘用车,指导价：,3,东风风神AX7 FCV,暂无报价,3397,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef20000d1088627822f~noop.png,,True,370033970000000,暂无报价,,,,,0,1628413772189256522,37,东风风神,SUV·未上市,
+东风乘用车,指导价：,3,氢舟e·H2,暂无报价,4757,https://p3-dcd.byteimg.com/img/motor-img/00cbd102aac1eaeed15c2db4a2a8195b~noop.png,,True,370047570000000,暂无报价,,,,,0,1628413772189257401,37,东风风神,SUV·未上市,
+东风乘用车,指导价：,3,东风风神AX1,暂无报价,3944,https://p1-dcd.byteimg.com/img/motor-img/f2a2ca42fdefdf358ed7803b671f8357~noop.png,,True,370039440000000,暂无报价,,,,,0,1628413772189258147,37,东风风神,SUV·未上市,
+东风乘用车,指导价：,1,东风风神A30,5.97-8.57万,453,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef200009c28e9e416ae~noop.png,,True,370004530000000,5.97-8.57万,,,,,0,1628413772189259726,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风风神A60,6.97-15.47万,451,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef400001d2eacbac777~noop.png,,True,370004510000000,6.97-15.47万,,,,,0,1628413772189261260,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风风神L60,8.97-12.97万,454,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700003412c41145c5~noop.png,,True,370004540000000,8.97-12.97万,,,,,0,1628413772189261996,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风风神E30,15.98-19.98万,449,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300001aeba98a8139~noop.png,,True,370004490000000,15.98-19.98万,,,,,0,1628413772189263038,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风风神H30,6.58-9.98万,452,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000030129b5379f4~noop.png,,True,370004520000000,6.58-9.98万,,,,,0,1628413772189263942,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风风神S30,5.98-9.98万,450,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef5000099a70a0423af~noop.png,,True,370004500000000,5.98-9.98万,,,,,0,1628413772189264837,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风A9,17.97-21.97万,422,https://p3-dcd.byteimg.com/img/motor-img/bc9592ae073a4ca0d46127207b111653~noop.png,,True,370004220000000,17.97-21.97万,,,,,0,1628413772189265733,37,东风风神,轿车·停售,
+东风乘用车,指导价：,1,东风风神AX3,6.39-8.79万,455,https://p1-dcd.byteimg.com/img/motor-img/05abb0df78a480ac40d5471a57183f50~noop.png,,True,370004550000000,6.39-8.79万,,,,,0,1628413772189267013,37,东风风神,SUV·停售,
+东风乘用车,指导价：,1,东风风神AX5,8.59-12.87万,456,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400001a8263db4ae3~noop.png,,True,370004560000000,8.59-12.87万,,,,,0,1628413772189267872,37,东风风神,SUV·停售,
+东风乘用车,指导价：,3,东风风神e.π2021,暂无报价,5077,https://p1-dcd.byteimg.com/img/motor-img/a6fe07b40f0c4e646cb55341e21c200d~noop.png,,True,370050770000000,暂无报价,,,,,0,1628413772189269457,37,东风风神,SUV·概念车,
+东风乘用车,指导价：,3,东风风神e.π,暂无报价,2856,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000f5aea1599edb~noop.png,,True,370028560000000,暂无报价,,,,,0,1628413772189272113,37,东风风神,跑车·概念车,

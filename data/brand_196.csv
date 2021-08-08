@@ -1,0 +1,4 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+Polestar,指导价：,0,Polestar 2,25.28-33.80万,3166,https://p1-dcd.byteimg.com/img/motor-img/a37677a533fb3109e4502068cbf7c443~noop.png,25.28-33.80万,False,1960031660000000,25.28-33.80万,,,,,395,1628414199270584155,196,Polestar极星,轿车
+Polestar,指导价：,0,Polestar 1,145.00万,1778,https://p1-dcd.byteimg.com/img/motor-img/24875c76946683afcfa4b5d82f9802c2~noop.png,145.00万,False,1960017780000000,145.00万,,,,,421,1628414199270586260,196,Polestar极星,跑车
+Polestar,指导价：,3,Precept,暂无报价,4431,https://p1-dcd.byteimg.com/img/motor-img/a2d85494e11d384b289857f49cfec66f~noop.png,,True,1960044310000000,暂无报价,,,,,0,1628414199270588925,196,Polestar极星,轿车·概念车

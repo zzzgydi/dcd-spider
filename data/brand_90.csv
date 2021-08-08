@@ -1,0 +1,13 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+南京依维柯,指导价：,0,依维柯欧胜,14.29-32.59万,1777,https://p1-dcd.byteimg.com/img/motor-img/28ab599386e0088be05b2a03f1a28b2c~noop.png,14.29-32.59万,False,900017770000000,14.29-32.59万,,,,"{'type': 1, 'text': '新增车型'}",,0,1628414456379058312,90,依维柯,轻客
+南京依维柯,指导价：,0,依维柯得意,12.44-17.00万,1418,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef1000095626cfe1132~noop.png,12.44-17.00万,False,900014180000000,12.44-17.00万,,,,,,0,1628414456379059724,90,依维柯,轻客
+南京依维柯,指导价：,0,依维柯Ouba,28.15-36.09万,1420,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100008503de7d6b2d~noop.png,28.15-36.09万,False,900014200000000,28.15-36.09万,,,,,,0,1628414456379060599,90,依维柯,轻客
+南京依维柯,指导价：,0,依维柯褒迪EV,21.77-30.69万,3127,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000876f2bf8d1be~noop.png,21.77-30.69万,False,900031270000000,21.77-30.69万,,,,"{'type': 1, 'text': '新增车型'}",,0,1628414456379061424,90,依维柯,轻客
+南京依维柯,指导价：,0,依维柯欧胜EV,22.47-24.09万,3718,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000fdf33c265bc3~noop.png,22.47-24.09万,False,900037180000000,22.47-24.09万,,,,"{'type': 3, 'text': '全新车系'}",,0,1628414456379062503,90,依维柯,轻客
+依维柯(进口),指导价：,3,Campagnola,暂无报价,2545,https://p1-dcd.byteimg.com/img/motor-img/fa456bca0cc175cbb60b683cb2ac7700~noop.png,,True,900025450000000,暂无报价,,,,,,0,1628414456379064861,90,依维柯,SUV·未上市
+依维柯(进口),指导价：,3,Massif,暂无报价,2526,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef80000017a72c96e02~noop.png,,True,900025260000000,暂无报价,,,,,,0,1628414456379066351,90,依维柯,SUV·未上市
+依维柯(进口),指导价：,3,Iveco VISION,暂无报价,2628,https://p3-dcd.byteimg.com/img/mosaic-legacy/474700008274c73792cd~noop.png,,True,900026280000000,暂无报价,,,,,,0,1628414456379068871,90,依维柯,MPV·未上市
+依维柯(进口),指导价：,3,Daily,暂无报价,4198,https://p1-dcd.byteimg.com/img/motor-img/a66d287eb6584b7954547d73b4322f01~noop.png,,True,900041980000000,暂无报价,,,,,,0,1628414456379070652,90,依维柯,轻客·未上市
+南京依维柯,指导价：,1,依维柯褒迪,13.09-32.49万,1419,https://p1-dcd.byteimg.com/img/motor-img/879782939de8147197f96bdeab21094d~noop.png,,True,900014190000000,13.09-32.49万,,,,,,0,1628414456379072698,90,依维柯,轻客·停售
+南京依维柯,指导价：,1,依维柯威尼斯之旅,20.24-32.18万,2227,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300010d739782fd25~noop.png,,True,900022270000000,20.24-32.18万,,,,,,0,1628414456379073788,90,依维柯,轻客·停售
+南京依维柯,指导价：,1,都灵,12.49-22.20万,1868,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000c3ca2ed43065~noop.png,,True,900018680000000,12.49-22.20万,,,,,,0,1628414456379074986,90,依维柯,轻客·停售

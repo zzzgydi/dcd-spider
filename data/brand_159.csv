@@ -1,0 +1,4 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+腾势汽车,指导价：,0,腾势X PHEV,28.98-31.98万,3873,https://p1-dcd.byteimg.com/img/motor-img/3446772365f667bfeac113d3b0d641c5~noop.png,22.98-25.98万,False,1590038730000000,28.98-31.98万,,,,,372,1628414336536972435,159,腾势,SUV
+腾势汽车,指导价：,0,腾势X BEV,31.98-35.78万,4305,https://p1-dcd.byteimg.com/img/motor-img/3075c6e3fdaa9d8bd05946edcbda04cf~noop.png,31.98-35.78万,False,1590043050000000,31.98-35.78万,,,,,0,1628414336536974209,159,腾势,SUV
+腾势汽车,指导价：,1,腾势,19.88-43.28万,1256,https://p1-dcd.byteimg.com/img/motor-img/ed90894e65dcbb4dcccdd0916afe8e33~noop.png,,True,1590012560000000,19.88-43.28万,,,,,0,1628414336536976088,159,腾势,轿车·停售

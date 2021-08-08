@@ -1,0 +1,15 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+江西五十铃,指导价：,0,mu-X牧游侠,18.18-25.38万,1296,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300006011e49f4d59~noop.png,18.18-25.38万,False,1060012960000000,18.18-25.38万,,,,,373,1628414406162822906,106,五十铃,SUV,
+江西五十铃,指导价：,0,瑞迈,8.38-13.58万,1298,https://p1-dcd.byteimg.com/img/motor-img/3ee532c2ea4480c5ea431eb45e538bde~noop.png,8.38-13.58万,False,1060012980000000,8.38-13.58万,,,,,0,1628414406162825103,106,五十铃,皮卡,
+江西五十铃,指导价：,2,瑞迈EV,暂无报价,3140,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000c8b6a7f337b8~noop.png,暂无报价,True,1060031400000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414406162825913,106,五十铃,皮卡,"{'type': 4, 'text': '即将上市'}"
+庆铃汽车,指导价：,0,庆铃五十铃T17,9.47-11.97万,3805,https://p3-dcd.byteimg.com/img/motor-img/a6c9baec564bdfb517c193995a2924c6~noop.png,9.47-11.97万,False,1060038050000000,9.47-11.97万,,,,,0,1628414406162826996,106,五十铃,皮卡,
+江西五十铃,指导价：,0,铃拓,11.18-15.08万,2841,https://p1-dcd.byteimg.com/img/motor-img/e25f606e61ea1bd25a5020a5b4cce897~noop.png,11.18-15.08万,False,1060028410000000,11.18-15.08万,,,,,0,1628414406162827683,106,五十铃,皮卡,
+江西五十铃,指导价：,0,D-MAX,13.98-21.78万,1297,https://p1-dcd.byteimg.com/img/motor-img/3b9fa4a7ee4a1ab1a54e1a28b32251b8~noop.png,13.98-21.78万,False,1060012970000000,13.98-21.78万,,,,,377,1628414406162828506,106,五十铃,皮卡,
+江西五十铃,指导价：,0,翼放ES5,12.98-13.88万,4593,https://p1-dcd.byteimg.com/img/motor-img/fe30a5afbc27822e078e032a93fb7d27~noop.png,12.98-13.88万,False,1060045930000000,12.98-13.88万,,,,,0,1628414406162830273,106,五十铃,轻卡,
+江西五十铃,指导价：,2,翼放ES7,暂无报价,4594,https://p1-dcd.byteimg.com/img/motor-img/98bc10e0656bdf01b0f4d7af48177a2c~noop.png,暂无报价,True,1060045940000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414406162831193,106,五十铃,轻卡,"{'type': 4, 'text': '即将上市'}"
+江西五十铃,指导价：,0,翼放EC5,9.98-11.88万,4645,https://p1-dcd.byteimg.com/img/motor-img/0f9652541720958bce4c8291b75c66c3~noop.png,9.98-11.88万,False,1060046450000000,9.98-11.88万,,,,,0,1628414406162831970,106,五十铃,轻卡,
+江西五十铃,指导价：,2,翼放EC7,暂无报价,4646,https://p1-dcd.byteimg.com/img/motor-img/56ba9b3a414044a417fd74c7abe21cfd~noop.png,暂无报价,True,1060046460000000,暂无报价,暂无上市时间,9.98-11.58万,,,0,1628414406162832595,106,五十铃,轻卡,"{'type': 4, 'text': '即将上市'}"
+五十铃,指导价：,3,mu-X牧游侠(海外),暂无报价,2701,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef1000078e293d5c68b~noop.png,,True,1060027010000000,暂无报价,,,,,0,1628414406162834549,106,五十铃,SUV·未上市,
+五十铃,指导价：,3,D-MAX(海外),暂无报价,1907,https://p1-dcd.byteimg.com/img/motor-img/42a4de2d047130473ab4a518887d1e11~noop.png,,True,1060019070000000,暂无报价,,,,,0,1628414406162836718,106,五十铃,皮卡·未上市,
+庆铃汽车,指导价：,1,竞技者,12.25万,1299,https://p1-dcd.byteimg.com/img/motor-img/92f6275f68f72b0c2393ea0e1e2ceeec~noop.png,,True,1060012990000000,12.25万,,,,,0,1628414406162839163,106,五十铃,SUV·停售,
+庆铃汽车,指导价：,1,五十铃皮卡,9.28-14.08万,1300,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef300007758f1c8fbd4~noop.png,,True,1060013000000000,9.28-14.08万,,,,,0,1628414406162841120,106,五十铃,皮卡·停售,

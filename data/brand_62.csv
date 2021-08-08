@@ -1,0 +1,22 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+林肯(进口),指导价：,0,林肯MKZ,25.58-36.98万,950,https://p1-dcd.byteimg.com/img/motor-img/28eae126644fed628e2d14d257c5ba88~noop.png,21.58-32.98万,False,620009500000000,25.58-36.98万,,,,,387,1628414041423437335,62,林肯,轿车,
+林肯(进口),指导价：,0,林肯大陆,36.08-48.58万,952,https://p1-dcd.byteimg.com/img/motor-img/94155c7fd9a1dd0fa76f4366721770ab~noop.png,31.08-43.58万,False,620009520000000,36.08-48.58万,,,,,401,1628414041423437986,62,林肯,轿车,
+长安林肯,指导价：,2,冒险家PHEV,暂无报价,3983,https://p1-dcd.byteimg.com/img/motor-img/e36a973247ac4ce83a51481e39791fc3~noop.png,暂无报价,True,620039830000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414041423439529,62,林肯,SUV,"{'type': 4, 'text': '即将上市'}"
+长安林肯,指导价：,0,冒险家,24.68-34.58万,3981,https://p1-dcd.byteimg.com/img/motor-img/66c3d8def50bfa3147bce7f8effd1ad5~noop.png,23.68-33.58万,False,620039810000000,24.68-34.58万,,,,,389,1628414041423440461,62,林肯,SUV,
+长安林肯,指导价：,0,航海家,32.88-47.88万,4537,https://p1-dcd.byteimg.com/img/motor-img/18dff70e2b6dce9861955d3b1a42520b~noop.png,32.88-47.88万,False,620045370000000,32.88-47.88万,,,,,399,1628414041423440982,62,林肯,SUV,
+长安林肯,指导价：,0,飞行家,50.98-75.98万,4339,https://p1-dcd.byteimg.com/img/motor-img/ad53b550ad2645d145836079677486ca~noop.png,50.98-75.98万,False,620043390000000,50.98-75.98万,,,,,407,1628414041423441573,62,林肯,SUV,"{'type': 2, 'text': '2021新款'}"
+林肯(进口),指导价：,0,飞行家PHEV,81.88万,3481,https://p1-dcd.byteimg.com/img/motor-img/43c586e6bd778957c0da6fad15ec4096~noop.png,81.88万,False,620034810000000,81.88万,,,,,0,1628414041423442004,62,林肯,SUV,
+林肯(进口),指导价：,0,领航员,109.80-129.80万,957,https://p1-dcd.byteimg.com/img/motor-img/29dd638bf6e4811b85b16c575530f30b~noop.png,109.80-129.80万,False,620009570000000,109.80-129.80万,,,,,427,1628414041423442876,62,林肯,SUV,
+林肯(进口),指导价：,3,冒险家(海外),暂无报价,3909,https://p1-dcd.byteimg.com/img/motor-img/3d885c0c6a72824d315c875ceba0a999~noop.png,,True,620039090000000,暂无报价,,,,,0,1628414041423446332,62,林肯,SUV·未上市,
+林肯(进口),指导价：,3,冒险家PHEV(海外),暂无报价,4298,https://p9-dcd.byteimg.com/img/motor-img/342bef585fe7c772df95f357892a37ab~noop.png,,True,620042980000000,暂无报价,,,,,0,1628414041423447494,62,林肯,SUV·未上市,
+林肯(进口),指导价：,1,Model L,暂无报价,4014,https://p1-dcd.byteimg.com/img/motor-img/f9072b7f2e0720aa485e50d2fcb830b0~noop.png,,True,620040140000000,暂无报价,,,,,0,1628414041423449278,62,林肯,轿车·停售,
+林肯(进口),指导价：,1,Model K,暂无报价,4547,https://p9-dcd.byteimg.com/img/motor-img/f5e0f3bca54236dddc9c394445a8c49f~noop.png,,True,620045470000000,暂无报价,,,,,0,1628414041423450260,62,林肯,轿车·停售,
+林肯(进口),指导价：,1,林肯MKS,109.80万,951,https://p9-dcd.byteimg.com/img/mosaic-legacy/176760000155b01ab91e0~noop.png,,True,620009510000000,109.80万,,,,,0,1628414041423451071,62,林肯,轿车·停售,
+林肯(进口),指导价：,1,城市,75.00-138.00万,953,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002c5cd2da4e38~noop.png,,True,620009530000000,75.00-138.00万,,,,,0,1628414041423452243,62,林肯,轿车·停售,
+林肯(进口),指导价：,1,林肯MKC,27.58-48.58万,954,https://p9-dcd.byteimg.com/img/motor-img/f90cf2c4d4ada8617f905c793dddf161~noop.png,,True,620009540000000,27.58-48.58万,,,,,0,1628414041423453546,62,林肯,SUV·停售,
+林肯(进口),指导价：,1,航海家(进口),38.88-51.88万,1955,https://p3-dcd.byteimg.com/img/motor-img/0d7bd1d3b7130cba7c1b2749548e0299~noop.png,,True,620019550000000,38.88-51.88万,,,,,404,1628414041423454207,62,林肯,SUV·停售,
+林肯(进口),指导价：,1,林肯MKX,41.88-88.00万,955,https://p1-dcd.byteimg.com/img/motor-img/7189d4fcda10e807d82ef0cf53e98b15~noop.png,,True,620009550000000,41.88-88.00万,,,,,0,1628414041423455019,62,林肯,SUV·停售,
+林肯(进口),指导价：,1,飞行家(进口),62.88-68.88万,2778,https://p1-dcd.byteimg.com/img/motor-img/243d4df8c5dbab60ff14a7628fff61d0~noop.png,,True,620027780000000,62.88-68.88万,,,,,0,1628414041423455670,62,林肯,SUV·停售,
+林肯(进口),指导价：,1,林肯MKT,119.80万,956,https://p9-dcd.byteimg.com/img/mosaic-legacy/17675000047fef60c58ee~noop.png,,True,620009560000000,119.80万,,,,,0,1628414041423456582,62,林肯,SUV·停售,
+林肯(进口),指导价：,3,ZEPHYR概念车,暂无报价,5096,https://p1-dcd.byteimg.com/img/motor-img/d46092e8345e1c118a7d8fc89e7ead79~noop.png,,True,620050960000000,暂无报价,,,,,0,1628414041423457984,62,林肯,轿车·概念车,
+林肯(进口),指导价：,3,林肯C,暂无报价,3828,https://p1-dcd.byteimg.com/img/motor-img/19b51d79e5a8c63eec98720af254bc22~noop.png,,True,620038280000000,暂无报价,,,,,0,1628414041423458866,62,林肯,轿车·概念车,

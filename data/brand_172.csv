@@ -1,0 +1,4 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+宇通客车,指导价：,0,宇通T7,38.80-78.80万,1597,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300010d8357c8034d~noop.png,38.80-78.80万,False,1720015970000000,38.80-78.80万,,,,,0,1628414461009651283,172,宇通客车,轻客
+宇通客车,指导价：,0,宇通T7E,88.00-116.00万,4623,https://p1-dcd.byteimg.com/img/motor-img/4bc1edbbefc2f31738454f2270e0d317~noop.png,88.00-116.00万,False,1720046230000000,88.00-116.00万,,,,,0,1628414461009652628,172,宇通客车,轻客
+宇通客车,指导价：,1,宇通CL6,24.98-27.98万,2995,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000aa501617ec7d~noop.png,,True,1720029950000000,24.98-27.98万,,,,,0,1628414461009654869,172,宇通客车,轻客·停售

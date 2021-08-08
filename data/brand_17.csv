@@ -1,0 +1,32 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+长城汽车,指导价：,0,哈弗初恋,7.89-11.29万,4804,https://p1-dcd.byteimg.com/img/motor-img/3f98d54b76c91d58308d588a10f1a56c~noop.png,7.49-10.89万,False,170048040000000,7.89-11.29万,,,,,360,1628413890161651010,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗H4,10.89万,1798,https://p3-dcd.byteimg.com/img/motor-img/b7c2e24caabeae11c81f3da02118640f~noop.png,9.44万,False,170017980000000,10.89万,,,,,366,1628413890161651898,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗F5,7.98-12.58万,2859,https://p9-dcd.byteimg.com/img/motor-img/c2a713ceb342db5afc5bb51275dae64f~noop.png,5.98-10.58万,False,170028590000000,7.98-12.58万,,,,,368,1628413890161652740,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗赤兔,10.98-12.38万,4921,https://p1-dcd.byteimg.com/img/motor-img/321636a9e0cef492d9b8659441bfd171~noop.png,10.96-12.36万,False,170049210000000,10.98-12.38万,,,,,378,1628413890161653284,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗大狗,11.99-16.29万,4563,https://p1-dcd.byteimg.com/img/motor-img/404296f5b931b1f543f7730857e05539~noop.png,11.49-15.79万,False,170045630000000,11.99-16.29万,,,,,389,1628413890161654156,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗H6,9.80-15.49万,649,https://p9-dcd.byteimg.com/img/motor-img/969128b1b7dca26a7ba951a319899f45~noop.png,7.30-14.89万,False,170006490000000,9.80-15.49万,,,,,387,1628413890161654875,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗M6,6.60-9.29万,1594,https://p1-dcd.byteimg.com/img/motor-img/3318a942828459ec7ce8bd81f8e187d9~noop.png,6.10-8.79万,False,170015940000000,6.60-9.29万,,,,,353,1628413890161655437,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗F7,11.18-15.18万,2991,https://p1-dcd.byteimg.com/img/motor-img/a3c5c31ba16abd52d9242e4fbba1c1d8~noop.png,9.68-13.68万,False,170029910000000,11.18-15.18万,,,,,366,1628413890161656087,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗F7x,11.99-15.49万,3070,https://p1-dcd.byteimg.com/img/motor-img/e5a2d459531c989ee3b5177edf682cda~noop.png,10.69-14.19万,False,170030700000000,11.99-15.49万,,,,,370,1628413890161656845,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗H7,14.20-17.30万,651,https://p9-dcd.byteimg.com/img/motor-img/da65046447093695364b5d01d7bb5dc6~noop.png,10.60-13.70万,False,170006510000000,14.20-17.30万,,,,,370,1628413890161657502,17,哈弗,SUV
+长城汽车,指导价：,0,哈弗H9,20.98-36.88万,653,https://p1-dcd.byteimg.com/img/motor-img/cc3b89d0a04067b3d2ed2e7db4b0647d~noop.png,19.78-35.38万,False,170006530000000,20.98-36.88万,,,,,390,1628413890161658125,17,哈弗,SUV
+长城汽车,指导价：,3,哈弗神兽,暂无报价,5251,https://p1-dcd.byteimg.com/img/motor-img/448c4a114cf5219bed41b492a67743d9~noop.png,,True,170052510000000,暂无报价,,,,,0,1628413890161660172,17,哈弗,SUV·未上市
+长城汽车,指导价：,1,哈弗H1,5.49-8.29万,644,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef00000985ca8057ee0~noop.png,,True,170006440000000,5.49-8.29万,,,,,0,1628413890161661714,17,哈弗,SUV·停售
+长城汽车,指导价：,1,哈弗H2s,7.00-10.30万,645,https://p1-dcd.byteimg.com/img/motor-img/3b4c39f1a6988cdfe2f7250d07e06654~noop.png,,True,170006450000000,7.00-10.30万,,,,,0,1628413890161662445,17,哈弗,SUV·停售
+长城汽车,指导价：,1,哈弗H2,7.49-12.88万,646,https://p9-dcd.byteimg.com/img/motor-img/a2e725cddff7ec1fe63161b7a80aee53~noop.png,,True,170006460000000,7.49-12.88万,,,,,342,1628413890161663307,17,哈弗,SUV·停售
+长城汽车,指导价：,1,哈弗H3,8.98-15.88万,647,https://p1-dcd.byteimg.com/img/mosaic-legacy/888300009ef1f3dfd1c8~noop.png,,True,170006470000000,8.98-15.88万,,,,,0,1628413890161664127,17,哈弗,SUV·停售
+长城汽车,指导价：,1,哈弗H5,9.28-31.88万,648,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000994d9884d436~noop.png,,True,170006480000000,9.28-31.88万,,,,,0,1628413890161664868,17,哈弗,SUV·停售
+长城汽车,指导价：,1,哈弗H6 Coupe,7.99-17.18万,650,https://p1-dcd.byteimg.com/img/motor-img/05b1560defc613d129a066b595243939~noop.png,,True,170006500000000,7.99-17.18万,,,,,369,1628413890161665473,17,哈弗,SUV·停售
+长城汽车,指导价：,1,哈弗H8,18.38-25.68万,652,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de000103ad02db809d~noop.png,,True,170006520000000,18.38-25.68万,,,,,0,1628413890161666275,17,哈弗,SUV·停售
+长城汽车,指导价：,3,哈弗Concept B,暂无报价,2205,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef50000701e8b5b4061~noop.png,,True,170022050000000,暂无报价,,,,,0,1628413890161667533,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗Concept R,暂无报价,2208,https://p1-dcd.byteimg.com/img/motor-img/a18032df1c8bd96177a7370c9db5aacf~noop.png,,True,170022080000000,暂无报价,,,,,0,1628413890161668267,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗HR-02,暂无报价,2138,https://p1-dcd.byteimg.com/img/mosaic-legacy/176740000326d73a971a0~noop.png,,True,170021380000000,暂无报价,,,,,0,1628413890161669001,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗HB-02,暂无报价,2136,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000f95dd401fa49~noop.png,,True,170021360000000,暂无报价,,,,,0,1628413890161669639,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗HB-03,暂无报价,2134,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100013f51c4dd4393~noop.png,,True,170021340000000,暂无报价,,,,,0,1628413890161671325,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗COUPE,暂无报价,2685,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000014c3762fed7f~noop.png,,True,170026850000000,暂无报价,,,,,0,1628413890161672073,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗E,暂无报价,2958,https://p1-dcd.byteimg.com/img/mosaic-legacy/176760000159ec61e4a8a~noop.png,,True,170029580000000,暂无报价,,,,,0,1628413890161672979,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗Concept H,暂无报价,4404,https://p1-dcd.byteimg.com/img/motor-img/1f7c9c836a45bc39b3f51908a3490294~noop.png,,True,170044040000000,暂无报价,,,,,0,1628413890161673707,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗IF,暂无报价,2423,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000e1968310cb60~noop.png,,True,170024230000000,暂无报价,,,,,0,1628413890161674583,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,哈弗vision2025,暂无报价,3471,https://p1-dcd.byteimg.com/img/motor-img/59e66d259610551d207d840d633021db~noop.png,,True,170034710000000,暂无报价,,,,,0,1628413890161675415,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,X DOG,暂无报价,5013,https://p9-dcd.byteimg.com/img/motor-img/02f36b840be06abaabd0bbae00b46e7b~noop.png,,True,170050130000000,暂无报价,,,,,0,1628413890161676573,17,哈弗,SUV·概念车
+长城汽车,指导价：,3,HAVAL XY,暂无报价,5016,https://p3-dcd.byteimg.com/img/motor-img/a42d2664c0b8651dfd1831eaabab2607~noop.png,,True,170050160000000,暂无报价,,,,,0,1628413890161677285,17,哈弗,SUV·概念车

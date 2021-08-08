@@ -1,0 +1,25 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+斯巴鲁,指导价：,0,力狮,20.48-24.78万,1229,https://p1-dcd.byteimg.com/img/motor-img/2811ed2df6c22affbade34fba84ea32a~noop.png,19.58-23.88万,False,330012290000000,20.48-24.78万,,,,,369,1628414289446431913,33,斯巴鲁,轿车
+斯巴鲁,指导价：,0,斯巴鲁XV,19.18-23.38万,1230,https://p1-dcd.byteimg.com/img/motor-img/0e97e37cd661983796274cc28751d9d6~noop.png,18.68-22.88万,False,330012300000000,19.18-23.38万,,,,,362,1628414289446433601,33,斯巴鲁,SUV
+斯巴鲁,指导价：,0,森林人,22.38-28.58万,1231,https://p1-dcd.byteimg.com/img/motor-img/ce6530c3f3646bb3fd1a596fc87eca02~noop.png,21.88-28.08万,False,330012310000000,22.38-28.58万,,,,,372,1628414289446434205,33,斯巴鲁,SUV
+斯巴鲁,指导价：,0,傲虎,31.28-33.08万,1232,https://p1-dcd.byteimg.com/img/motor-img/b519c2dd667b5b6f6d546a829cf3cdad~noop.png,31.18-33.08万,False,330012320000000,31.28-33.08万,,,,,377,1628414289446434940,33,斯巴鲁,SUV
+斯巴鲁,指导价：,3,Trezia,暂无报价,2385,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c5efda3b1bd3~noop.png,,True,330023850000000,暂无报价,,,,,0,1628414289446437194,33,斯巴鲁,轿车·未上市
+斯巴鲁,指导价：,3,CROSS SPORT,暂无报价,2593,https://p1-dcd.byteimg.com/img/motor-img/b4c91aada741f4b3716d9deacc2ff0db~noop.png,,True,330025930000000,暂无报价,,,,,0,1628414289446438021,33,斯巴鲁,轿车·未上市
+斯巴鲁,指导价：,3,斯巴鲁WRX,暂无报价,2698,https://p1-dcd.byteimg.com/img/motor-img/8ce216a481fdc92384086709cfabca11~noop.png,,True,330026980000000,暂无报价,,,,,0,1628414289446438896,33,斯巴鲁,轿车·未上市
+斯巴鲁,指导价：,3,Crossover 7,暂无报价,2596,https://p9-dcd.byteimg.com/img/motor-img/42fce32ed2a8a72ccfb0d871bbacb4d1~noop.png,,True,330025960000000,暂无报价,,,,,0,1628414289446439708,33,斯巴鲁,轿车·未上市
+斯巴鲁,指导价：,3,LEVORG,暂无报价,2668,https://p1-dcd.byteimg.com/img/motor-img/2a41a8cf79862d1dbd502fb4762c3f8c~noop.png,,True,330026680000000,暂无报价,,,,,0,1628414289446440610,33,斯巴鲁,轿车·未上市
+斯巴鲁,指导价：,3,翼豹,暂无报价,1228,https://p1-dcd.byteimg.com/img/motor-img/1da86da0d8b1f93493d327acfa575b7f~noop.png,,True,330012280000000,暂无报价,,,,,0,1628414289446441309,33,斯巴鲁,轿车·未上市
+斯巴鲁,指导价：,3,斯巴鲁XV PHEV,暂无报价,3111,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef8000029617cc05dd9~noop.png,,True,330031110000000,暂无报价,,,,,0,1628414289446442454,33,斯巴鲁,SUV·未上市
+斯巴鲁,指导价：,3,SOLTERRA,暂无报价,5147,https://p1-dcd.byteimg.com/img/motor-img/31d077ae4bb6d5570d11c2c5cf105e74~noop.png,,True,330051470000000,暂无报价,,,,,0,1628414289446443192,33,斯巴鲁,SUV·未上市
+斯巴鲁,指导价：,3,Ascent,暂无报价,1994,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c59ff3648626~noop.png,,True,330019940000000,暂无报价,,,,,0,1628414289446444031,33,斯巴鲁,SUV·未上市
+斯巴鲁,指导价：,3,Exiga,暂无报价,2196,https://p1-dcd.byteimg.com/img/motor-img/3303b4fc5b789586f7f019686876dafb~noop.png,,True,330021960000000,暂无报价,,,,,0,1628414289446447914,33,斯巴鲁,MPV·未上市
+斯巴鲁,指导价：,3,斯巴鲁BRZ,暂无报价,1234,https://p1-dcd.byteimg.com/img/motor-img/a83decb6fe2ff586033c5058e436a198~noop.png,,True,330012340000000,暂无报价,,,,,0,1628414289446449010,33,斯巴鲁,跑车·未上市
+斯巴鲁,指导价：,1,驰鹏,54.98-58.78万,1233,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a17fbdff612~noop.png,,True,330012330000000,54.98-58.78万,,,,,0,1628414289446450470,33,斯巴鲁,SUV·停售
+斯巴鲁,指导价：,1,斯巴鲁SVX,暂无报价,3861,https://p1-dcd.byteimg.com/img/motor-img/c40e98bcd2b96a25fe9ba3543115b6ce~noop.png,,True,330038610000000,暂无报价,,,,,0,1628414289446451739,33,斯巴鲁,跑车·停售
+斯巴鲁,指导价：,3,Hybrid,暂无报价,3993,https://p1-dcd.byteimg.com/img/motor-img/01bcb54e3a9829df7693377d65881a38~noop.png,,True,330039930000000,暂无报价,,,,,0,1628414289446453264,33,斯巴鲁,轿车·概念车
+斯巴鲁,指导价：,3,VIZIV Performance,暂无报价,1965,https://p1-dcd.byteimg.com/img/motor-img/39a2722fd64c70056ead855592bd62b5~noop.png,,True,330019650000000,暂无报价,,,,,0,1628414289446454674,33,斯巴鲁,轿车·概念车
+斯巴鲁,指导价：,3,VIZIV Tourer,暂无报价,2730,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef800003c5cc8c9b217~noop.png,,True,330027300000000,暂无报价,,,,,0,1628414289446455386,33,斯巴鲁,轿车·概念车
+斯巴鲁,指导价：,3,Advanced Tourer,暂无报价,3894,https://p1-dcd.byteimg.com/img/motor-img/1ef81e5e2986840711d6ad3ddba4c010~noop.png,,True,330038940000000,暂无报价,,,,,0,1628414289446456293,33,斯巴鲁,轿车·概念车
+斯巴鲁,指导价：,3,Viziv,暂无报价,2524,https://p1-dcd.byteimg.com/img/motor-img/a4cfcdf796e5585f07f54f9354c961ba~noop.png,,True,330025240000000,暂无报价,,,,,0,1628414289446457614,33,斯巴鲁,SUV·概念车
+斯巴鲁,指导价：,3,VIZIV-7,暂无报价,2071,https://p1-dcd.byteimg.com/img/motor-img/179fab302c05f364152bd2c5276f1df2~noop.png,,True,330020710000000,暂无报价,,,,,0,1628414289446458347,33,斯巴鲁,SUV·概念车
+斯巴鲁,指导价：,3,VIZIV Adrenaline,暂无报价,4034,https://p1-dcd.byteimg.com/img/motor-img/8134fd3aa58e8fd0e689bf8957f0bcdd~noop.png,,True,330040340000000,暂无报价,,,,,0,1628414289446460012,33,斯巴鲁,SUV·概念车

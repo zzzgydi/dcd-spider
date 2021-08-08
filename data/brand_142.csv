@@ -1,0 +1,10 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+凯翼汽车,指导价：,0,凯翼E5 EV,13.68-14.58万,4709,https://p1-dcd.byteimg.com/img/motor-img/804559657b9ec5b0009d85f4e0638cd2~noop.png,13.68-14.58万,False,1420047090000000,13.68-14.58万,,,,,0,1628414002756882666,142,凯翼,轿车,
+凯翼汽车,指导价：,2,轩度,暂无报价,5033,https://p1-dcd.byteimg.com/img/motor-img/db23dae68a1304e8b5848dbde12c359a~noop.png,暂无报价,True,1420050330000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414002756883856,142,凯翼,轿车,"{'type': 4, 'text': '即将上市'}"
+凯翼汽车,指导价：,0,凯翼X3,6.39-7.59万,864,https://p1-dcd.byteimg.com/img/motor-img/1c7ac2fa6d875c2db6c1514b85eabb47~noop.png,5.59-7.39万,False,1420008640000000,6.39-7.59万,,,,,379,1628414002756885288,142,凯翼,SUV,
+凯翼汽车,指导价：,0,炫界,5.89-9.39万,4311,https://p1-dcd.byteimg.com/img/motor-img/2666dff05b9d5813ff3dcfff49862beb~noop.png,5.39-9.39万,False,1420043110000000,5.89-9.39万,,,,,368,1628414002756886515,142,凯翼,SUV,"{'type': 2, 'text': '2021新款'}"
+凯翼汽车,指导价：,0,凯翼X5,7.89-9.69万,1663,https://p3-dcd.byteimg.com/img/mosaic-legacy/9b1300012006014aabc7~noop.png,7.89-9.69万,False,1420016630000000,7.89-9.69万,,,,,0,1628414002756887260,142,凯翼,SUV,
+凯翼汽车,指导价：,1,凯翼E3,5.29-8.06万,1787,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000098af54493ebc~noop.png,,True,1420017870000000,5.29-8.06万,,,,,0,1628414002756889418,142,凯翼,轿车·停售,
+凯翼汽车,指导价：,1,凯翼C3R,4.58-6.08万,862,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef400004872ccb86624~noop.png,,True,1420008620000000,4.58-6.08万,,,,,0,1628414002756891053,142,凯翼,轿车·停售,
+凯翼汽车,指导价：,1,凯翼C3,4.58-6.08万,863,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000c5c56801fbd2~noop.png,,True,1420008630000000,4.58-6.08万,,,,,0,1628414002756892232,142,凯翼,轿车·停售,
+凯翼汽车,指导价：,1,凯翼V3,6.28-7.88万,865,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef2000099d8f3986a8b~noop.png,,True,1420008650000000,6.28-7.88万,,,,,0,1628414002756894045,142,凯翼,SUV·停售,

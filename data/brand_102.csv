@@ -1,0 +1,11 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+陆风汽车,指导价：,0,陆风荣曜,8.99-12.59万,3139,https://p1-dcd.byteimg.com/img/motor-img/46942797bba4cb069056dfaa88fd2fae~noop.png,8.99-12.59万,False,1020031390000000,8.99-12.59万,,,,,0,1628414060217063108,102,陆风,SUV
+陆风汽车,指导价：,1,风华,5.58-6.23万,976,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500006169cc7e4a30~noop.png,,True,1020009760000000,5.58-6.23万,,,,,0,1628414060217066055,102,陆风,轿车·停售
+陆风汽车,指导价：,1,陆风X2,6.38-8.88万,983,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000095b37cdd2d8f~noop.png,,True,1020009830000000,6.38-8.88万,,,,,0,1628414060217068094,102,陆风,SUV·停售
+陆风汽车,指导价：,1,陆风逍遥,7.69-12.79万,1791,https://p1-dcd.byteimg.com/img/motor-img/9d60ff3eaef58eb4caa2cc086f7b030a~noop.png,,True,1020017910000000,7.69-12.79万,,,,,0,1628414060217069128,102,陆风,SUV·停售
+陆风汽车,指导价：,1,陆风X5,7.98-13.38万,977,https://p3-dcd.byteimg.com/img/mosaic-legacy/9b1300011fb63d75f529~noop.png,,True,1020009770000000,7.98-13.38万,,,,,0,1628414060217069971,102,陆风,SUV·停售
+陆风汽车,指导价：,1,陆风X7,12.98-15.08万,979,https://p1-dcd.byteimg.com/img/motor-img/d3e6a899f56d05e6f2d8bb5f0ce95fad~noop.png,,True,1020009790000000,12.98-15.08万,,,,,0,1628414060217071330,102,陆风,SUV·停售
+陆风汽车,指导价：,1,陆风X8,9.38-16.98万,981,https://p1-dcd.byteimg.com/img/motor-img/fdff1395ea42d6517e1934cea1f5fd78~noop.png,,True,1020009810000000,9.38-16.98万,,,,,0,1628414060217072478,102,陆风,SUV·停售
+陆风汽车,指导价：,1,陆风X6,7.98-15.16万,978,https://p1-dcd.byteimg.com/img/mosaic-legacy/17674000049648fdca17e~noop.png,,True,1020009780000000,7.98-15.16万,,,,,0,1628414060217073313,102,陆风,SUV·停售
+陆风汽车,指导价：,1,陆风X9,10.85-16.58万,980,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000a16a40e073bd~noop.png,,True,1020009800000000,10.85-16.58万,,,,,0,1628414060217074130,102,陆风,SUV·停售
+陆风汽车,指导价：,1,风尚,6.98-10.93万,982,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006b9d4aaa6ef1~noop.png,,True,1020009820000000,6.98-10.93万,,,,,0,1628414060217075595,102,陆风,MPV·停售

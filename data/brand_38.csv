@@ -1,0 +1,19 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+广汽讴歌,指导价：,0,讴歌CDX,22.98-34.98万,1048,https://p3-dcd.byteimg.com/img/motor-img/a0aa092a9c391676893111962274869c~noop.png,18.98-30.98万,False,380010480000000,22.98-34.98万,,,,"{'type': 1, 'text': '新增车型'}",,388,1628414192668875235,38,讴歌,SUV
+广汽讴歌,指导价：,0,讴歌RDX,32.80-46.00万,2987,https://p1-dcd.byteimg.com/img/motor-img/2139b7fd7cf7f2a22ec713e8bda4ca6f~noop.png,27.20-40.40万,False,380029870000000,32.80-46.00万,,,,,,389,1628414192668876026,38,讴歌,SUV
+讴歌(进口),指导价：,3,讴歌TSX,暂无报价,2949,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800002cde038ada0d~noop.png,,True,380029490000000,暂无报价,,,,,,0,1628414192668878020,38,讴歌,轿车·未上市
+讴歌(进口),指导价：,3,讴歌ILX,暂无报价,1049,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de0001222f502b0f90~noop.png,,True,380010490000000,暂无报价,,,,,,0,1628414192668879022,38,讴歌,轿车·未上市
+讴歌(进口),指导价：,3,讴歌TLX,暂无报价,1050,https://p3-dcd.byteimg.com/img/motor-img/1ca4198439cfad3af1884cc8336f6ee1~noop.png,,True,380010500000000,暂无报价,,,,,,0,1628414192668879803,38,讴歌,轿车·未上市
+讴歌(进口),指导价：,3,讴歌RLX,暂无报价,1052,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000049e928f94561~noop.png,,True,380010520000000,暂无报价,,,,,,0,1628414192668880565,38,讴歌,轿车·未上市
+讴歌(进口),指导价：,3,讴歌RDX(进口),暂无报价,1054,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef00009815c954c99f~noop.png,,True,380010540000000,暂无报价,,,,,,0,1628414192668881947,38,讴歌,SUV·未上市
+讴歌(进口),指导价：,3,讴歌NSX,暂无报价,1057,https://p1-dcd.byteimg.com/img/motor-img/85987c470974322a6f697cce3660c730~noop.png,,True,380010570000000,暂无报价,,,,,,0,1628414192668883149,38,讴歌,跑车·未上市
+广汽讴歌,指导价：,1,讴歌TLX-L,27.98-37.98万,1687,https://p1-dcd.byteimg.com/img/motor-img/623d256d21da2c81d4d3b653b6845f25~noop.png,,True,380016870000000,27.98-37.98万,,,,,,0,1628414192668884642,38,讴歌,轿车·停售
+讴歌(进口),指导价：,1,讴歌CSX,暂无报价,4553,https://p3-dcd.byteimg.com/img/motor-img/000082cd878e81508b0de84c33f7dfd6~noop.png,,True,380045530000000,暂无报价,,,,,,0,1628414192668885384,38,讴歌,轿车·停售
+讴歌(进口),指导价：,1,讴歌TL,39.00-64.50万,1051,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000a194226dc5d6~noop.png,,True,380010510000000,39.00-64.50万,,,,,,0,1628414192668886155,38,讴歌,轿车·停售
+讴歌(进口),指导价：,1,讴歌RL,68.00-86.00万,1053,https://p9-dcd.byteimg.com/img/mosaic-legacy/65de00010f27a61760a6~noop.png,,True,380010530000000,68.00-86.00万,,,,,,0,1628414192668886886,38,讴歌,轿车·停售
+讴歌(进口),指导价：,1,讴歌MDX,69.80-94.00万,1056,https://p1-dcd.byteimg.com/img/motor-img/da48b7a503f8900262185c3d0cf6b88e~noop.png,,True,380010560000000,69.80-94.00万,,,,,,0,1628414192668888389,38,讴歌,SUV·停售
+讴歌(进口),指导价：,1,讴歌ZDX,88.80万,1055,https://p1-dcd.byteimg.com/img/mosaic-legacy/17674000013b47440036e~noop.png,,True,380010550000000,88.80万,,,,,,0,1628414192668889131,38,讴歌,SUV·停售
+讴歌(进口),指导价：,1,Integra,暂无报价,3996,https://p1-dcd.byteimg.com/img/motor-img/2e3bb07529e20b8eaab70dcc14d7646e~noop.png,,True,380039960000000,暂无报价,,,,,,0,1628414192668890383,38,讴歌,跑车·停售
+讴歌(进口),指导价：,3,讴歌Type S,暂无报价,4077,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000062ec4450ba9b~noop.png,,True,380040770000000,暂无报价,,,,,,0,1628414192668891735,38,讴歌,轿车·概念车
+讴歌(进口),指导价：,3,PRECISION,暂无报价,2050,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400005c84813eba10~noop.png,,True,380020500000000,暂无报价,,,,,,0,1628414192668892487,38,讴歌,轿车·概念车
+讴歌(进口),指导价：,3,SUV-X,暂无报价,2410,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000004d5588032f6~noop.png,,True,380024100000000,暂无报价,,,,,,0,1628414192668893729,38,讴歌,SUV·概念车

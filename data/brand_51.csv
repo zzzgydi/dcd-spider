@@ -1,0 +1,19 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+阿尔法·罗密欧,指导价：,0,Giulia,37.98-158.00万,56,https://p1-dcd.byteimg.com/img/motor-img/ebf4eac023d1b12daaf00d222091c628~noop.png,32.98-158.00万,False,510000560000000,37.98-158.00万,,,,"{'type': 1, 'text': '新增车型'}",,394,1628413612571614466,51,阿尔法·罗密欧,轿车
+阿尔法·罗密欧,指导价：,0,Stelvio,45.68-96.98万,59,https://p1-dcd.byteimg.com/img/motor-img/732e71298c9c4e5f3e44bf3f27a04987~noop.png,40.68-96.98万,False,510000590000000,45.68-96.98万,,,,,,399,1628413612571616745,51,阿尔法·罗密欧,SUV
+阿尔法·罗密欧,指导价：,3,MiTo,暂无报价,2270,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef200009822adc9e942~noop.png,,True,510022700000000,暂无报价,,,,,,0,1628413612571619565,51,阿尔法·罗密欧,轿车·未上市
+阿尔法·罗密欧,指导价：,3,Giulietta,暂无报价,2202,https://p1-dcd.byteimg.com/img/mosaic-legacy/176750000523901f71fe1~noop.png,,True,510022020000000,暂无报价,,,,,,0,1628413612571621133,51,阿尔法·罗密欧,轿车·未上市
+阿尔法·罗密欧,指导价：,3,Tonale,暂无报价,3807,https://p1-dcd.byteimg.com/img/motor-img/70146394b7dc6068521242e5bef6e5c6~noop.png,,True,510038070000000,暂无报价,,,,,,0,1628413612571623504,51,阿尔法·罗密欧,SUV·未上市
+阿尔法·罗密欧,指导价：,3,ALFA 4C,暂无报价,2321,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400002c4408cfa993~noop.png,,True,510023210000000,暂无报价,,,,,,0,1628413612571626222,51,阿尔法·罗密欧,跑车·未上市
+阿尔法·罗密欧,指导价：,1,ALFA 147,20.00-40.00万,1852,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef000096d70f0a9846~noop.png,,True,510018520000000,20.00-40.00万,,,,,,0,1628413612571628496,51,阿尔法·罗密欧,轿车·停售
+阿尔法·罗密欧,指导价：,1,ALFA 156,35.00万,57,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100009568a148d04c~noop.png,,True,510000570000000,35.00万,,,,,,0,1628413612571629395,51,阿尔法·罗密欧,轿车·停售
+阿尔法·罗密欧,指导价：,1,ALFA 159,暂无报价,3539,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000051295dc1ae6b~noop.png,,True,510035390000000,暂无报价,,,,,,0,1628413612571630426,51,阿尔法·罗密欧,轿车·停售
+阿尔法·罗密欧,指导价：,1,ALFA 166,30.00万,1889,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000096dc225fa8a4~noop.png,,True,510018890000000,30.00万,,,,,,0,1628413612571631239,51,阿尔法·罗密欧,轿车·停售
+阿尔法·罗密欧,指导价：,1,ALFA G1,暂无报价,4560,https://p1-dcd.byteimg.com/img/motor-img/af346b93320ab854541ede54cccb12a4~noop.png,,True,510045600000000,暂无报价,,,,,,0,1628413612571632177,51,阿尔法·罗密欧,轿车·停售
+阿尔法·罗密欧,指导价：,1,ALFA S.Z.,暂无报价,3948,https://p1-dcd.byteimg.com/img/motor-img/2cf339400816e25e420965591c2e407c~noop.png,,True,510039480000000,暂无报价,,,,,,0,1628413612571634113,51,阿尔法·罗密欧,跑车·停售
+阿尔法·罗密欧,指导价：,1,ALFA GT,40.00万,58,https://p9-dcd.byteimg.com/img/mosaic-legacy/beef000096d65ff0f784~noop.png,,True,510000580000000,40.00万,,,,,,0,1628413612571634932,51,阿尔法·罗密欧,跑车·停售
+阿尔法·罗密欧,指导价：,1,ALFA 8C,暂无报价,3222,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000b02bf39b295a~noop.png,,True,510032220000000,暂无报价,,,,,,0,1628413612571635797,51,阿尔法·罗密欧,跑车·停售
+阿尔法·罗密欧,指导价：,1,ALFA 2uettottanta,暂无报价,3815,https://p1-dcd.byteimg.com/img/motor-img/7af1a256ac40c747f7cfc211e63fa07b~noop.png,,True,510038150000000,暂无报价,,,,,,0,1628413612571636742,51,阿尔法·罗密欧,跑车·停售
+阿尔法·罗密欧,指导价：,1,ALFA TZ3,暂无报价,3822,https://p1-dcd.byteimg.com/img/motor-img/b0f5d4656efdf3068730c068a8283dc9~noop.png,,True,510038220000000,暂无报价,,,,,,0,1628413612571637591,51,阿尔法·罗密欧,跑车·停售
+阿尔法·罗密欧,指导价：,3,Gloria,暂无报价,2462,https://p1-dcd.byteimg.com/img/mosaic-legacy/17675000013be81502a6d~noop.png,,True,510024620000000,暂无报价,,,,,,0,1628413612571639010,51,阿尔法·罗密欧,轿车·概念车
+阿尔法·罗密欧,指导价：,3,Disco Volante,暂无报价,2449,https://p9-dcd.byteimg.com/img/mosaic-legacy/1767500005acfa4a316ed~noop.png,,True,510024490000000,暂无报价,,,,,,0,1628413612571640715,51,阿尔法·罗密欧,跑车·概念车

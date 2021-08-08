@@ -1,0 +1,15 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+曙光汽车,指导价：,0,黄海N1,6.00-11.60万,715,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef00009820968e57ef~noop.png,6.00-11.60万,False,1320007150000000,6.00-11.60万,,,,,0,1628413905933175354,132,黄海,皮卡,
+曙光汽车,指导价：,0,黄海N2,8.79-16.58万,716,https://p9-dcd.byteimg.com/img/motor-img/b8e7b79b3887775507d6584fe8db108c~noop.png,8.79-16.58万,False,1320007160000000,8.79-16.58万,,,,,0,1628413905933176456,132,黄海,皮卡,
+曙光汽车,指导价：,0,黄海N3,10.89-13.49万,1595,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400001a99954a6c3c~noop.png,10.89-13.49万,False,1320015950000000,10.89-13.49万,,,,,0,1628413905933177611,132,黄海,皮卡,
+曙光汽车,指导价：,2,黄海N5,暂无报价,4682,https://p9-dcd.byteimg.com/img/motor-img/45981d36cfc493affd369056e25f5993~noop.png,暂无报价,True,1320046820000000,暂无报价,暂无上市时间,暂无报价,,,0,1628413905933178334,132,黄海,皮卡,"{'type': 4, 'text': '即将上市'}"
+曙光汽车,指导价：,0,黄海N7,11.69-14.29万,3729,https://p1-dcd.byteimg.com/img/motor-img/7e80800d396f074827a72c25f2d53e51~noop.png,11.69-14.29万,False,1320037290000000,11.69-14.29万,,,,,0,1628413905933179391,132,黄海,皮卡,
+曙光汽车,指导价：,0,瑞途,10.28-11.18万,717,https://p1-dcd.byteimg.com/img/motor-img/4b0b67eb96a5ce92f1030c1bbd88f2bb~noop.png,10.28-11.18万,False,1320007170000000,10.28-11.18万,,,,,0,1628413905933181377,132,黄海,轻客,
+曙光汽车,指导价：,0,瑞途EV,25.98万,4786,https://p1-dcd.byteimg.com/img/motor-img/35a18e4d5245275e336438a11df7dc37~noop.png,25.98万,False,1320047860000000,25.98万,,,,,0,1628413905933182202,132,黄海,轻客,
+曙光汽车,指导价：,1,旗胜F1,8.28-12.78万,709,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef20000abc3b804a314~noop.png,,True,1320007090000000,8.28-12.78万,,,,,0,1628413905933185708,132,黄海,SUV·停售,
+曙光汽车,指导价：,1,翱龙CUV,7.98-10.68万,710,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006a952c7da7f3~noop.png,,True,1320007100000000,7.98-10.68万,,,,,0,1628413905933187093,132,黄海,SUV·停售,
+曙光汽车,指导价：,1,旗胜V3,10.18-11.98万,708,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000a9dfbb35608f~noop.png,,True,1320007080000000,10.18-11.98万,,,,,0,1628413905933188211,132,黄海,SUV·停售,
+曙光汽车,指导价：,1,挑战者SUV,6.98-8.18万,711,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef800004a36190415b7~noop.png,,True,1320007110000000,6.98-8.18万,,,,,0,1628413905933189619,132,黄海,SUV·停售,
+曙光汽车,指导价：,1,小柴神,5.48-6.28万,713,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef4000106a9bddce63e~noop.png,,True,1320007130000000,5.48-6.28万,,,,,0,1628413905933191980,132,黄海,皮卡·停售,
+曙光汽车,指导价：,1,傲骏,5.48-6.28万,714,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef200009c3bbd47722d~noop.png,,True,1320007140000000,5.48-6.28万,,,,,0,1628413905933193414,132,黄海,皮卡·停售,
+曙光汽车,指导价：,1,大柴神,6.28-8.98万,712,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de000108d1245ae9d7~noop.png,,True,1320007120000000,6.28-8.98万,,,,,0,1628413905933195521,132,黄海,皮卡·停售,

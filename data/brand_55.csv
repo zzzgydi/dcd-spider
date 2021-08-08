@@ -1,0 +1,23 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+DS汽车,指导价：,0,DS 9,24.99-33.99万,3724,https://p1-dcd.byteimg.com/img/motor-img/0361eba997ff2fba8ecb4c0be6483edf~noop.png,24.99-33.99万,False,550037240000000,24.99-33.99万,,,,,396,1628413776585737683,55,DS,轿车
+DS汽车,指导价：,0,DS 9 PHEV,32.99-39.99万,4157,https://p1-dcd.byteimg.com/img/motor-img/84ff18cc04ad1c5774f1028dc33c32b9~noop.png,32.99-39.99万,False,550041570000000,32.99-39.99万,,,,,0,1628413776585738879,55,DS,轿车
+DS(进口),指导价：,0,DS 3 EV,31.33-33.33万,3383,https://p1-dcd.byteimg.com/img/motor-img/a1e11c23e112df16349895f8acdfbaf4~noop.png,31.33-33.33万,False,550033830000000,31.33-33.33万,,,,,0,1628413776585740534,55,DS,SUV
+DS汽车,指导价：,0,DS 7,22.99-31.99万,1805,https://p1-dcd.byteimg.com/img/motor-img/ed26b29c1b4cc3f3c703070d4997ce5e~noop.png,22.99-31.99万,False,550018050000000,22.99-31.99万,,,,,378,1628413776585741355,55,DS,SUV
+DS(进口),指导价：,3,DS 5LS(海外),暂无报价,2597,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006694ce388696~noop.png,,True,550025970000000,暂无报价,,,,,0,1628413776585743637,55,DS,轿车·未上市
+DS(进口),指导价：,3,DS 9(海外),暂无报价,4442,https://p1-dcd.byteimg.com/img/motor-img/176b659da2048d51c0220d874623b5f1~noop.png,,True,550044420000000,暂无报价,,,,,0,1628413776585744823,55,DS,轿车·未上市
+DS(进口),指导价：,3,DS4 PHEV,暂无报价,4892,https://p9-dcd.byteimg.com/img/motor-img/03f148c08bfae1d5ed9aa37a49177cb6~noop.png,,True,550048920000000,暂无报价,,,,,0,1628413776585746342,55,DS,轿车·未上市
+DS(进口),指导价：,3,DS 3(海外),暂无报价,3079,https://p1-dcd.byteimg.com/img/motor-img/9b1538ce162f55a751cad414d4ebac1f~noop.png,,True,550030790000000,暂无报价,,,,,0,1628413776585748525,55,DS,SUV·未上市
+DS汽车,指导价：,3,DS 7 PHEV,暂无报价,3394,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c2035303e421~noop.png,,True,550033940000000,暂无报价,,,,,0,1628413776585749548,55,DS,SUV·未上市
+DS(进口),指导价：,3,DS 7新能源(海外),暂无报价,4694,https://p1-dcd.byteimg.com/img/motor-img/fbabbc7c8a3285f6bb12aaccafb78604~noop.png,,True,550046940000000,暂无报价,,,,,0,1628413776585751310,55,DS,SUV·未上市
+DS(进口),指导价：,3,DS 7(海外),暂无报价,1613,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de000123e317bd2cd2~noop.png,,True,550016130000000,暂无报价,,,,,0,1628413776585752471,55,DS,SUV·未上市
+DS(进口),指导价：,1,DS 3经典,19.98-27.98万,4,https://p9-dcd.byteimg.com/img/mosaic-legacy/beef00002387b9f813ff~noop.png,,True,550000040000000,19.98-27.98万,,,,,0,1628413776585754578,55,DS,轿车·停售
+DS汽车,指导价：,1,DS 4S,14.99-22.99万,5,https://p1-dcd.byteimg.com/img/motor-img/b30da77db160cbbbe949275f52fdccb3~noop.png,,True,550000050000000,14.99-22.99万,,,,,0,1628413776585755970,55,DS,轿车·停售
+DS(进口),指导价：,1,DS 4,24.28-27.28万,1380,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef700003c11c1419021~noop.png,,True,550013800000000,24.28-27.28万,,,,,0,1628413776585756760,55,DS,轿车·停售
+DS汽车,指导价：,1,DS 5,21.99-34.59万,6,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300011ef3bcff2d62~noop.png,,True,550000060000000,21.99-34.59万,,,,,0,1628413776585757861,55,DS,轿车·停售
+DS(进口),指导价：,1,DS 5(进口),29.88-34.88万,1381,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef50000c1ac4c16dda9~noop.png,,True,550013810000000,29.88-34.88万,,,,,0,1628413776585758530,55,DS,轿车·停售
+DS汽车,指导价：,1,DS 5LS,14.69-24.69万,1386,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000977fdf3354aa~noop.png,,True,550013860000000,14.69-24.69万,,,,,0,1628413776585759273,55,DS,轿车·停售
+DS汽车,指导价：,1,DS 6,19.39-30.19万,7,https://p1-dcd.byteimg.com/img/motor-img/3c18db6aa8a71c0c323197956ca8b81e~noop.png,,True,550000070000000,19.39-30.19万,,,,,0,1628413776585760488,55,DS,SUV·停售
+DS(进口),指导价：,3,神韵,暂无报价,2697,https://p3-dcd.byteimg.com/img/mosaic-legacy/17674000013a98f341bf2~noop.png,,True,550026970000000,暂无报价,,,,,0,1628413776585761526,55,DS,轿车·概念车
+DS(进口),指导价：,3,AERO SPORT LOUNGE,暂无报价,4443,https://p1-dcd.byteimg.com/img/motor-img/487b006bc38182424bdb9767eef5f462~noop.png,,True,550044430000000,暂无报价,,,,,0,1628413776585763137,55,DS,SUV·概念车
+DS(进口),指导价：,3,DS Wild Rubis,暂无报价,2357,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000894f3f2b2085~noop.png,,True,550023570000000,暂无报价,,,,,0,1628413776585764372,55,DS,SUV·概念车
+DS(进口),指导价：,3,DS X E-Tense,暂无报价,3840,https://p1-dcd.byteimg.com/img/motor-img/968b6692818f520015be1c0f62724f94~noop.png,,True,550038400000000,暂无报价,,,,,0,1628413776585765497,55,DS,跑车·概念车

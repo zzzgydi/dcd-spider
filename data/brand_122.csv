@@ -1,0 +1,9 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+福迪汽车,指导价：,0,雄师F16,5.58-9.18万,555,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef8000056422b47df80~noop.png,5.58-9.18万,False,1220005550000000,5.58-9.18万,,,,,0,1628413834138860382,122,福迪,皮卡
+福迪汽车,指导价：,0,雄师F22,7.78-15.18万,556,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100009972692789f0~noop.png,7.78-15.18万,False,1220005560000000,7.78-15.18万,,,,,0,1628413834138861346,122,福迪,皮卡
+福迪汽车,指导价：,1,揽福,8.98-16.38万,552,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400001a8e35f1c8fd~noop.png,,True,1220005520000000,8.98-16.38万,,,,,0,1628413834138863543,122,福迪,SUV·停售
+福迪汽车,指导价：,1,探索者6,8.98-10.98万,550,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef700003f5065e0336d~noop.png,,True,1220005500000000,8.98-10.98万,,,,,0,1628413834138864558,122,福迪,SUV·停售
+福迪汽车,指导价：,1,探索者Ⅱ,6.98万,1888,https://p1-dcd.byteimg.com/img/mosaic-legacy/4748000025234f3109d0~noop.png,,True,1220018880000000,6.98万,,,,,0,1628413834138865429,122,福迪,SUV·停售
+福迪汽车,指导价：,1,探索者Ⅲ,8.18-9.38万,551,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000335ad8a4aa6a~noop.png,,True,1220005510000000,8.18-9.38万,,,,,0,1628413834138866322,122,福迪,SUV·停售
+福迪汽车,指导价：,1,小超人,4.98-6.78万,553,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef200013d23ad721430~noop.png,,True,1220005530000000,4.98-6.78万,,,,,0,1628413834138868246,122,福迪,皮卡·停售
+福迪汽车,指导价：,1,雄狮,7.38-9.38万,554,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef80000352dcdc4fc13~noop.png,,True,1220005540000000,7.38-9.38万,,,,,0,1628413834138869203,122,福迪,皮卡·停售

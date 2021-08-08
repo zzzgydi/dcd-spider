@@ -1,0 +1,11 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+广汽埃安新能源,指导价：,0,AION S,13.96-20.58万,3101,https://p1-dcd.byteimg.com/img/motor-img/7d99d3eef9fba8765615b27ad9825cd7~noop.png,10.98-17.98万,False,2420031010000000,13.96-20.58万,,,,,376,1628413850336388535,242,广汽埃安,轿车,
+广汽埃安新能源,指导价：,0,传祺GE3,12.98-15.58万,1598,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000981a1ee73393~noop.png,9.99-15.58万,False,2420015980000000,12.98-15.58万,,,,,0,1628413850336390621,242,广汽埃安,SUV,
+广汽埃安新能源,指导价：,0,AION V,15.96-23.96万,4426,https://p3-dcd.byteimg.com/img/motor-img/706607210e1164fa0dcdf3df452eebab~noop.png,14.96-22.96万,False,2420044260000000,15.96-23.96万,,,,,380,1628413850336391281,242,广汽埃安,SUV,
+广汽埃安新能源,指导价：,0,AION Y,10.46-14.86万,4814,https://p1-dcd.byteimg.com/img/motor-img/a5fa6ea169e529ef121b4d128912c523~noop.png,10.46-14.86万,False,2420048140000000,10.46-14.86万,,,,,375,1628413850336392183,242,广汽埃安,SUV,"{'type': 2, 'text': '2021新款'}"
+广汽埃安新能源,指导价：,0,AION LX,22.96-34.96万,3503,https://p1-dcd.byteimg.com/img/motor-img/da893d7ddab694cd3699761d78872fe6~noop.png,22.96-34.96万,False,2420035030000000,22.96-34.96万,,,,,0,1628413850336392830,242,广汽埃安,SUV,
+广汽埃安新能源,指导价：,1,传祺GA3S PHEV,16.48-17.48万,607,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130001225efd61fbd0~noop.png,,True,2420006070000000,16.48-17.48万,,,,,0,1628413850336395632,242,广汽埃安,轿车·停售,
+广汽埃安新能源,指导价：,1,广汽新能源2ALL,暂无报价,3792,https://p1-dcd.byteimg.com/img/motor-img/a3b8def043e0c93f68610156c2bfe50b~noop.png,,True,2420037920000000,暂无报价,,,,,0,1628413850336397798,242,广汽埃安,轿车·概念车,
+广汽埃安新能源,指导价：,1,广汽新能源2US,暂无报价,3794,https://p1-dcd.byteimg.com/img/motor-img/be54c73abdfe5606b8c39768d0d8dc91~noop.png,,True,2420037940000000,暂无报价,,,,,0,1628413850336398828,242,广汽埃安,轿车·概念车,
+广汽埃安新能源,指导价：,3,广汽新能源2U,暂无报价,3793,https://p3-dcd.byteimg.com/img/motor-img/4bb8a1e67cfcf35a0ff890fd89845ee3~noop.png,,True,2420037930000000,暂无报价,,,,,0,1628413850336403911,242,广汽埃安,轿车·概念车,
+广汽埃安新能源,指导价：,3,ENTRANZE,暂无报价,3368,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000051281fce776c~noop.png,,True,2420033680000000,暂无报价,,,,,0,1628413850336405698,242,广汽埃安,SUV·概念车,

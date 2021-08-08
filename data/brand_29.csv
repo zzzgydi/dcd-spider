@@ -1,0 +1,33 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+东风英菲尼迪,指导价：,0,英菲尼迪Q50L,26.48-38.98万,1422,https://p1-dcd.byteimg.com/img/motor-img/0b43e0db95032599a8724ab48c8c0146~noop.png,22.48-36.98万,False,290014220000000,26.48-38.98万,,,,,393,1628414447457096762,29,英菲尼迪,轿车
+英菲尼迪(进口),指导价：,0,英菲尼迪Q70,38.18-43.98万,1427,https://p1-dcd.byteimg.com/img/motor-img/73bcbf7aedbc643ddd647868c5177de9~noop.png,32.48-37.68万,False,290014270000000,38.18-43.98万,,,,,0,1628414447457098380,29,英菲尼迪,轿车
+东风英菲尼迪,指导价：,0,英菲尼迪QX50,33.38-46.98万,1423,https://p1-dcd.byteimg.com/img/motor-img/0fd713e2ddecc16a55960be89d0b19bc~noop.png,24.88-40.48万,False,290014230000000,33.38-46.98万,,,,,0,1628414447457100384,29,英菲尼迪,SUV
+英菲尼迪(进口),指导价：,0,英菲尼迪QX60,47.98-56.98万,1435,https://p3-dcd.byteimg.com/img/motor-img/ff7729b2f6e4002e81a4c8470418a7af~noop.png,43.98-50.98万,False,290014350000000,47.98-56.98万,,,,,0,1628414447457101630,29,英菲尼迪,SUV
+英菲尼迪(进口),指导价：,0,英菲尼迪Q60,35.88-37.78万,1438,https://p1-dcd.byteimg.com/img/motor-img/4545e5c007b459f0ab7d68bf10fb60b0~noop.png,35.86-37.76万,False,290014380000000,35.88-37.78万,,,,,0,1628414447457103407,29,英菲尼迪,跑车
+英菲尼迪(进口),指导价：,3,英菲尼迪Q30,暂无报价,2342,https://p9-dcd.byteimg.com/img/motor-img/a000ead067fc94875b9d2c4a795d704a~noop.png,,True,290023420000000,暂无报价,,,,,0,1628414447457106117,29,英菲尼迪,轿车·未上市
+英菲尼迪(进口),指导价：,3,英菲尼迪QX50(进口),暂无报价,1434,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000c6ef65494d23~noop.png,,True,290014340000000,暂无报价,,,,,0,1628414447457108071,29,英菲尼迪,SUV·未上市
+英菲尼迪(进口),指导价：,3,英菲尼迪QX55,暂无报价,4232,https://p1-dcd.byteimg.com/img/motor-img/61b1d7259079a2bb07a761008d68a9db~noop.png,,True,290042320000000,暂无报价,,,,,0,1628414447457109307,29,英菲尼迪,SUV·未上市
+英菲尼迪(进口),指导价：,3,Emerg-E,暂无报价,2451,https://p1-dcd.byteimg.com/img/motor-img/935bacb657b73baecf6650c6cc8a53a1~noop.png,,True,290024510000000,暂无报价,,,,,0,1628414447457112129,29,英菲尼迪,跑车·未上市
+英菲尼迪(进口),指导价：,3,Prototype 9,暂无报价,1750,https://p1-dcd.byteimg.com/img/mosaic-legacy/176760000112061ac228f~noop.png,,True,290017500000000,暂无报价,,,,,0,1628414447457113438,29,英菲尼迪,跑车·未上市
+英菲尼迪(进口),指导价：,1,英菲尼迪Q50,32.58-54.98万,1426,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000997430445c1e~noop.png,,True,290014260000000,32.58-54.98万,,,,,0,1628414447457116025,29,英菲尼迪,轿车·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪G系,25.80-75.41万,1424,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000341390d1126e~noop.png,,True,290014240000000,25.80-75.41万,,,,,0,1628414447457117420,29,英菲尼迪,轿车·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪M系,43.88-74.58万,1425,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000a285b803b6dd~noop.png,,True,290014250000000,43.88-74.58万,,,,,0,1628414447457118534,29,英菲尼迪,轿车·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪ESQ,18.08-23.58万,1428,https://p1-dcd.byteimg.com/img/motor-img/b4dafa68991698fb1a09d70fb5db0c68~noop.png,,True,290014280000000,18.08-23.58万,,,,,0,1628414447457120619,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪QX30,22.78-36.38万,1433,https://p1-dcd.byteimg.com/img/motor-img/2ae2b255ba0c4c2f32e47913399c1a67~noop.png,,True,290014330000000,22.78-36.38万,,,,,0,1628414447457121701,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪EX,46.38-65.50万,1429,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de0001101855562255~noop.png,,True,290014290000000,46.38-65.50万,,,,,0,1628414447457122814,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪FX,66.30-121.80万,1430,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000a2841e41e262~noop.png,,True,290014300000000,66.30-121.80万,,,,,0,1628414447457124067,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪JX,61.80-71.80万,1431,https://p3-dcd.byteimg.com/img/mosaic-legacy/9b1300003414cb007bd9~noop.png,,True,290014310000000,61.80-71.80万,,,,,0,1628414447457125184,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪QX,92.00-152.80万,1432,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c593e3fdf733~noop.png,,True,290014320000000,92.00-152.80万,,,,,0,1628414447457126309,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪QX70,75.48-116.80万,1436,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300011e268e1a127f~noop.png,,True,290014360000000,75.48-116.80万,,,,,0,1628414447457127568,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪QX80,113.80-152.80万,1437,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef400000883203c0f84~noop.png,,True,290014370000000,113.80-152.80万,,,,,0,1628414447457128588,29,英菲尼迪,SUV·停售
+英菲尼迪(进口),指导价：,1,英菲尼迪Q60S,66.21万,1439,https://p1-dcd.byteimg.com/img/motor-img/1c6eeb1dd6474e3093d88f159a27e6f5~noop.png,,True,290014390000000,66.21万,,,,,0,1628414447457131878,29,英菲尼迪,跑车·停售
+英菲尼迪(进口),指导价：,3,Qs Inspiration,暂无报价,3380,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000c6ec1f25ea21~noop.png,,True,290033800000000,暂无报价,,,,,0,1628414447457134366,29,英菲尼迪,轿车·概念车
+英菲尼迪(进口),指导价：,3,Etherea,暂无报价,2365,https://p1-dcd.byteimg.com/img/motor-img/dc9e6d592928e5a3d45aa47c69035247~noop.png,,True,290023650000000,暂无报价,,,,,0,1628414447457136041,29,英菲尼迪,轿车·概念车
+英菲尼迪(进口),指导价：,3,英菲尼迪LE,暂无报价,2934,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef500005959678f714c~noop.png,,True,290029340000000,暂无报价,,,,,0,1628414447457138814,29,英菲尼迪,轿车·概念车
+英菲尼迪(进口),指导价：,3,Q Inspiration,暂无报价,1980,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600001b1583ccc1e2~noop.png,,True,290019800000000,暂无报价,,,,,0,1628414447457139887,29,英菲尼迪,轿车·概念车
+英菲尼迪(进口),指导价：,3,QX Sport Inspiration,暂无报价,2051,https://p1-dcd.byteimg.com/img/motor-img/acfc1242587b2f95da452190f9f2bd3d~noop.png,,True,290020510000000,暂无报价,,,,,0,1628414447457141914,29,英菲尼迪,SUV·概念车
+英菲尼迪(进口),指导价：,3,QX Inspiration,暂无报价,3328,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000bef1bcbef83d~noop.png,,True,290033280000000,暂无报价,,,,,0,1628414447457143076,29,英菲尼迪,SUV·概念车
+英菲尼迪(进口),指导价：,3,Essence,暂无报价,3977,https://p1-dcd.byteimg.com/img/motor-img/042c73460e72823f50e1f7e26ab7b2a4~noop.png,,True,290039770000000,暂无报价,,,,,0,1628414447457144966,29,英菲尼迪,跑车·概念车
+英菲尼迪(进口),指导价：,3,Prototype 10,暂无报价,2997,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef600006c0f13619b45~noop.png,,True,290029970000000,暂无报价,,,,,0,1628414447457146164,29,英菲尼迪,跑车·概念车
+英菲尼迪(进口),指导价：,3,英菲尼迪GranTurismo,暂无报价,2636,https://p1-dcd.byteimg.com/img/motor-img/17d5dfe0a3adce3df5843753be2ea12e~noop.png,,True,290026360000000,暂无报价,,,,,0,1628414447457147172,29,英菲尼迪,跑车·概念车
+英菲尼迪(进口),指导价：,3,英菲尼迪Q80,暂无报价,2637,https://p9-dcd.byteimg.com/img/motor-img/fcd7ccebcefa9b7f24943853e8de3c2b~noop.png,,True,290026370000000,暂无报价,,,,,0,1628414447457148205,29,英菲尼迪,跑车·概念车

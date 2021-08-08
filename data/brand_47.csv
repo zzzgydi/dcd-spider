@@ -1,0 +1,16 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+宾利,指导价：,0,飞驰,251.80-311.20万,355,https://p1-dcd.byteimg.com/img/motor-img/7e5204ad205f852378dc1d6e81060b85~noop.png,251.80-311.20万,False,470003550000000,251.80-311.20万,,,,,0,1628413672913656838,47,宾利,轿车,
+宾利,指导价：,2,飞驰PHEV,暂无报价,4724,https://p1-dcd.byteimg.com/img/motor-img/8080741d13974306b6ce0d6ab033c882~noop.png,暂无报价,True,470047240000000,暂无报价,暂无上市时间,暂无报价,,,0,1628413672913657786,47,宾利,轿车,"{'type': 4, 'text': '即将上市'}"
+宾利,指导价：,0,添越,249.90万,357,https://p3-dcd.byteimg.com/img/motor-img/77a0764ae17762f183e99445c99f1ec5~noop.png,249.90万,False,470003570000000,249.90万,,,,,448,1628413672913659147,47,宾利,SUV,
+宾利,指导价：,0,添越PHEV,238.50万,2726,https://p1-dcd.byteimg.com/img/motor-img/a1f6973e9fcca5ada5605be9dd262aba~noop.png,238.50万,False,470027260000000,238.50万,,,,,0,1628413672913659806,47,宾利,SUV,
+宾利,指导价：,0,欧陆,275.10-354.60万,358,https://p1-dcd.byteimg.com/img/motor-img/ed3413763813593413bce0e7c077a22e~noop.png,275.10-354.60万,False,470003580000000,275.10-354.60万,,,,,455,1628413672913661019,47,宾利,跑车,
+宾利,指导价：,3,Bacalar,暂无报价,4408,https://p1-dcd.byteimg.com/img/motor-img/2a58d3f4f99eca25f238da7ee5958590~noop.png,,True,470044080000000,暂无报价,,,,,0,1628413672913662905,47,宾利,跑车·未上市,
+宾利,指导价：,3,EXP 10 Speed 6,暂无报价,2106,https://p1-dcd.byteimg.com/img/motor-img/5bffaa40122197ab2e3d20dd0fc819e1~noop.png,,True,470021060000000,暂无报价,,,,,0,1628413672913663657,47,宾利,跑车·未上市,
+宾利,指导价：,3, Blower,暂无报价,4854,https://p1-dcd.byteimg.com/img/motor-img/5edcf0b6d0a34f671a905d54fff25612~noop.png,,True,470048540000000,暂无报价,,,,,0,1628413672913664530,47,宾利,跑车·未上市,
+宾利,指导价：,1,慕尚,495.00-928.00万,354,https://p1-dcd.byteimg.com/img/motor-img/4a55a6d5dee553e3f639150a0f4bfd4a~noop.png,,True,470003540000000,495.00-928.00万,,,,,0,1628413672913666242,47,宾利,轿车·停售,
+宾利,指导价：,1,Brooklands,暂无报价,3211,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000ada2e70d1958~noop.png,,True,470032110000000,暂无报价,,,,,0,1628413672913666808,47,宾利,轿车·停售,
+宾利,指导价：,1,雅致,498.00-1288.00万,356,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700001730fea89135~noop.png,,True,470003560000000,498.00-1288.00万,,,,,0,1628413672913667544,47,宾利,轿车·停售,
+宾利,指导价：,1,雅骏,暂无报价,3515,https://p3-dcd.byteimg.com/img/mosaic-legacy/9b1300015a2725e37ced~noop.png,,True,470035150000000,暂无报价,,,,,0,1628413672913668317,47,宾利,轿车·停售,
+宾利,指导价：,1,Hunaudières,暂无报价,3449,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef60000680ca82c2fdb~noop.png,,True,470034490000000,暂无报价,,,,,0,1628413672913669908,47,宾利,跑车·停售,
+宾利,指导价：,3,EXP 12 Speed 6e,暂无报价,1998,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef700006aa0df09ea45~noop.png,,True,470019980000000,暂无报价,,,,,0,1628413672913671172,47,宾利,跑车·概念车,
+宾利,指导价：,3,Grand Convertible,暂无报价,2609,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de00001bafd3634e0f~noop.png,,True,470026090000000,暂无报价,,,,,0,1628413672913671799,47,宾利,跑车·概念车,

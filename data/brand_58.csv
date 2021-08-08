@@ -1,0 +1,16 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+观致汽车,指导价：,0,观致3,10.59万,602,https://p9-dcd.byteimg.com/img/motor-img/547b5a367d9a6c75a6a8186719fb7406~noop.png,10.59万,False,580006020000000,10.59万,,,,,354,1628413856929732562,58,观致,轿车
+观致汽车,指导价：,0,观致5,13.88-16.38万,603,https://p1-dcd.byteimg.com/img/motor-img/55e86a5fa6612408279e36397d17e508~noop.png,13.88-16.38万,False,580006030000000,13.88-16.38万,,,,,357,1628413856929735034,58,观致,SUV
+观致汽车,指导价：,0,观致7,10.98-15.98万,4507,https://p1-dcd.byteimg.com/img/motor-img/b49af0b1d995756a790d6512ccbb7c3c~noop.png,10.98-15.98万,False,580045070000000,10.98-15.98万,,,,,379,1628413856929736074,58,观致,SUV
+观致汽车,指导价：,3,观致3 EV,暂无报价,3104,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c5f87f38db34~noop.png,,True,580031040000000,暂无报价,,,,,0,1628413856929738857,58,观致,轿车·未上市
+观致汽车,指导价：,3,观致3 PHEV,暂无报价,3424,https://p1-dcd.byteimg.com/img/mosaic-legacy/17675000064e44cb6a19a~noop.png,,True,580034240000000,暂无报价,,,,,0,1628413856929740051,58,观致,轿车·未上市
+观致汽车,指导价：,3,观致5 FCV,暂无报价,3105,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000c1fa26d91968~noop.png,,True,580031050000000,暂无报价,,,,,0,1628413856929742210,58,观致,SUV·未上市
+观致汽车,指导价：,3,观致REV5,暂无报价,5222,https://p1-dcd.byteimg.com/img/motor-img/94b233dd717f3f41e36b5190aebb4c99~noop.png,,True,580052220000000,暂无报价,,,,,0,1628413856929743375,58,观致,SUV·未上市
+观致汽车,指导价：,3,观致 Model Young,暂无报价,1658,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef50000c1b67263e267~noop.png,,True,580016580000000,暂无报价,,,,,0,1628413856929744221,58,观致,SUV·未上市
+观致汽车,指导价：,3,QOROS,暂无报价,3791,https://p1-dcd.byteimg.com/img/motor-img/f1c4a640c4f6c8525bf72f3d8f3d66a7~noop.png,,True,580037910000000,暂无报价,,,,,0,1628413856929746304,58,观致,轿车·概念车
+观致汽车,指导价：,3,观致Milestone,暂无报价,4741,https://p1-dcd.byteimg.com/img/motor-img/5db992153401c7a5a1770622ae8f0281~noop.png,,True,580047410000000,暂无报价,,,,,0,1628413856929747374,58,观致,轿车·概念车
+观致汽车,指导价：,3,Model K-EV,暂无报价,2045,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400005c8280a9c9e2~noop.png,,True,580020450000000,暂无报价,,,,,0,1628413856929748357,58,观致,轿车·概念车
+观致汽车,指导价：,3,观致9,暂无报价,2653,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000014c2f614a053~noop.png,,True,580026530000000,暂无报价,,,,,0,1628413856929749162,58,观致,轿车·概念车
+观致汽车,指导价：,3,观致2,暂无报价,2204,https://p1-dcd.byteimg.com/img/mosaic-legacy/17674000032988556ec31~noop.png,,True,580022040000000,暂无报价,,,,,0,1628413856929751202,58,观致,SUV·概念车
+观致汽车,指导价：,3,观致MILE II,暂无报价,3494,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006c12c5213dc2~noop.png,,True,580034940000000,暂无报价,,,,,0,1628413856929753288,58,观致,跑车·概念车
+观致汽车,指导价：,3,观致MILE 1,暂无报价,2877,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000067f308640f7e~noop.png,,True,580028770000000,暂无报价,,,,,0,1628413856929754285,58,观致,跑车·概念车

@@ -1,0 +1,48 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+上汽大众斯柯达,指导价：,0,昕动,7.79-10.99万,1240,https://p1-dcd.byteimg.com/img/motor-img/6999872c043adc972a66a7dcea885349~noop.png,7.09-10.29万,False,230012400000000,7.79-10.99万,,,,,342,1628414282798499166,23,斯柯达,轿车
+上汽大众斯柯达,指导价：,0,昕锐,7.79-9.99万,1239,https://p1-dcd.byteimg.com/img/motor-img/bc388c092dda8d3bcedb2c66cfda1941~noop.png,6.59-8.79万,False,230012390000000,7.79-9.99万,,,,,347,1628414282798500512,23,斯柯达,轿车
+上汽大众斯柯达,指导价：,0,明锐,9.99-15.79万,1241,https://p1-dcd.byteimg.com/img/motor-img/49024665a0fe26269924066a6983a0d9~noop.png,7.29-15.79万,False,230012410000000,9.99-15.79万,,,,,361,1628414282798501803,23,斯柯达,轿车
+上汽大众斯柯达,指导价：,0,速派,15.49-22.99万,1243,https://p1-dcd.byteimg.com/img/motor-img/1ba7fea5dd9f9f9f886698535ad4c460~noop.png,15.49-22.99万,False,230012430000000,15.49-22.99万,,,,,384,1628414282798502648,23,斯柯达,轿车
+上汽大众斯柯达,指导价：,0,柯米克,8.99-11.19万,2826,https://p1-dcd.byteimg.com/img/motor-img/076a8a0de05cbb67e970bd8824689095~noop.png,7.69-9.89万,False,230028260000000,8.99-11.19万,,,,,344,1628414282798504736,23,斯柯达,SUV
+上汽大众斯柯达,指导价：,0,柯米克GT,11.19-12.59万,4180,https://p9-dcd.byteimg.com/img/motor-img/acaf470baa34160422586b39563f6ba6~noop.png,9.89-11.29万,False,230041800000000,11.19-12.59万,,,,,362,1628414282798505529,23,斯柯达,SUV
+上汽大众斯柯达,指导价：,0,柯珞克,12.99-15.99万,1661,https://p9-dcd.byteimg.com/img/motor-img/c1567426cbff6114d8e8794c20ae720f~noop.png,10.99-13.99万,False,230016610000000,12.99-15.99万,,,,,369,1628414282798506224,23,斯柯达,SUV
+上汽大众斯柯达,指导价：,0,柯迪亚克,17.79-24.79万,1245,https://p3-dcd.byteimg.com/img/motor-img/33fa74bdc353bb503ab6c52d6726f057~noop.png,14.79-21.79万,False,230012450000000,17.79-24.79万,,,,,375,1628414282798507245,23,斯柯达,SUV
+上汽大众斯柯达,指导价：,0,柯迪亚克GT,19.19-24.79万,3061,https://p1-dcd.byteimg.com/img/motor-img/80637903b9372b88f9a78e633b352d20~noop.png,16.19-21.79万,False,230030610000000,19.19-24.79万,,,,,0,1628414282798508337,23,斯柯达,SUV
+斯柯达(进口),指导价：,3,Citigo,暂无报价,2333,https://p1-dcd.byteimg.com/img/motor-img/4eeab2cddf1a42d41eb6cdc424bf8db5~noop.png,,True,230023330000000,暂无报价,,,,,0,1628414282798510670,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,CitiJet,暂无报价,2581,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000067cd014cbd0c~noop.png,,True,230025810000000,暂无报价,,,,,0,1628414282798512080,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,晶锐(海外),暂无报价,2756,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef7000066a587a8dde4~noop.png,,True,230027560000000,暂无报价,,,,,0,1628414282798513302,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,SCALA,暂无报价,3130,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130000e8980bacad05~noop.png,,True,230031300000000,暂无报价,,,,,0,1628414282798514667,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,VISION C,暂无报价,2640,https://p3-dcd.byteimg.com/img/motor-img/85a79c718d6cbe2616b9840cbe038225~noop.png,,True,230026400000000,暂无报价,,,,,0,1628414282798515860,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,Vision D,暂无报价,2393,https://p3-dcd.byteimg.com/img/motor-img/4b97e854df0c08e6ba0d991af2e53a60~noop.png,,True,230023930000000,暂无报价,,,,,0,1628414282798518175,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,昕动(海外),暂无报价,2699,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a53c81021ba~noop.png,,True,230026990000000,暂无报价,,,,,0,1628414282798519549,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,昕锐(海外),暂无报价,2574,https://p1-dcd.byteimg.com/img/motor-img/0a393a609ea01f7f86f25da14e52926d~noop.png,,True,230025740000000,暂无报价,,,,,0,1628414282798520665,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,明锐PHEV(进口),暂无报价,4409,https://p1-dcd.byteimg.com/img/motor-img/2a10526463b82a49284ab355e719235f~noop.png,,True,230044090000000,暂无报价,,,,,0,1628414282798521912,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,速派iV,暂无报价,4166,https://p1-dcd.byteimg.com/img/motor-img/8f84f1ccd72cefe1f693609548136fa2~noop.png,,True,230041660000000,暂无报价,,,,,0,1628414282798524078,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,速派(进口),暂无报价,1248,https://p9-dcd.byteimg.com/img/motor-img/5aca9940c542b58510bc7d2dce6369f1~noop.png,,True,230012480000000,暂无报价,,,,,0,1628414282798525825,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,Citigoᵉ iV,暂无报价,4115,https://p1-dcd.byteimg.com/img/motor-img/c2be5f58b88351152a672c28987ea6f1~noop.png,,True,230041150000000,暂无报价,,,,,0,1628414282798526837,23,斯柯达,轿车·未上市
+斯柯达(进口),指导价：,3,柯米克(海外),暂无报价,3173,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef300009c92bb4d3ad9~noop.png,,True,230031730000000,暂无报价,,,,,0,1628414282798528902,23,斯柯达,SUV·未上市
+斯柯达(进口),指导价：,3,柯珞克(海外),暂无报价,2192,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400000c2e6268225c~noop.png,,True,230021920000000,暂无报价,,,,,0,1628414282798530009,23,斯柯达,SUV·未上市
+斯柯达(进口),指导价：,3,ENYAQ iV,暂无报价,4550,https://p3-dcd.byteimg.com/img/motor-img/19e55fe0ba5d059b48aca96ead87d7e7~noop.png,,True,230045500000000,暂无报价,,,,,0,1628414282798531264,23,斯柯达,SUV·未上市
+斯柯达(进口),指导价：,3,柯迪亚克(海外),暂无报价,2190,https://p1-dcd.byteimg.com/img/mosaic-legacy/17676000015885df6a29e~noop.png,,True,230021900000000,暂无报价,,,,,0,1628414282798532340,23,斯柯达,SUV·未上市
+斯柯达(进口),指导价：,1,斯柯达440,暂无报价,3865,https://p1-dcd.byteimg.com/img/motor-img/773a95ecbd92e52ff9b992afe9f6985a~noop.png,,True,230038650000000,暂无报价,,,,,0,1628414282798534578,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,Favorit,暂无报价,3984,https://p9-dcd.byteimg.com/img/motor-img/de308adaccb83777fde0b3685ec0861d~noop.png,,True,230039840000000,暂无报价,,,,,0,1628414282798535776,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,Roomster,暂无报价,3418,https://p3-dcd.byteimg.com/img/mosaic-legacy/9b13000153e8be29f36b~noop.png,,True,230034180000000,暂无报价,,,,,0,1628414282798537123,23,斯柯达,轿车·停售
+上汽大众斯柯达,指导价：,1,晶锐,6.99-11.79万,1238,https://p1-dcd.byteimg.com/img/motor-img/2abfe0d9cd7a1030913594bbac71a91b~noop.png,,True,230012380000000,6.99-11.79万,,,,,0,1628414282798538569,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,明锐(进口),19.92-23.78万,1246,https://p1-dcd.byteimg.com/img/motor-img/18c30851713ff772d500d9d90bc26710~noop.png,,True,230012460000000,19.92-23.78万,,,,,0,1628414282798540274,23,斯柯达,轿车·停售
+上汽大众斯柯达,指导价：,1,昊锐,17.19-27.13万,1242,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000030a1c160a1c4~noop.png,,True,230012420000000,17.19-27.13万,,,,,0,1628414282798541325,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,Felicia,暂无报价,3978,https://p1-dcd.byteimg.com/img/motor-img/72836b02fc18d1308c3fc102369a21b0~noop.png,,True,230039780000000,暂无报价,,,,,0,1628414282798542946,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,速尊,29.98-33.48万,1247,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef000089dcb6b6520f~noop.png,,True,230012470000000,29.98-33.48万,,,,,0,1628414282798544115,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,斯柯达1000 MB,暂无报价,3266,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000b0157a32abe3~noop.png,,True,230032660000000,暂无报价,,,,,0,1628414282798545386,23,斯柯达,轿车·停售
+斯柯达(进口),指导价：,1,斯柯达VOS,暂无报价,3866,https://p1-dcd.byteimg.com/img/motor-img/59dd8870ae6eabff0e9bf5546ba72add~noop.png,,True,230038660000000,暂无报价,,,,,0,1628414282798546367,23,斯柯达,轿车·停售
+上汽大众斯柯达,指导价：,1,Yeti,12.98-24.18万,1244,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000c9fb73b615d4~noop.png,,True,230012440000000,12.98-24.18万,,,,,0,1628414282798548665,23,斯柯达,SUV·停售
+斯柯达(进口),指导价：,1,Yeti(进口),29.30-33.28万,1669,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000089d8e2cd39d5~noop.png,,True,230016690000000,29.30-33.28万,,,,,0,1628414282798550398,23,斯柯达,SUV·停售
+斯柯达(进口),指导价：,3,VISION RS,暂无报价,3190,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000a6ae6fbe1652~noop.png,,True,230031900000000,暂无报价,,,,,0,1628414282798552292,23,斯柯达,轿车·概念车
+斯柯达(进口),指导价：,3,MissionL,暂无报价,2337,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef000089dd180a4ab7~noop.png,,True,230023370000000,暂无报价,,,,,0,1628414282798553598,23,斯柯达,轿车·概念车
+斯柯达(进口),指导价：,3,Kushaq,暂无报价,4399,https://p9-dcd.byteimg.com/img/motor-img/d41ea431d2e95fd6b823c41ab7226f51~noop.png,,True,230043990000000,暂无报价,,,,,0,1628414282798556103,23,斯柯达,SUV·概念车
+斯柯达(进口),指导价：,3,VISION iV,暂无报价,3376,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000151e53ea2f567~noop.png,,True,230033760000000,暂无报价,,,,,0,1628414282798557312,23,斯柯达,SUV·概念车
+斯柯达(进口),指导价：,3,VISION X,暂无报价,2739,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000089da3df80543~noop.png,,True,230027390000000,暂无报价,,,,,0,1628414282798558893,23,斯柯达,SUV·概念车
+斯柯达(进口),指导价：,3,VISION E,暂无报价,2063,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a2e2757620a~noop.png,,True,230020630000000,暂无报价,,,,,0,1628414282798560084,23,斯柯达,SUV·概念车
+斯柯达(进口),指导价：,3,Vision S,暂无报价,2070,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef70000501b44472e1c~noop.png,,True,230020700000000,暂无报价,,,,,0,1628414282798561537,23,斯柯达,SUV·概念车
+斯柯达(进口),指导价：,3,斯柯达VISION GT,暂无报价,3725,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100010d41c2d828eb~noop.png,,True,230037250000000,暂无报价,,,,,0,1628414282798562651,23,斯柯达,SUV·概念车
+斯柯达(进口),指导价：,3,SLAVIA,暂无报价,4614,https://p1-dcd.byteimg.com/img/motor-img/0e0ab23a4d521aed06cffbb3e0d32749~noop.png,,True,230046140000000,暂无报价,,,,,0,1628414282798564789,23,斯柯达,跑车·概念车
+斯柯达(进口),指导价：,3,Mountiaq,暂无报价,3728,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef000010fd9d28ca019~noop.png,,True,230037280000000,暂无报价,,,,,0,1628414282798566979,23,斯柯达,皮卡·概念车

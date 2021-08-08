@@ -1,0 +1,9 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+雷丁,指导价：,0,雷丁芒果,2.98-5.98万,4689,https://p1-dcd.byteimg.com/img/motor-img/1966c05d3355af2bcd18e85c5dc32771~noop.png,2.98-5.98万,False,2820046890000000,2.98-5.98万,,,,"{'type': 1, 'text': '新增车型'}",,0,1628414064742850424,282,雷丁,轿车
+雷丁,指导价：,0,雷丁i9,11.58-13.99万,3747,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000b89961ad5190~noop.png,11.58-13.99万,False,2820037470000000,11.58-13.99万,,,,,,0,1628414064742851690,282,雷丁,SUV
+雷丁,指导价：,3,雷丁D50,暂无报价,3638,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000df56a74fd57f~noop.png,,True,2820036380000000,暂无报价,,,,,,0,1628414064742853543,282,雷丁,轿车·未上市
+雷丁,指导价：,3,雷丁E60,暂无报价,3640,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000dd73c8591a1b~noop.png,,True,2820036400000000,暂无报价,,,,,,0,1628414064742854671,282,雷丁,轿车·未上市
+雷丁,指导价：,3,雷丁V60,暂无报价,3639,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000ddb048608ca2~noop.png,,True,2820036390000000,暂无报价,,,,,,0,1628414064742855402,282,雷丁,轿车·未上市
+雷丁,指导价：,1,雷丁i3,4.98-6.28万,3745,https://p1-dcd.byteimg.com/img/motor-img/ff13cb486bbf90d3083c491088db4f9b~noop.png,,True,2820037450000000,4.98-6.28万,,,,,,0,1628414064742856959,282,雷丁,轿车·停售
+雷丁,指导价：,1,雷丁i5,7.58万,3746,https://p9-dcd.byteimg.com/img/motor-img/0edd2c647ceb974f14a52eae4f53ced1~noop.png,,True,2820037460000000,7.58万,,,,,,0,1628414064742858097,282,雷丁,轿车·停售
+雷丁,指导价：,3,雷丁A30,暂无报价,3641,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000dd2474549c4f~noop.png,,True,2820036410000000,暂无报价,,,,,,0,1628414064742859263,282,雷丁,轿车·概念车

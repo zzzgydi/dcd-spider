@@ -1,0 +1,9 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+厦门金旅,指导价：,0,海狮Z系列,12.18-12.98万,3180,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000a1cb506f1292~noop.png,12.18-12.98万,False,1330031800000000,12.18-12.98万,,,,"{'type': 2, 'text': '2021新款'}",,0,1628413985459376881,133,金旅,轻客
+厦门金旅,指导价：,0,金旅海狮,10.48-10.68万,829,https://p1-dcd.byteimg.com/img/motor-img/22b54ac2b0478b8de8e87d59ad9ff545~noop.png,10.48-10.68万,False,1330008290000000,10.48-10.68万,,,,"{'type': 2, 'text': '2021新款'}",,0,1628413985459377523,133,金旅,轻客
+厦门金旅,指导价：,0,金旅海狮EV,12.58-26.98万,1838,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef00009ad3a55bf057~noop.png,12.58-26.98万,False,1330018380000000,12.58-26.98万,,,,"{'type': 2, 'text': '2021新款'}",,0,1628413985459378046,133,金旅,轻客
+厦门金旅,指导价：,0,金旅大海狮,19.58-21.88万,831,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef300009854533f1dcf~noop.png,19.58-21.88万,False,1330008310000000,19.58-21.88万,,,,"{'type': 2, 'text': '2021新款'}",,0,1628413985459378666,133,金旅,轻客
+厦门金旅,指导价：,0,领特,23.38万,3957,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef40001097adde1a3d4~noop.png,23.38万,False,1330039570000000,23.38万,,,,"{'type': 2, 'text': '2021新款'}",,0,1628413985459379185,133,金旅,轻客
+厦门金旅,指导价：,0,领特EV,26.80万,4660,https://p1-dcd.byteimg.com/img/motor-img/385fc50502ff89ac0ef8b1a22808d169~noop.png,26.80万,False,1330046600000000,26.80万,,,,,,0,1628413985459379561,133,金旅,轻客
+厦门金旅,指导价：,3,金旅考斯特,暂无报价,2571,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600003bbe8b5c087c~noop.png,,True,1330025710000000,暂无报价,,,,,,0,1628413985459381180,133,金旅,轻客·未上市
+厦门金旅,指导价：,1,新时代海狮,5.98-6.68万,3154,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100009970ddc86943~noop.png,,True,1330031540000000,5.98-6.68万,,,,,,0,1628413985459384475,133,金旅,轻客·停售

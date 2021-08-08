@@ -1,0 +1,36 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+雷克萨斯,指导价：,0,雷克萨斯CT,21.50-28.20万,886,https://p9-dcd.byteimg.com/img/motor-img/f15d3bc1e41d827467a1542e1bdb92bf~noop.png,21.50-28.20万,False,220008860000000,21.50-28.20万,,,,,365,1628414032316988424,22,雷克萨斯,轿车
+雷克萨斯,指导价：,0,雷克萨斯ES,29.00-48.30万,888,https://p1-dcd.byteimg.com/img/motor-img/b08ccf0f39ff7b0a00f1c8eadf6575d2~noop.png,29.00-48.30万,False,220008880000000,29.00-48.30万,,,,,404,1628414032316989777,22,雷克萨斯,轿车
+雷克萨斯,指导价：,0,雷克萨斯LS,87.80-118.00万,890,https://p1-dcd.byteimg.com/img/motor-img/c5e749092bafe499be1f11147475647b~noop.png,87.80-118.00万,False,220008900000000,87.80-118.00万,,,,,421,1628414032316990549,22,雷克萨斯,轿车
+雷克萨斯,指导价：,0,雷克萨斯UX,25.90-30.30万,2203,https://p3-dcd.byteimg.com/img/motor-img/1865f7ee870d16241cc89f7b222d6379~noop.png,25.90-30.30万,False,220022030000000,25.90-30.30万,,,,,373,1628414032316992602,22,雷克萨斯,SUV
+雷克萨斯,指导价：,0,雷克萨斯UX EV,36.20-38.50万,4281,https://p3-dcd.byteimg.com/img/motor-img/4765b61932b59e12064a9bf98154f0f6~noop.png,36.20-38.50万,False,220042810000000,36.20-38.50万,,,,,353,1628414032316993334,22,雷克萨斯,SUV
+雷克萨斯,指导价：,0,雷克萨斯NX,30.22-54.20万,891,https://p1-dcd.byteimg.com/img/motor-img/7a302067b3889333a6fbf4c2b0392646~noop.png,30.22-54.20万,False,220008910000000,30.22-54.20万,,,,,374,1628414032316993815,22,雷克萨斯,SUV
+雷克萨斯,指导价：,0,雷克萨斯RX,40.50-80.10万,894,https://p1-dcd.byteimg.com/img/motor-img/2bf0638c30c50d9b45f8d1a68e0d8385~noop.png,40.50-80.10万,False,220008940000000,40.50-80.10万,,,,,396,1628414032316994286,22,雷克萨斯,SUV
+雷克萨斯,指导价：,0,雷克萨斯LM,116.60-146.60万,3354,https://p1-dcd.byteimg.com/img/motor-img/986d47c0da02b9253a0b22085e522395~noop.png,116.60-146.60万,False,220033540000000,116.60-146.60万,,,,,423,1628414032316995538,22,雷克萨斯,MPV
+雷克萨斯,指导价：,0,雷克萨斯LC,115.50-129.80万,1704,https://p9-dcd.byteimg.com/img/motor-img/e2e40d188fc8dbc9f1a19cf12807cedd~noop.png,115.50-129.80万,False,220017040000000,115.50-129.80万,,,,,410,1628414032316996971,22,雷克萨斯,跑车
+雷克萨斯F,指导价：,3,雷克萨斯IS F,暂无报价,2219,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000c8aa6ce222b6~noop.png,,True,220022190000000,暂无报价,,,,,0,1628414032316998654,22,雷克萨斯,轿车·未上市
+雷克萨斯F,指导价：,3,雷克萨斯GS F,暂无报价,2214,https://p1-dcd.byteimg.com/img/motor-img/6dceecf3dfee460240f4e75ee29df2a6~noop.png,,True,220022140000000,暂无报价,,,,,0,1628414032316999616,22,雷克萨斯,轿车·未上市
+雷克萨斯,指导价：,3,雷克萨斯NX PHEV,暂无报价,5215,https://p9-dcd.byteimg.com/img/motor-img/7e7421377fe7c23d574a490edd7766a9~noop.png,,True,220052150000000,暂无报价,,,,,0,1628414032317001459,22,雷克萨斯,SUV·未上市
+雷克萨斯,指导价：,3,雷克萨斯GX,暂无报价,893,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300014dcf1e3d41d5~noop.png,,True,220008930000000,暂无报价,,,,,0,1628414032317002441,22,雷克萨斯,SUV·未上市
+雷克萨斯F,指导价：,3,雷克萨斯RC F,暂无报价,898,https://p3-dcd.byteimg.com/img/motor-img/baa4e4d84639c79f2852e480624e68b2~noop.png,,True,220008980000000,暂无报价,,,,,0,1628414032317003653,22,雷克萨斯,跑车·未上市
+雷克萨斯F,指导价：,3,雷克萨斯LC F,暂无报价,3670,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000e36cb146b3e7~noop.png,,True,220036700000000,暂无报价,,,,,0,1628414032317004455,22,雷克萨斯,跑车·未上市
+雷克萨斯,指导价：,1,雷克萨斯IS,29.80-67.30万,887,https://p9-dcd.byteimg.com/img/motor-img/e8fd5cea7d3f39c9eb4a5467eade3ec4~noop.png,,True,220008870000000,29.80-67.30万,,,,,381,1628414032317006108,22,雷克萨斯,轿车·停售
+雷克萨斯,指导价：,1,雷克萨斯HS,暂无报价,3253,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000ac3aa55529c3~noop.png,,True,220032530000000,暂无报价,,,,,0,1628414032317006950,22,雷克萨斯,轿车·停售
+雷克萨斯,指导价：,1,雷克萨斯GS,42.90-103.40万,889,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000881ab8477df4~noop.png,,True,220008890000000,42.90-103.40万,,,,,0,1628414032317007821,22,雷克萨斯,轿车·停售
+雷克萨斯,指导价：,1,雷克萨斯RX经典,46.90-96.88万,892,https://p9-dcd.byteimg.com/img/mosaic-legacy/88830000a13b99976e06~noop.png,,True,220008920000000,46.90-96.88万,,,,,0,1628414032317009234,22,雷克萨斯,SUV·停售
+雷克萨斯,指导价：,1,雷克萨斯LX,96.85-174.00万,895,https://p9-dcd.byteimg.com/img/motor-img/d3231d1b2ec7fb6d172f36d3088f09ba~noop.png,,True,220008950000000,96.85-174.00万,,,,,416,1628414032317010005,22,雷克萨斯,SUV·停售
+雷克萨斯,指导价：,1,雷克萨斯RC,44.60-58.60万,896,https://p1-dcd.byteimg.com/img/motor-img/603577cb9f90a3b06fab6f177240b129~noop.png,,True,220008960000000,44.60-58.60万,,,,,0,1628414032317011408,22,雷克萨斯,跑车·停售
+雷克萨斯,指导价：,1,雷克萨斯SC,92.00-132.10万,897,https://p1-dcd.byteimg.com/img/motor-img/25f4ad99b8a717aa14f9f5e3058b215e~noop.png,,True,220008970000000,92.00-132.10万,,,,,0,1628414032317012189,22,雷克萨斯,跑车·停售
+雷克萨斯F,指导价：,1,雷克萨斯LFA,598.80万,899,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef50000c5c2628e9e7d~noop.png,,True,220008990000000,598.80万,,,,,0,1628414032317013041,22,雷克萨斯,跑车·停售
+雷克萨斯,指导价：,3,雷克萨斯 LF-Z Electrified,暂无报价,5007,https://p1-dcd.byteimg.com/img/motor-img/35efc1cc74287d904746db4cbe067594~noop.png,,True,220050070000000,暂无报价,,,,,0,1628414032317014845,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-SA,暂无报价,2226,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700006ab78d57cd70~noop.png,,True,220022260000000,暂无报价,,,,,0,1628414032317015626,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-Ch,暂无报价,3820,https://p1-dcd.byteimg.com/img/motor-img/cf585e6709ad084c86c37257efb26c41~noop.png,,True,220038200000000,暂无报价,,,,,0,1628414032317016377,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-30,暂无报价,4222,https://p1-dcd.byteimg.com/img/motor-img/335ef8a1bcf7475238089b28d44d2a7f~noop.png,,True,220042220000000,暂无报价,,,,,0,1628414032317017129,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-Gh,暂无报价,3821,https://p1-dcd.byteimg.com/img/motor-img/b6509fed4ea47c1ea1578c495e963b4f~noop.png,,True,220038210000000,暂无报价,,,,,0,1628414032317017840,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-FC,暂无报价,2223,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef70000501d51ca1d5b~noop.png,,True,220022230000000,暂无报价,,,,,0,1628414032317018602,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,LS概念车,暂无报价,1953,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000bfa69e2ada4b~noop.png,,True,220019530000000,暂无报价,,,,,0,1628414032317019433,22,雷克萨斯,轿车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-NX,暂无报价,3230,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000ac03e13ec7ab~noop.png,,True,220032300000000,暂无报价,,,,,0,1628414032317020766,22,雷克萨斯,SUV·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-Xh,暂无报价,3823,https://p1-dcd.byteimg.com/img/motor-img/a74bfb962574aac954ab8f19279896d0~noop.png,,True,220038230000000,暂无报价,,,,,0,1628414032317021457,22,雷克萨斯,SUV·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-1 Limitless,暂无报价,1981,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef700006a9f1429976b~noop.png,,True,220019810000000,暂无报价,,,,,0,1628414032317022249,22,雷克萨斯,SUV·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-CC,暂无报价,3311,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000bd473c195b0d~noop.png,,True,220033110000000,暂无报价,,,,,0,1628414032317024663,22,雷克萨斯,跑车·概念车
+雷克萨斯,指导价：,3,雷克萨斯LF-C2,暂无报价,2692,https://p3-dcd.byteimg.com/img/motor-img/9241110a3d3c1ba41ef788bbdb2404e4~noop.png,,True,220026920000000,暂无报价,,,,,0,1628414032317027038,22,雷克萨斯,跑车·概念车

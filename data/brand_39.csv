@@ -1,0 +1,26 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+上汽通用五菱,指导价：,0,五菱宏光MINIEV,2.88-4.36万,4499,https://p1-dcd.byteimg.com/img/motor-img/6efbde874de291b8176fa27814b9bef3~noop.png,2.88-4.36万,False,390044990000000,2.88-4.36万,,,,,315,1628414397342107546,39,五菱汽车,轿车,
+上汽通用五菱,指导价：,2,五菱星辰,暂无报价,5037,https://p1-dcd.byteimg.com/img/motor-img/2682b17d9ffc03ae161ff07c663dbe34~noop.png,暂无报价,True,390050370000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414397342109456,39,五菱汽车,SUV,"{'type': 4, 'text': '即将上市'}"
+上汽通用五菱,指导价：,0,五菱宏光S3,5.98-8.28万,1626,https://p3-dcd.byteimg.com/img/motor-img/ee52474b720ca4abdd651e5483736e01~noop.png,5.98-8.28万,False,390016260000000,5.98-8.28万,,,,,337,1628414397342111211,39,五菱汽车,MPV,
+上汽通用五菱,指导价：,0,五菱730,7.08-7.10万,4163,https://p1-dcd.byteimg.com/img/motor-img/58541abed91e76f8ab42f015f34a000f~noop.png,7.08-7.10万,False,390041630000000,7.08-7.10万,,,,,0,1628414397342112104,39,五菱汽车,MPV,
+上汽通用五菱,指导价：,0,五菱宏光PLUS,5.88-7.98万,4159,https://p3-dcd.byteimg.com/img/motor-img/1ec592b512a4261b4b40dfdf0ac5127f~noop.png,5.68-7.68万,False,390041590000000,5.88-7.98万,,,,,349,1628414397342112828,39,五菱汽车,MPV,
+上汽通用五菱,指导价：,0,凯捷Victory,8.58-13.48万,4569,https://p1-dcd.byteimg.com/img/motor-img/717885332cf16c6c5f5c03da722bca2f~noop.png,8.58-12.48万,False,390045690000000,8.58-13.48万,,,,,369,1628414397342113762,39,五菱汽车,MPV,
+上汽通用五菱,指导价：,2,五菱征程,暂无报价,4901,https://p3-dcd.byteimg.com/img/motor-img/0b6b5a9096f80ad488fe5dc4b846bf56~noop.png,暂无报价,True,390049010000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414397342114672,39,五菱汽车,MPV,"{'type': 4, 'text': '即将上市'}"
+上汽通用五菱,指导价：,0,五菱征途,5.88-6.28万,4717,https://p1-dcd.byteimg.com/img/motor-img/bdfad4d89821718cf4f683972f467fbb~noop.png,5.88-6.28万,False,390047170000000,5.88-6.28万,,,,,330,1628414397342116269,39,五菱汽车,皮卡,
+五菱工业,指导价：,0,五菱EV50,10.80-11.98万,4490,https://p1-dcd.byteimg.com/img/motor-img/044382f4c36515d97cc11893f22e01f8~noop.png,10.80-11.98万,False,390044900000000,10.80-11.98万,,,,,0,1628414397342117757,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱之光,3.23-3.66万,1292,https://p1-dcd.byteimg.com/img/motor-img/b4b438fed5744021cbd677c1c8ae6f61~noop.png,3.13-3.66万,False,390012920000000,3.23-3.66万,,,,,0,1628414397342118552,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱荣光,4.07-5.75万,1291,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef3000076f79407b7a0~noop.png,4.07-5.75万,False,390012910000000,4.07-5.75万,,,,,0,1628414397342119276,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱荣光V,4.48-4.98万,1293,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef200007abea326ec76~noop.png,4.28-4.78万,False,390012930000000,4.48-4.98万,,,,,0,1628414397342120166,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱荣光EV,8.38-9.01万,4320,https://p3-dcd.byteimg.com/img/motor-img/839dcb62d7de394178f6d313060906da~noop.png,8.38-9.01万,False,390043200000000,8.38-9.01万,,,,,0,1628414397342121267,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱宏光,4.58-5.98万,1290,https://p1-dcd.byteimg.com/img/motor-img/5e5eb3f0b2e232525d8d7f1d44fa55fb~noop.png,4.50-5.88万,False,390012900000000,4.58-5.98万,,,,,326,1628414397342122069,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱宏光V,4.29-5.45万,3192,https://p9-dcd.byteimg.com/img/motor-img/7fd71a5d85ae9d488214be132d66f555~noop.png,4.29-5.45万,False,390031920000000,4.29-5.45万,,,,,0,1628414397342123096,39,五菱汽车,微面,
+上汽通用五菱,指导价：,0,五菱之光小卡,3.49-3.79万,1289,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000079a446b7cb16~noop.png,3.39-3.69万,False,390012890000000,3.49-3.79万,,,,,0,1628414397342124499,39,五菱汽车,微卡,
+上汽通用五菱,指导价：,0,五菱荣光小卡,3.96-5.04万,1288,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000076fa9db1be3f~noop.png,3.96-5.04万,False,390012880000000,3.96-5.04万,,,,,0,1628414397342125122,39,五菱汽车,微卡,
+五菱工业,指导价：,0,五菱荣光小卡翼开启,4.45-5.58万,4571,https://p9-dcd.byteimg.com/img/motor-img/35e47f0873f1cd7230d6368ee1f95555~noop.png,4.45-5.58万,False,390045710000000,4.45-5.58万,,,,,0,1628414397342125778,39,五菱汽车,微卡,"{'type': 2, 'text': '2021新款'}"
+上汽通用五菱,指导价：,0,五菱荣光新卡,4.98-6.28万,2962,https://p9-dcd.byteimg.com/img/mosaic-legacy/65de00010f6a1dec7ab9~noop.png,4.98-6.28万,False,390029620000000,4.98-6.28万,,,,,0,1628414397342126393,39,五菱汽车,微卡,
+五菱工业,指导价：,0,五菱荣光新卡翼开启,5.92-6.78万,4572,https://p9-dcd.byteimg.com/img/motor-img/1fa261081a218d72a9dd4e5a97691e7d~noop.png,5.92-6.78万,False,390045720000000,5.92-6.78万,,,,,0,1628414397342126976,39,五菱汽车,微卡,"{'type': 2, 'text': '2021新款'}"
+五菱工业,指导价：,0,五菱电卡,11.58-13.88万,5145,https://p1-dcd.byteimg.com/img/motor-img/680206d0d7edd1a219254f95e5263824~noop.png,11.58-13.88万,False,390051450000000,11.58-13.88万,,,,,0,1628414397342127581,39,五菱汽车,微卡,
+上汽通用五菱,指导价：,3,五菱宏光EV,暂无报价,4319,https://p1-dcd.byteimg.com/img/motor-img/3c31cef76aa9a5e1eb45705f80fc2d0f~noop.png,,True,390043190000000,暂无报价,,,,,0,1628414397342129489,39,五菱汽车,微面·未上市,
+上汽通用五菱,指导价：,1,PN货车,3.66-3.99万,1287,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000079a585aac194~noop.png,,True,390012870000000,3.66-3.99万,,,,,0,1628414397342131495,39,五菱汽车,微卡·停售,
+上汽通用五菱,指导价：,1,五菱征程经典,6.60-7.70万,1295,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef0000079a6e9310e15~noop.png,,True,390012950000000,6.60-7.70万,,,,,0,1628414397342133259,39,五菱汽车,轻客·停售,
+上汽通用五菱,指导价：,3,宏光侠,暂无报价,4639,https://p1-dcd.byteimg.com/img/motor-img/05beeb5bdd5945a17c262a8c2a756cfa~noop.png,,True,390046390000000,暂无报价,,,,,0,1628414397342135572,39,五菱汽车,SUV·概念车,

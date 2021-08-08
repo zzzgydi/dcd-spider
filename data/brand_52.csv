@@ -1,0 +1,14 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+北京越野,指导价：,0,北京BJ30,10.58-12.58万,4567,https://p1-dcd.byteimg.com/img/motor-img/73daee41a9453f328dbdf08bbde75ebf~noop.png,10.38-12.38万,False,520045670000000,10.58-12.58万,,,,,346,1628413677348622189,52,北京,SUV,
+北京越野,指导价：,0,北京BJ40,15.98-26.99万,164,https://p1-dcd.byteimg.com/img/motor-img/6df050a57e46c927931243e0cccd1cb3~noop.png,15.78-26.79万,False,520001640000000,15.98-26.99万,,,,,350,1628413677348622920,52,北京,SUV,
+北京越野,指导价：,0,北京BJ80,29.80-39.80万,165,https://p9-dcd.byteimg.com/img/motor-img/4f52b32a408cd7fd40a897d72970964f~noop.png,29.60-39.60万,False,520001650000000,29.80-39.80万,,,,,379,1628413677348623822,52,北京,SUV,
+北京越野,指导价：,0,北京BJ90,99.80-128.80万,1647,https://p1-dcd.byteimg.com/img/motor-img/122027b71b0c5c8274e34ad2b1aaea1d~noop.png,99.80-128.80万,False,520016470000000,99.80-128.80万,,,,,0,1628413677348624233,52,北京,SUV,"{'type': 2, 'text': '2021新款'}"
+北京越野,指导价：,0,北京F40,16.99万,3939,https://p1-dcd.byteimg.com/img/motor-img/311b096c8abb2f66202e7912868e66e1~noop.png,16.79万,False,520039390000000,16.99万,,,,,0,1628413677348625465,52,北京,皮卡,
+北京越野,指导价：,3,北京BJ80 PHEV,暂无报价,2862,https://p1-dcd.byteimg.com/img/motor-img/2e188f9f509a99dc4d80a46904895ac6~noop.png,,True,520028620000000,暂无报价,,,,,0,1628413677348626828,52,北京,SUV·未上市,
+北京越野,指导价：,3,北京BJ80皮卡PHEV,暂无报价,4321,https://p3-dcd.byteimg.com/img/motor-img/8d184ba90bc1b083dcad4ff019d0f0da~noop.png,,True,520043210000000,暂无报价,,,,,0,1628413677348629533,52,北京,皮卡·未上市,
+北京越野,指导价：,1,北京BJ20,9.68-13.98万,163,https://p1-dcd.byteimg.com/img/motor-img/583553a2c4c562a29f7292b510066a15~noop.png,,True,520001630000000,9.68-13.98万,,,,,0,1628413677348631346,52,北京,SUV·停售,
+北京越野,指导价：,1,北京B70,暂无报价,3941,https://p9-dcd.byteimg.com/img/motor-img/8398752d16cc46bebbdc505f97c0244f~noop.png,,True,520039410000000,暂无报价,,,,,0,1628413677348632569,52,北京,SUV·停售,
+北京越野,指导价：,1,北京B90,暂无报价,3943,https://p1-dcd.byteimg.com/img/motor-img/cfcd8190ab09d21401f7efbfca684032~noop.png,,True,520039430000000,暂无报价,,,,,0,1628413677348633490,52,北京,SUV·停售,
+北京越野,指导价：,3,concept500,暂无报价,2354,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000e56866631c0a~noop.png,,True,520023540000000,暂无报价,,,,,0,1628413677348634863,52,北京,SUV·概念车,
+北京越野,指导价：,3,北京BJ100,暂无报价,2594,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400002c558e2b6fba~noop.png,,True,520025940000000,暂无报价,,,,,0,1628413677348635915,52,北京,SUV·概念车,
+北京越野,指导价：,3,concept900,暂无报价,2355,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef800003ba632617297~noop.png,,True,520023550000000,暂无报价,,,,,0,1628413677348637508,52,北京,跑车·概念车,

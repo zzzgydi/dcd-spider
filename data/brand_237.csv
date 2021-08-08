@@ -1,0 +1,11 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+广汽丰田,指导价：,0,广汽丰田iA5,16.98-19.28万,4087,https://p9-dcd.byteimg.com/img/motor-img/d615385354694acde6298b463af5aba7~noop.png,12.98-15.28万,False,2370040870000000,16.98-19.28万,,,,,0,1628413852523100426,237,广汽集团,轿车
+广汽本田,指导价：,0,绎乐,16.78-18.98万,4795,https://p1-dcd.byteimg.com/img/motor-img/7c81468c2481b939613261d525bd1e8b~noop.png,12.78-14.98万,False,2370047950000000,16.78-18.98万,,,,,0,1628413852523101123,237,广汽集团,轿车
+广汽乘用车,指导价：,3,MOCA,暂无报价,4817,https://p1-dcd.byteimg.com/img/motor-img/bb5be957fdd79d6eb86d15528bb241de~noop.png,,True,2370048170000000,暂无报价,,,,,0,1628413852523103734,237,广汽集团,轿车·未上市
+广汽三菱,指导价：,1,祺智EV,12.98-23.05万,3020,https://p1-dcd.byteimg.com/img/motor-img/e67ad6399a94caeac64969b0a47a1537~noop.png,,True,2370030200000000,12.98-23.05万,,,,,0,1628413852523105719,237,广汽集团,SUV·停售
+广汽三菱,指导价：,1,祺智PHEV,20.98-21.98万,1916,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130001226640b207b7~noop.png,,True,2370019160000000,20.98-21.98万,,,,,0,1628413852523106500,237,广汽集团,SUV·停售
+广汽丰田,指导价：,1,广汽丰田ix4,21.48-22.48万,2854,https://p1-dcd.byteimg.com/img/motor-img/89909b5df8751a71b79137001ceb39de~noop.png,,True,2370028540000000,21.48-22.48万,,,,,0,1628413852523107530,237,广汽集团,SUV·停售
+广汽本田,指导价：,1,世锐PHEV,17.08-18.08万,3097,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000a6f961a2075e~noop.png,,True,2370030970000000,17.08-18.08万,,,,,0,1628413852523108481,237,广汽集团,SUV·停售
+广汽乘用车,指导价：,3,ENO.146,暂无报价,4309,https://p1-dcd.byteimg.com/img/motor-img/200b789288a53614b413c7018feab908~noop.png,,True,2370043090000000,暂无报价,,,,,0,1628413852523109929,237,广汽集团,轿车·概念车
+广汽三菱,指导价：,3,E-more概念车,暂无报价,2878,https://p1-dcd.byteimg.com/img/mosaic-legacy/17675000064c57a5573b2~noop.png,,True,2370028780000000,暂无报价,,,,,0,1628413852523110940,237,广汽集团,SUV·概念车
+广汽乘用车,指导价：,3,MAGIC BOX,暂无报价,4310,https://p1-dcd.byteimg.com/img/motor-img/6a985e14dd941eb4310aa7f550a9d222~noop.png,,True,2370043100000000,暂无报价,,,,,0,1628413852523111854,237,广汽集团,轻客·概念车

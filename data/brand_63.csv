@@ -1,0 +1,10 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+特斯拉中国,指导价：,0,Model 3,25.17-33.99万,3762,https://p1-dcd.byteimg.com/img/motor-img/85cdbb2cddad619dc7cde59f7bf9d3a3~noop.png,23.59-33.99万,False,630037620000000,25.17-33.99万,,,,,399,1628414332010802599,63,特斯拉,轿车,
+特斯拉(进口),指导价：,0,Model S,85.99-105.99万,1254,https://p1-dcd.byteimg.com/img/motor-img/6afa5478293e73b72dec9c24473ca0aa~noop.png,85.99-105.99万,False,630012540000000,85.99-105.99万,,,,,401,1628414332010803564,63,特斯拉,轿车,
+特斯拉中国,指导价：,0,Model Y,29.18-37.79万,4363,https://p3-dcd.byteimg.com/img/motor-img/369ece92bbd1c98470e0b22605b78f31~noop.png,27.60-37.79万,False,630043630000000,29.18-37.79万,,,,,401,1628414332010806620,63,特斯拉,SUV,
+特斯拉(进口),指导价：,0,Model X,90.99-99.99万,1255,https://p3-dcd.byteimg.com/img/motor-img/60726f1fd68d06ceea2ccab7edf5db1a~noop.png,90.99-99.99万,False,630012550000000,90.99-99.99万,,,,,393,1628414332010807666,63,特斯拉,SUV,
+特斯拉(进口),指导价：,2,Roadster,暂无报价,2339,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000dd22b88f8e09~noop.png,暂无报价,True,630023390000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414332010809198,63,特斯拉,跑车,"{'type': 4, 'text': '即将上市'}"
+特斯拉(进口),指导价：,2,Cybertruck,暂无报价,4306,https://p9-dcd.byteimg.com/img/motor-img/7b39b4fa2ab1886aaf3df4454550a58e~noop.png,暂无报价,True,630043060000000,暂无报价,暂无上市时间,暂无报价,,,0,1628414332010811097,63,特斯拉,皮卡,"{'type': 4, 'text': '即将上市'}"
+特斯拉中国,指导价：,3,Model 2,暂无报价,5272,https://p1-dcd.byteimg.com/img/motor-img/50639c7336d347df2722ecf8e296d053~noop.png,,True,630052720000000,暂无报价,,,,,0,1628414332010813061,63,特斯拉,轿车·未上市,
+特斯拉(进口),指导价：,3,Model Y(海外),暂无报价,3178,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef4000061619ac4963a~noop.png,,True,630031780000000,暂无报价,,,,,0,1628414332010814560,63,特斯拉,SUV·未上市,
+特斯拉(进口),指导价：,1,Model 3(进口),36.39-50.99万,1563,https://p1-dcd.byteimg.com/img/motor-img/90d6df5c9b14fd012251ad38300655a4~noop.png,,True,630015630000000,36.39-50.99万,,,,,400,1628414332010815662,63,特斯拉,轿车·停售,

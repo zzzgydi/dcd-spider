@@ -1,0 +1,5 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+车驰汽车,指导价：,0,车驰V-Class,89.80-118.00万,3732,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef500002d3c7b5ff146~noop.png,89.80-118.00万,False,3040037320000000,89.80-118.00万,,,,,0,1628413745970512435,304,车驰汽车,MPV
+车驰汽车,指导价：,1,车驰T系列,85.80万,3912,https://p3-dcd.byteimg.com/img/motor-img/05618c7b7d27a5de0b75e708f67c869b~noop.png,,True,3040039120000000,85.80万,,,,,0,1628413745970515231,304,车驰汽车,MPV·停售
+车驰汽车,指导价：,1,车驰Sprinter,168.00万,3730,https://p1-dcd.byteimg.com/img/motor-img/2bc143ae6cb596bbdf298a4caf62289c~noop.png,,True,3040037300000000,168.00万,,,,,0,1628413745970516586,304,车驰汽车,MPV·停售
+车驰汽车,指导价：,1,车驰Daily,89.80万,3913,https://p1-dcd.byteimg.com/img/motor-img/e384fdfb9c487c3354bb939d06edd8e3~noop.png,,True,3040039130000000,89.80万,,,,,0,1628413745970519070,304,车驰汽车,轻客·停售

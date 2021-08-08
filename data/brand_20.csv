@@ -1,0 +1,23 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+保时捷,指导价：,0,Taycan,88.80-180.80万,3663,https://p1-dcd.byteimg.com/img/motor-img/79292e5eebd5778b729747e93c6c1a24~noop.png,88.80-180.80万,False,200036630000000,88.80-180.80万,,,,"{'type': 2, 'text': '2022新款'}",,429,1628413665430464166,20,保时捷,轿车
+保时捷,指导价：,0,Panamera,97.30-245.80万,152,https://p1-dcd.byteimg.com/img/motor-img/28a8654a41d7f1354cf5eadffb6418a2~noop.png,97.30-245.80万,False,200001520000000,97.30-245.80万,,,,,,430,1628413665430465118,20,保时捷,轿车
+保时捷,指导价：,0,Panamera E-Hybrid,116.80-248.30万,153,https://p3-dcd.byteimg.com/img/motor-img/78083bf32f8ab122bc9aeb80bf364dbe~noop.png,116.80-248.30万,False,200001530000000,116.80-248.30万,,,,,,428,1628413665430465859,20,保时捷,轿车
+保时捷,指导价：,0,Macan,53.10-92.50万,154,https://p9-dcd.byteimg.com/img/motor-img/0a80f8ef31a5593f5e3cb6896c6e4031~noop.png,53.10-92.50万,False,200001540000000,53.10-92.50万,,,,"{'type': 2, 'text': '2021新款'}",,405,1628413665430467112,20,保时捷,SUV
+保时捷,指导价：,0,Cayenne,91.30-184.00万,155,https://p1-dcd.byteimg.com/img/motor-img/3f4b0a5925ee9ebc28591704dc843b99~noop.png,91.30-184.00万,False,200001550000000,91.30-184.00万,,,,,,427,1628413665430467643,20,保时捷,SUV
+保时捷,指导价：,0,Cayenne Coupé,99.80-243.80万,5172,https://p3-dcd.byteimg.com/img/motor-img/c0af2263ded0e36e933768d1f2cfff2b~noop.png,99.80-243.80万,False,200051720000000,99.80-243.80万,,,,,,0,1628413665430468234,20,保时捷,SUV
+保时捷,指导价：,0,Cayenne E-Hybrid,86.80万,156,https://p9-dcd.byteimg.com/img/motor-img/2708d8ac4cf03ec6415a21c90fbbc2ef~noop.png,86.80万,False,200001560000000,86.80万,,,,,,0,1628413665430468635,20,保时捷,SUV
+保时捷,指导价：,0,Cayenne E-Hybrid Coupé,93.80万,5173,https://p1-dcd.byteimg.com/img/motor-img/fdf97f0951f97b2114e3b40acb7abd15~noop.png,93.80万,False,200051730000000,93.80万,,,,,,0,1628413665430469466,20,保时捷,SUV
+保时捷,指导价：,0,保时捷718,54.50-98.60万,161,https://p9-dcd.byteimg.com/img/motor-img/b1cdec551b2ec5cbf21056186a9c5bff~noop.png,54.50-98.60万,False,200001610000000,54.50-98.60万,,,,,,393,1628413665430470638,20,保时捷,跑车
+保时捷,指导价：,0,保时捷911,127.80-311.45万,157,https://p1-dcd.byteimg.com/img/motor-img/36a5c683508cfaefe6350ced649bf34d~noop.png,127.80-311.45万,False,200001570000000,127.80-311.45万,,,,,,433,1628413665430471159,20,保时捷,跑车
+保时捷,指导价：,3,保时捷99X,暂无报价,5100,https://p9-dcd.byteimg.com/img/motor-img/86690feeac395d94cbd237c3157eef17~noop.png,,True,200051000000000,暂无报价,,,,,,0,1628413665430472943,20,保时捷,跑车·未上市
+保时捷,指导价：,1,Boxster,67.00-107.20万,158,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000aa514d61307f~noop.png,,True,200001580000000,67.00-107.20万,,,,,,0,1628413665430474666,20,保时捷,跑车·停售
+保时捷,指导价：,1,Cayman,72.70-114.80万,159,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b130001309fc24e1f38~noop.png,,True,200001590000000,72.70-114.80万,,,,,,0,1628413665430475758,20,保时捷,跑车·停售
+保时捷,指导价：,1,保时捷968,暂无报价,3916,https://p1-dcd.byteimg.com/img/motor-img/02609954887bdc6c3ed37032e2a645e3~noop.png,,True,200039160000000,暂无报价,,,,,,0,1628413665430476509,20,保时捷,跑车·停售
+保时捷,指导价：,1,Carrera GT,645.00万,1875,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef8000066d6ac95a131~noop.png,,True,200018750000000,645.00万,,,,,,0,1628413665430477241,20,保时捷,跑车·停售
+保时捷,指导价：,1,918 Spyder,1338.80-1463.50万,160,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006bc1d4f53d66~noop.png,,True,200001600000000,1338.80-1463.50万,,,,,,0,1628413665430477962,20,保时捷,跑车·停售
+保时捷,指导价：,1,保时捷356,暂无报价,3432,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000cc1e487186a9~noop.png,,True,200034320000000,暂无报价,,,,,,0,1628413665430478664,20,保时捷,跑车·停售
+保时捷,指导价：,3,Pajun,暂无报价,4066,https://p1-dcd.byteimg.com/img/motor-img/3fd4ac2917401dde685bc20b5efa22b4~noop.png,,True,200040660000000,暂无报价,,,,,,0,1628413665430480126,20,保时捷,轿车·概念车
+保时捷,指导价：,3,Mission E,暂无报价,2126,https://p1-dcd.byteimg.com/img/motor-img/d1ced4957cb30b0388cc79fb85ec0d7c~noop.png,,True,200021260000000,暂无报价,,,,,,0,1628413665430480898,20,保时捷,轿车·概念车
+保时捷,指导价：,3,981 Bergspyder,暂无报价,4083,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef6000068378d803160~noop.png,,True,200040830000000,暂无报价,,,,,,0,1628413665430482050,20,保时捷,跑车·概念车
+保时捷,指导价：,3,917 Concept Study,暂无报价,4908,https://p1-dcd.byteimg.com/img/motor-img/ddc733177da39b516943ef5e8239d67b~noop.png,,True,200049080000000,暂无报价,,,,,,0,1628413665430482871,20,保时捷,跑车·概念车
+保时捷,指导价：,3,919 Hybrid,暂无报价,2307,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400002e3414afdb6d~noop.png,,True,200023070000000,暂无报价,,,,,,0,1628413665430483683,20,保时捷,跑车·概念车

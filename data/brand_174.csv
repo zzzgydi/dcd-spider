@@ -1,0 +1,18 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+领克,指导价：,0,领克02 Hatchback,17.68-18.18万,4970,https://p3-dcd.byteimg.com/img/motor-img/d74bf9dd4b8264bde85a39c588b4e54e~noop.png,17.68-18.18万,False,1740049700000000,17.68-18.18万,,,,,385,1628414036882050270,174,领克,轿车,
+领克,指导价：,0,领克03,11.38-24.88万,1623,https://p1-dcd.byteimg.com/img/motor-img/d923186712601a26512869ce66a687df~noop.png,10.68-24.88万,False,1740016230000000,11.38-24.88万,,,,,391,1628414036882051342,174,领克,轿车,"{'type': 2, 'text': '2022新款'}"
+领克,指导价：,0,领克03 PHEV,17.67-19.67万,3346,https://p1-dcd.byteimg.com/img/motor-img/7b931011c106e2b125fd002b45591d33~noop.png,16.67-18.67万,False,1740033460000000,17.67-19.67万,,,,,0,1628414036882052153,174,领克,轿车,
+领克,指导价：,0,领克06,11.86-13.86万,4342,https://p1-dcd.byteimg.com/img/motor-img/e376a4c8bb692c240f90c124165802d3~noop.png,11.36-13.36万,False,1740043420000000,11.86-13.86万,,,,,385,1628414036882053866,174,领克,SUV,
+领克,指导价：,0,领克06 PHEV,15.86万,4340,https://p1-dcd.byteimg.com/img/motor-img/7cc60cb72dbc93f7f39ed176b08dfb58~noop.png,14.86万,False,1740043400000000,15.86万,,,,,378,1628414036882054748,174,领克,SUV,
+领克,指导价：,0,领克02,11.98-16.88万,2765,https://p3-dcd.byteimg.com/img/motor-img/2509e6110052489d6a45bdf28f3e5ad7~noop.png,11.28-16.38万,False,1740027650000000,11.98-16.88万,,,,,384,1628414036882055249,174,领克,SUV,"{'type': 2, 'text': '2022新款'}"
+领克,指导价：,0,领克02 PHEV,18.27-19.77万,3144,https://p1-dcd.byteimg.com/img/motor-img/a1c969b76a62b44be4bb15c02c7f6431~noop.png,17.27-18.77万,False,1740031440000000,18.27-19.77万,,,,,0,1628414036882055860,174,领克,SUV,
+领克,指导价：,0,领克01,17.98-20.18万,1622,https://p1-dcd.byteimg.com/img/motor-img/669ffa3168ad24245b7a3a25cf6462f9~noop.png,17.68-19.88万,False,1740016220000000,17.98-20.18万,,,,,397,1628414036882056712,174,领克,SUV,
+领克,指导价：,0,领克01 PHEV,22.27万,2883,https://p1-dcd.byteimg.com/img/motor-img/55220b29f9528f11a7fa91162c11a199~noop.png,21.27万,False,1740028830000000,22.27万,,,,,0,1628414036882057353,174,领克,SUV,
+领克,指导价：,0,领克05,17.58-23.58万,3463,https://p1-dcd.byteimg.com/img/motor-img/cff4c61a0e43e7224d6fe349bbc59f86~noop.png,17.08-23.08万,False,1740034630000000,17.58-23.58万,,,,,395,1628414036882058205,174,领克,SUV,
+领克,指导价：,0,领克05 PHEV,22.77万,4156,https://p1-dcd.byteimg.com/img/motor-img/307ff08000674f18865a9a638d0203a2~noop.png,21.77万,False,1740041560000000,22.77万,,,,,0,1628414036882058786,174,领克,SUV,
+领克,指导价：,3,领克ZERO,暂无报价,4666,https://p1-dcd.byteimg.com/img/motor-img/f8c42e2c9b9f300e17b20bae30495d2e~noop.png,,True,1740046660000000,暂无报价,,,,,0,1628414036882060619,174,领克,轿车·未上市,
+领克,指导价：,3,领克09,暂无报价,5081,https://p1-dcd.byteimg.com/img/motor-img/290a8da0497062751a4f4a0621c81847~noop.png,,True,1740050810000000,暂无报价,,,,,0,1628414036882062002,174,领克,SUV·未上市,
+领克,指导价：,3,领克EX11,暂无报价,4370,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,1740043700000000,暂无报价,,,,,0,1628414036882064907,174,领克,SUV·未上市,
+领克,指导价：,3,LYNK概念车,暂无报价,3858,https://p1-dcd.byteimg.com/img/motor-img/a215990304d870ce1d7335494e87d6dc~noop.png,,True,1740038580000000,暂无报价,,,,,0,1628414036882066460,174,领克,轿车·概念车,
+领克,指导价：,3,领克03 Cyan概念车,暂无报价,3470,https://p1-dcd.byteimg.com/img/mosaic-legacy/17674000066788110628a~noop.png,,True,1740034700000000,暂无报价,,,,,0,1628414036882067392,174,领克,轿车·概念车,
+领克,指导价：,3,01概念车,暂无报价,2790,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000df170803d659~noop.png,,True,1740027900000000,暂无报价,,,,,0,1628414036882069105,174,领克,SUV·概念车,

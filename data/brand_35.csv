@@ -1,0 +1,50 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+长安汽车,指导价：,0,奔奔E-Star,2.98-7.48万,4416,https://p1-dcd.byteimg.com/img/motor-img/5a66c6bc0c1d71c7e6f68f53b902d1b9~noop.png,2.98-7.48万,False,350044160000000,2.98-7.48万,,,,,327,1628413730325571456,35,长安,轿车
+长安汽车,指导价：,0,悦翔,5.19-6.79万,1454,https://p1-dcd.byteimg.com/img/motor-img/22f852bbe8a475779133939bf47a43b4~noop.png,4.69-6.29万,False,350014540000000,5.19-6.79万,,,,,335,1628413730325572588,35,长安,轿车
+长安汽车,指导价：,0,逸动DT,5.49-8.09万,2315,https://p1-dcd.byteimg.com/img/motor-img/9829b35e78b51678ea13c700e3fc820d~noop.png,4.99-7.59万,False,350023150000000,5.49-8.09万,,,,,366,1628413730325573587,35,长安,轿车
+长安汽车,指导价：,0,逸动XT,7.99-11.19万,2999,https://p1-dcd.byteimg.com/img/motor-img/26b554276fd2cd5bb81b8f5dd5d18ffc~noop.png,7.99-11.19万,False,350029990000000,7.99-11.19万,,,,,357,1628413730325574488,35,长安,轿车
+长安汽车,指导价：,0,逸动,7.29-10.39万,1455,https://p1-dcd.byteimg.com/img/motor-img/ac25a68def57fbecebe6bea6d5d2549c~noop.png,6.49-9.79万,False,350014550000000,7.29-10.39万,,,,,366,1628413730325575611,35,长安,轿车
+长安汽车,指导价：,0,逸动ET,13.29万,3086,https://p1-dcd.byteimg.com/img/motor-img/3deef379bf2e9d93b8ae3115e88131eb~noop.png,13.29万,False,350030860000000,13.29万,,,,,0,1628413730325576332,35,长安,轿车
+长安汽车,指导价：,0,逸动EV,12.99-13.99万,1456,https://p1-dcd.byteimg.com/img/motor-img/436afddc96adbf1bea9ad5e693d13a35~noop.png,12.99-13.99万,False,350014560000000,12.99-13.99万,,,,,0,1628413730325577196,35,长安,轿车
+长安汽车,指导价：,0,锐程CC,9.49-12.89万,4188,https://p9-dcd.byteimg.com/img/motor-img/d05cdc90825dbb841c11b384ebf1276f~noop.png,8.99-12.39万,False,350041880000000,9.49-12.89万,,,,,362,1628413730325578055,35,长安,轿车
+长安汽车,指导价：,0,长安CS15,6.19-7.69万,1460,https://p3-dcd.byteimg.com/img/motor-img/3286bf0263e5734ce7ccc0c763630315~noop.png,5.99-7.49万,False,350014600000000,6.19-7.69万,,,,,348,1628413730325579723,35,长安,SUV
+长安汽车,指导价：,0,长安CS15 EV,8.98-9.88万,1780,https://p9-dcd.byteimg.com/img/motor-img/1884bc66fedd119c0013b9854353f1bf~noop.png,8.98-9.88万,False,350017800000000,8.98-9.88万,,,,,0,1628413730325580451,35,长安,SUV
+长安汽车,指导价：,0,长安CS15 E-Pro,10.69-12.69万,4291,https://p1-dcd.byteimg.com/img/motor-img/dc11a56d5d4227da2f204f19b9d42c67~noop.png,10.69-12.69万,False,350042910000000,10.69-12.69万,,,,,0,1628413730325581110,35,长安,SUV
+长安汽车,指导价：,0,长安CS35 PLUS,6.99-10.99万,3052,https://p9-dcd.byteimg.com/img/motor-img/810127c3c51f072dd2ea70a1a5aa09db~noop.png,6.49-10.59万,False,350030520000000,6.99-10.99万,,,,,361,1628413730325581828,35,长安,SUV
+长安汽车,指导价：,0,长安CS55,8.49-13.39万,1599,https://p1-dcd.byteimg.com/img/motor-img/33da50d7e6e8c18758288585752ea90a~noop.png,8.49-13.39万,False,350015990000000,8.49-13.39万,,,,,362,1628413730325582581,35,长安,SUV
+长安汽车,指导价：,0,CS55 E-Rock,15.99-20.09万,4082,https://p1-dcd.byteimg.com/img/motor-img/d04bebe97fb649562e55b88d4c056162~noop.png,15.99-20.09万,False,350040820000000,15.99-20.09万,,,,,0,1628413730325583450,35,长安,SUV
+长安汽车,指导价：,0,长安CS55 PLUS,9.29-11.39万,4223,https://p9-dcd.byteimg.com/img/motor-img/9fc0561935e86790ff4127c92360c04a~noop.png,8.79-10.89万,False,350042230000000,9.29-11.39万,,,,,366,1628413730325584176,35,长安,SUV
+长安汽车,指导价：,0,长安UNI-T,11.59-13.89万,4353,https://p9-dcd.byteimg.com/img/motor-img/4cb5a6121b5024c615f17b77f08678f5~noop.png,11.59-13.89万,False,350043530000000,11.59-13.89万,,,,,384,1628413730325585167,35,长安,SUV
+长安汽车,指导价：,0,长安CS75,10.39-12.19万,1462,https://p1-dcd.byteimg.com/img/motor-img/6f272dbca2406f52305073f1430ad0b1~noop.png,8.39-10.19万,False,350014620000000,10.39-12.19万,,,,,375,1628413730325585929,35,长安,SUV
+长安汽车,指导价：,0,长安CS75 PHEV,17.68-20.78万,2853,https://p1-dcd.byteimg.com/img/motor-img/71d0357c25689df2398c74eaa181b2d7~noop.png,17.68-20.78万,False,350028530000000,17.68-20.78万,,,,,0,1628413730325587014,35,长安,SUV
+长安汽车,指导价：,0,长安CS75 PLUS,10.69-15.49万,3196,https://p3-dcd.byteimg.com/img/motor-img/a4f9d56bada17a8fffb9fcede936e720~noop.png,10.49-15.29万,False,350031960000000,10.69-15.49万,,,,,383,1628413730325587821,35,长安,SUV
+长安汽车,指导价：,0,长安CS85 COUPE,11.99-16.49万,2993,https://p1-dcd.byteimg.com/img/motor-img/04fea8b765c9d64e8bde4523499c4824~noop.png,11.49-15.99万,False,350029930000000,11.99-16.49万,,,,,376,1628413730325588538,35,长安,SUV
+长安汽车,指导价：,0,长安UNI-K,15.39-18.49万,4783,https://p1-dcd.byteimg.com/img/motor-img/334cab7d98f94e588fb1e309c2c0f811~noop.png,15.39-18.49万,False,350047830000000,15.39-18.49万,,,,,389,1628413730325589126,35,长安,SUV
+长安汽车,指导价：,0,长安CS95,17.59-21.39万,1463,https://p1-dcd.byteimg.com/img/motor-img/9b250286a125cb1ae791619b294ed172~noop.png,16.79-20.59万,False,350014630000000,17.59-21.39万,,,,,382,1628413730325589712,35,长安,SUV
+长安汽车,指导价：,3,长安E30,暂无报价,2344,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000fdf4023a0750~noop.png,,True,350023440000000,暂无报价,,,,,0,1628413730325591860,35,长安,轿车·未上市
+长安汽车,指导价：,3,CINTURX,暂无报价,3834,https://p9-dcd.byteimg.com/img/motor-img/6e0ead9e3cd0755684f199bd61e4f962~noop.png,,True,350038340000000,暂无报价,,,,,0,1628413730325592928,35,长安,轿车·未上市
+长安汽车,指导价：,3,长安CS75 FCV,暂无报价,5204,https://p1-dcd.byteimg.com/img/motor-img/71d0357c25689df2398c74eaa181b2d7~noop.png,,True,350052040000000,暂无报价,,,,,0,1628413730325594503,35,长安,SUV·未上市
+长安汽车,指导价：,3,长安UNI-K PHEV,暂无报价,5216,https://p1-dcd.byteimg.com/img/motor-img/cab380d022a7fd49920f53f21802ebe9~noop.png,,True,350052160000000,暂无报价,,,,,0,1628413730325595541,35,长安,SUV·未上市
+长安汽车,指导价：,3,长安CS-GXNEV,暂无报价,4950,https://p1-dcd.byteimg.com/img/motor-img/c8f9406a9f97172422fe535ff82f01a7~noop.png,,True,350049500000000,暂无报价,,,,,0,1628413730325596579,35,长安,SUV·未上市
+长安汽车,指导价：,3,长安VOSS,暂无报价,2306,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500002c4b730bd739~noop.png,,True,350023060000000,暂无报价,,,,,0,1628413730325598138,35,长安,MPV·未上市
+长安汽车,指导价：,1,奔奔EV,4.98-17.18万,1593,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef100010fe108d676a2~noop.png,,True,350015930000000,4.98-17.18万,,,,,0,1628413730325601997,35,长安,轿车·停售
+长安汽车,指导价：,1,奔奔,4.09-5.99万,1446,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef4000019f1e435bf06~noop.png,,True,350014460000000,4.09-5.99万,,,,,0,1628413730325602925,35,长安,轿车·停售
+长安汽车,指导价：,1,长安V802,暂无报价,3900,https://p9-dcd.byteimg.com/img/motor-img/018c15fb808888917340bfb449a44cbe~noop.png,,True,350039000000000,暂无报价,,,,,0,1628413730325604059,35,长安,轿车·停售
+长安汽车,指导价：,1,奔奔MINI,2.99-4.99万,1445,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300002f9e83292b60~noop.png,,True,350014450000000,2.99-4.99万,,,,,0,1628413730325604952,35,长安,轿车·停售
+长安汽车,指导价：,1,奔奔i,3.69-5.88万,1448,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de00010ba782cb49cf~noop.png,,True,350014480000000,3.69-5.88万,,,,,0,1628413730325605914,35,长安,轿车·停售
+长安汽车,指导价：,1,奔奔LOVE,3.89-5.89万,1449,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767500004dd8ca231e63~noop.png,,True,350014490000000,3.89-5.89万,,,,,0,1628413730325606851,35,长安,轿车·停售
+长安汽车,指导价：,1,长安CX20,4.99-7.09万,1450,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30001382a45450a25~noop.png,,True,350014500000000,4.99-7.09万,,,,,0,1628413730325607833,35,长安,轿车·停售
+长安汽车,指导价：,1,悦翔V3,4.39-5.29万,1451,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400004cc7a3eb0c37~noop.png,,True,350014510000000,4.39-5.29万,,,,,0,1628413730325608983,35,长安,轿车·停售
+长安汽车,指导价：,1,悦翔V5,6.19-7.59万,1452,https://p1-dcd.byteimg.com/img/mosaic-legacy/176760000156a7d19eb31~noop.png,,True,350014520000000,6.19-7.59万,,,,,0,1628413730325610006,35,长安,轿车·停售
+长安汽车,指导价：,1,悦翔V7,5.29-8.79万,1453,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000151eb5c31746f~noop.png,,True,350014530000000,5.29-8.79万,,,,,0,1628413730325610845,35,长安,轿车·停售
+长安汽车,指导价：,1,长安CX30,6.38-10.68万,1458,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000034181d79eb02~noop.png,,True,350014580000000,6.38-10.68万,,,,,0,1628413730325612301,35,长安,轿车·停售
+长安汽车,指导价：,1,志翔,7.98-11.58万,1457,https://p1-dcd.byteimg.com/img/mosaic-legacy/176750000648677252c2e~noop.png,,True,350014570000000,7.98-11.58万,,,,,0,1628413730325613254,35,长安,轿车·停售
+长安汽车,指导价：,1,睿骋,10.88-20.18万,1459,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000951959fffbd7~noop.png,,True,350014590000000,10.88-20.18万,,,,,0,1628413730325614211,35,长安,轿车·停售
+长安汽车,指导价：,1,睿骋CC,8.49-13.59万,1625,https://p1-dcd.byteimg.com/img/motor-img/9aa10dccbef1f76ffbb5ceebfd0ae616~noop.png,,True,350016250000000,8.49-13.59万,,,,,0,1628413730325615188,35,长安,轿车·停售
+长安汽车,指导价：,1,逸动PHEV,16.09-16.99万,1823,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300011efe2805143b~noop.png,,True,350018230000000,16.09-16.99万,,,,,0,1628413730325616313,35,长安,轿车·停售
+长安汽车,指导价：,1,长安CS35,6.39-9.89万,1461,https://p1-dcd.byteimg.com/img/motor-img/0a9dfa9e69f450658a4105ac2554c762~noop.png,,True,350014610000000,6.39-9.89万,,,,,366,1628413730325618015,35,长安,SUV·停售
+长安汽车,指导价：,1,杰勋,10.48-14.98万,1465,https://p1-dcd.byteimg.com/img/mosaic-legacy/888300009fedf8cddb9f~noop.png,,True,350014650000000,10.48-14.98万,,,,,0,1628413730325620209,35,长安,MPV·停售
+长安汽车,指导价：,1,凌轩,6.79-11.09万,1464,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000950e75194f56~noop.png,,True,350014640000000,6.79-11.09万,,,,,0,1628413730325621230,35,长安,MPV·停售
+长安汽车,指导价：,3,极流,暂无报价,1709,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef600006be86bdfcf6e~noop.png,,True,350017090000000,暂无报价,,,,,0,1628413730325622888,35,长安,轿车·概念车
+长安汽车,指导价：,3,长安Vision-V,暂无报价,4766,https://p1-dcd.byteimg.com/img/motor-img/90964023bd3b2ca1fe8393dee83902de~noop.png,,True,350047660000000,暂无报价,,,,,0,1628413730325624578,35,长安,SUV·概念车
+长安汽车,指导价：,3,御岳,暂无报价,2253,https://p9-dcd.byteimg.com/img/mosaic-legacy/1767400006a4f3841c603~noop.png,,True,350022530000000,暂无报价,,,,,0,1628413730325625550,35,长安,SUV·概念车

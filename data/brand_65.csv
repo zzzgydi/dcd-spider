@@ -1,0 +1,22 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+MINI,指导价：,0,MINI,19.08-37.68万,38,https://p1-dcd.byteimg.com/img/motor-img/11816ac3946a3b9e6c10f8d1cb7c4153~noop.png,19.08-37.68万,False,650000380000000,19.08-37.68万,,,,,367,1628414111993885259,65,MINI,轿车
+MINI JCW,指导价：,0,MINI JCW,32.58-36.18万,44,https://p1-dcd.byteimg.com/img/motor-img/391f78736a0e759282eeca3d11bd13f3~noop.png,32.57-36.17万,False,650000440000000,32.58-36.18万,,,,,0,1628414111993886019,65,MINI,轿车
+MINI,指导价：,0,MINI CLUBMAN,24.58-32.58万,39,https://p1-dcd.byteimg.com/img/motor-img/8d458fbbf24bb1028f21257881c80496~noop.png,24.57-32.58万,False,650000390000000,24.58-32.58万,,,,,0,1628414111993886632,65,MINI,轿车
+MINI JCW,指导价：,0,MINI JCW CLUBMAN,38.48-40.98万,45,https://p1-dcd.byteimg.com/img/motor-img/fd5b85df901cb738905d47278abf9ffa~noop.png,38.47-40.97万,False,650000450000000,38.48-40.98万,,,,,0,1628414111993887078,65,MINI,轿车
+MINI,指导价：,0,MINI COUNTRYMAN,24.88-34.38万,42,https://p1-dcd.byteimg.com/img/motor-img/b633b9c1d6ba4a07cfe7b2d67e49afc0~noop.png,24.87-34.38万,False,650000420000000,24.88-34.38万,,,,,382,1628414111993888263,65,MINI,SUV
+MINI JCW,指导价：,0,MINI JCW COUNTRYMAN,39.98-42.98万,47,https://p3-dcd.byteimg.com/img/motor-img/6337d4f6abd06c2df7df9aad2e6f35b4~noop.png,39.97-42.97万,False,650000470000000,39.98-42.98万,,,,,0,1628414111993888814,65,MINI,SUV
+MINI,指导价：,3,MINI ROCKETMAN,暂无报价,2335,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400004fd3b1bdb75f~noop.png,,True,650023350000000,暂无报价,,,,,0,1628414111993890853,65,MINI,轿车·未上市
+MINI,指导价：,3,MINI ELECTRIC,暂无报价,1740,https://p1-dcd.byteimg.com/img/mosaic-legacy/17674000004663baf8a25~noop.png,,True,650017400000000,暂无报价,,,,,0,1628414111993891696,65,MINI,轿车·未上市
+MINI,指导价：,3,MINI COUNTRYMAN ELECTRIC,暂无报价,2795,https://p1-dcd.byteimg.com/img/motor-img/06e263bcccc04f99cc0d08da0433daac~noop.png,,True,650027950000000,暂无报价,,,,,0,1628414111993893023,65,MINI,SUV·未上市
+MINI,指导价：,1,MINI ROADSTER,37.60-43.30万,40,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef600003f15a6b7c302~noop.png,,True,650000400000000,37.60-43.30万,,,,,0,1628414111993895087,65,MINI,轿车·停售
+MINI,指导价：,1,MINI VAN,暂无报价,3444,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef3000102b6e15ea2d7~noop.png,,True,650034440000000,暂无报价,,,,,0,1628414111993896267,65,MINI,轿车·停售
+MINI,指导价：,1,MINI BEACHCOMBER,暂无报价,4010,https://p9-dcd.byteimg.com/img/motor-img/bd68967e5b23884bb9a9126b6b715b77~noop.png,,True,650040100000000,暂无报价,,,,,0,1628414111993898162,65,MINI,SUV·停售
+MINI,指导价：,1,MINI PACEMAN,33.10-38.90万,41,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600003c3eedb81f17~noop.png,,True,650000410000000,33.10-38.90万,,,,,0,1628414111993898965,65,MINI,SUV·停售
+MINI JCW,指导价：,1,MINI JCW PACEMAN,43.90万,46,https://p1-dcd.byteimg.com/img/mosaic-legacy/17674000069fd5062e6c6~noop.png,,True,650000460000000,43.90万,,,,,0,1628414111993899585,65,MINI,SUV·停售
+MINI,指导价：,1,MINI COUPE,31.80-38.50万,43,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef800003f30cafbdcb1~noop.png,,True,650000430000000,31.80-38.50万,,,,,0,1628414111993900983,65,MINI,跑车·停售
+MINI JCW,指导价：,1,MINI JCW COUPE,42.50万,48,https://p1-dcd.byteimg.com/img/motor-img/7af95f498f497d802184fe67fa42ae4e~noop.png,,True,650000480000000,42.50万,,,,,0,1628414111993901723,65,MINI,跑车·停售
+MINI,指导价：,3,MINI VISION,暂无报价,2396,https://p1-dcd.byteimg.com/img/mosaic-legacy/17675000068ee7f04feea~noop.png,,True,650023960000000,暂无报价,,,,,0,1628414111993902795,65,MINI,轿车·概念车
+MINI,指导价：,3,MINI CLUBVAN,暂无报价,2477,https://p1-dcd.byteimg.com/img/motor-img/b4162f8cb045ca4cca08fee43dacc578~noop.png,,True,650024770000000,暂无报价,,,,,0,1628414111993903361,65,MINI,轿车·概念车
+MINI,指导价：,3,MINI Superleggera Vision,暂无报价,2670,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef500006f69aaf6e1d5~noop.png,,True,650026700000000,暂无报价,,,,,0,1628414111993903876,65,MINI,轿车·概念车
+MINI,指导价：,3,MINI VISION Next100,暂无报价,2044,https://p3-dcd.byteimg.com/img/motor-img/1d0aa496d2a2612dba3c429c2c3434a3~noop.png,,True,650020440000000,暂无报价,,,,,0,1628414111993904836,65,MINI,轿车·概念车
+MINI,指导价：,3,Vision Urbanaut,暂无报价,4812,https://p1-dcd.byteimg.com/img/motor-img/a411b8fbd06009484527e064a3310fef~noop.png,,True,650048120000000,暂无报价,,,,,0,1628414111993906060,65,MINI,MPV·概念车

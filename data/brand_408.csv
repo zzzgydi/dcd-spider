@@ -1,0 +1,4 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+松散机车,指导价：,0,SS DOLPHIN,59.80万,4753,https://p1-dcd.byteimg.com/img/motor-img/4bf176e0de27e9f7ffe8a089622d328f~noop.png,59.80万,False,4080047530000000,59.80万,,,,,0,1628414325274220751,408,松散机车,轿车,
+松散机车,指导价：,2,SS GT,暂无报价,5080,https://p1-dcd.byteimg.com/img/motor-img/37d5cba7135bb777c569fdb978478c96~noop.png,暂无报价,True,4080050800000000,暂无报价,暂无上市时间,29.80万,,,0,1628414325274221579,408,松散机车,轿车,"{'type': 4, 'text': '即将上市'}"
+松散机车,指导价：,0,SS SUMMER,28.80万,4754,https://p3-dcd.byteimg.com/img/motor-img/81c1aab2e418bddb260c144e933e328d~noop.png,28.80万,False,4080047540000000,28.80万,,,,,0,1628414325274222738,408,松散机车,MPV,

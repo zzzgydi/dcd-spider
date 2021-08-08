@@ -1,0 +1,5 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+长城汽车,指导价：,0,坦克300,19.58-23.00万,4615,https://p1-dcd.byteimg.com/img/motor-img/cce3530b58a24badc02ac94570c760b8~noop.png,19.58-23.00万,False,4250046150000000,19.58-23.00万,,,,"{'type': 2, 'text': '2021新款'}",,394,1628414334317583129,425,坦克,SUV
+长城汽车,指导价：,3,坦克600,暂无报价,5238,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,4250052380000000,暂无报价,,,,,,0,1628414334317585013,425,坦克,SUV·未上市
+长城汽车,指导价：,3,坦克700,暂无报价,5010,https://p1-dcd.byteimg.com/img/motor-img/56cb5b0989828d609b3b7d26fa901b7f~noop.png,,True,4250050100000000,暂无报价,,,,,,0,1628414334317585584,425,坦克,SUV·未上市
+长城汽车,指导价：,3,坦克800,暂无报价,5065,https://p1-dcd.byteimg.com/img/motor-img/5a6fc870d93f299e1067fce6da0b9f95~noop.png,,True,4250050650000000,暂无报价,,,,,,0,1628414334317586466,425,坦克,SUV·未上市

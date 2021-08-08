@@ -1,0 +1,27 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type,series_status_tag
+上汽通用五菱,指导价：,0,宝骏E100,4.98-5.48万,1592,https://p1-dcd.byteimg.com/img/motor-img/7cdb62efefe83adf4edb317995c448f3~noop.png,4.98-5.48万,False,3660015920000000,4.98-5.48万,,,,,325,1628413667583919798,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏E200,5.48-6.48万,2992,https://p1-dcd.byteimg.com/img/motor-img/e3b07a86c16b3c2a94035065ebf744b5~noop.png,5.48-6.48万,False,3660029920000000,5.48-6.48万,,,,,0,1628413667583920753,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏E300,6.48-8.48万,4349,https://p1-dcd.byteimg.com/img/motor-img/d3b550678713e228ef530f2c8b5ab0ca~noop.png,6.48-8.48万,False,3660043490000000,6.48-8.48万,,,,,328,1628413667583921740,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏310,4.09-5.29万,108,https://p1-dcd.byteimg.com/img/motor-img/e84e6195d7068bde6a35decf64703821~noop.png,4.09-5.29万,False,3660001080000000,4.09-5.29万,,,,,325,1628413667583922794,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏310W,5.28-7.28万,1565,https://p1-dcd.byteimg.com/img/motor-img/b42d7693e8053b93f19f6a3e93fe2b4f~noop.png,5.18-7.08万,False,3660015650000000,5.28-7.28万,,,,,348,1628413667583923596,366,宝骏,轿车,
+上汽通用五菱,指导价：,2,宝骏KiWi EV,暂无报价,5093,https://p1-dcd.byteimg.com/img/motor-img/2e639b958ad2b5b7d03fa8df12395cd9~noop.png,暂无报价,True,3660050930000000,暂无报价,暂无上市时间,暂无报价,,,0,1628413667583924195,366,宝骏,轿车,"{'type': 4, 'text': '即将上市'}"
+上汽通用五菱,指导价：,0,宝骏RC-5,5.98-10.98万,3344,https://p1-dcd.byteimg.com/img/motor-img/a9ba76c337bc015ddac90cb25ad2ee15~noop.png,5.98-9.78万,False,3660033440000000,5.98-10.98万,,,,,360,1628413667583924740,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏Valli,7.98-10.58万,4949,https://p1-dcd.byteimg.com/img/motor-img/df6405525d525b2ecffcef31cca3592e~noop.png,7.98-10.58万,False,3660049490000000,7.98-10.58万,,,,,352,1628413667583925124,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏RC-6,8.48-12.38万,3739,https://p9-dcd.byteimg.com/img/motor-img/ab2e845bbdae2917e2e59dfb100e30e7~noop.png,7.98-11.38万,False,3660037390000000,8.48-12.38万,,,,,361,1628413667583925827,366,宝骏,轿车,
+上汽通用五菱,指导价：,0,宝骏510,5.38-8.08万,110,https://p9-dcd.byteimg.com/img/motor-img/43d490ad2d629d69d6752e03cbe810ab~noop.png,5.38-8.08万,False,3660001100000000,5.38-8.08万,,,,,334,1628413667583926960,366,宝骏,SUV,
+上汽通用五菱,指导价：,0,宝骏RS-3,6.38-9.88万,4162,https://p1-dcd.byteimg.com/img/motor-img/106e0776a70ec87eabbf5a4834fa5708~noop.png,6.28-9.38万,False,3660041620000000,6.38-9.88万,,,,,349,1628413667583927562,366,宝骏,SUV,
+上汽通用五菱,指导价：,0,宝骏530,7.08-10.58万,1781,https://p9-dcd.byteimg.com/img/motor-img/b9446b5d663161450348b387a6731b38~noop.png,7.08-10.58万,False,3660017810000000,7.08-10.58万,,,,,361,1628413667583928132,366,宝骏,SUV,
+上汽通用五菱,指导价：,0,宝骏RS-5,9.78-13.58万,3053,https://p3-dcd.byteimg.com/img/motor-img/654a7220f2e3a5a62d5308855bcc199c~noop.png,9.68-12.98万,False,3660030530000000,9.78-13.58万,,,,,366,1628413667583928547,366,宝骏,SUV,
+上汽通用五菱,指导价：,2,宝骏RS-5 PHEV,暂无报价,5183,https://p1-dcd.byteimg.com/img/motor-img/0d5f99b1257e8fc3cb5154067d3c7d72~noop.png,暂无报价,True,3660051830000000,暂无报价,暂无上市时间,暂无报价,,,0,1628413667583929129,366,宝骏,SUV,"{'type': 4, 'text': '即将上市'}"
+上汽通用五菱,指导价：,2,宝骏RS-7,暂无报价,4288,https://p1-dcd.byteimg.com/img/motor-img/c3fa84a59525ad774966b76bd30b6b31~noop.png,暂无报价,True,3660042880000000,暂无报价,暂无上市时间,暂无报价,,,0,1628413667583929914,366,宝骏,SUV,"{'type': 4, 'text': '即将上市'}"
+上汽通用五菱,指导价：,0,宝骏360,5.98-8.08万,1804,https://p1-dcd.byteimg.com/img/motor-img/75772d8c190bc708d5cdadae1fae144b~noop.png,5.98-8.08万,False,3660018040000000,5.98-8.08万,,,,,354,1628413667583931289,366,宝骏,MPV,
+上汽通用五菱,指导价：,0,宝骏730,6.38-10.28万,114,https://p1-dcd.byteimg.com/img/motor-img/ebed42275d05eee4d94bc276a8bf5ec0~noop.png,6.28-9.98万,False,3660001140000000,6.38-10.28万,,,,,354,1628413667583931699,366,宝骏,MPV,
+上汽通用五菱,指导价：,0,宝骏RM-5,7.88-12.08万,3734,https://p1-dcd.byteimg.com/img/motor-img/03a70ca2d9fcc37f97a063d5cd76167d~noop.png,7.58-11.48万,False,3660037340000000,7.88-12.08万,,,,,365,1628413667583932244,366,宝骏,MPV,
+上汽通用五菱,指导价：,3,City Car,暂无报价,4071,https://p3-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,3660040710000000,暂无报价,,,,,0,1628413667583933482,366,宝骏,轿车·未上市,
+上汽通用五菱,指导价：,1,乐驰,3.98-6.28万,1286,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef000013a46ddb05c24~noop.png,,True,3660012860000000,3.98-6.28万,,,,,0,1628413667583934714,366,宝骏,轿车·停售,
+上汽通用五菱,指导价：,1,宝骏330,5.58-5.98万,109,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef50000a45f698066fc~noop.png,,True,3660001090000000,5.58-5.98万,,,,,0,1628413667583935333,366,宝骏,轿车·停售,
+上汽通用五菱,指导价：,1,宝骏610,5.98-8.58万,113,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef000013a26ce080ebe~noop.png,,True,3660001130000000,5.98-8.58万,,,,,0,1628413667583936050,366,宝骏,轿车·停售,
+上汽通用五菱,指导价：,1,宝骏630,5.98-9.58万,112,https://p3-dcd.byteimg.com/img/mosaic-legacy/bef200013c4ad74676d8~noop.png,,True,3660001120000000,5.98-9.58万,,,,,0,1628413667583936605,366,宝骏,轿车·停售,
+上汽通用五菱,指导价：,1,宝骏560,6.98-11.78万,111,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000097a25c844e48~noop.png,,True,3660001110000000,6.98-11.78万,,,,,353,1628413667583937607,366,宝骏,SUV·停售,
+上汽通用五菱,指导价：,3,智慧概念车,暂无报价,4820,https://p1-dcd.byteimg.com/img/motor-img/9e273efbd6a32d21d7467b1751c50ac3~noop.png,,True,3660048200000000,暂无报价,,,,,0,1628413667583938717,366,宝骏,轿车·概念车,
+上汽通用五菱,指导价：,3,宝骏RM-C,暂无报价,3451,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400004e326cf56638~noop.png,,True,3660034510000000,暂无报价,,,,,0,1628413667583940204,366,宝骏,MPV·概念车,

@@ -1,0 +1,20 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_status_tag,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+华晨鑫源,指导价：,2,金海狮,暂无报价,5059,https://p1-dcd.byteimg.com/img/motor-img/3de3f4b149018356f2d78ed0afe33d77~noop.png,暂无报价,True,1930050590000000,暂无报价,暂无上市时间,暂无报价,,"{'type': 4, 'text': '即将上市'}",,0,1628414298557561021,193,SRM鑫源,MPV
+华晨鑫源,指导价：,0,鑫源X30,4.48-4.98万,5234,https://p9-dcd.byteimg.com/img/motor-img/20b2501ded646e20dcc6f1a6848b5210~noop.png,4.48-4.98万,False,1930052340000000,4.48-4.98万,,,,,,0,1628414298557562410,193,SRM鑫源,微面
+华晨鑫源新能源,指导价：,0,好运1号,12.68-12.88万,1771,https://p1-dcd.byteimg.com/img/motor-img/bce97a58ad16bba1c6ac30c24643c9ab~noop.png,12.68-12.88万,False,1930017710000000,12.68-12.88万,,,,,,0,1628414298557563057,193,SRM鑫源,微面
+华晨鑫源,指导价：,0,鑫源X30L,5.68-6.38万,2810,https://p1-dcd.byteimg.com/img/motor-img/81adb37faa04052d7c750cf6ed125683~noop.png,5.68-6.38万,False,1930028100000000,5.68-6.38万,,,,,,0,1628414298557564028,193,SRM鑫源,微面
+华晨鑫源新能源,指导价：,0,新海狮EV,12.68-12.88万,1772,https://p1-dcd.byteimg.com/img/motor-img/0a74400a76f63118d3640c7b6367eeb0~noop.png,12.68-12.88万,False,1930017720000000,12.68-12.88万,,,,,,0,1628414298557564600,193,SRM鑫源,微面
+华晨鑫源,指导价：,0,鑫卡S50,4.98万,4893,https://p3-dcd.byteimg.com/img/motor-img/3f130f0c1df409aa9c8c66c12e32d547~noop.png,4.98万,False,1930048930000000,4.98万,,,,,,0,1628414298557566322,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫卡S52,5.28万,4895,https://p1-dcd.byteimg.com/img/motor-img/5d2d3b1b050deaf1fc2f82fd616a3fb5~noop.png,5.28万,False,1930048950000000,5.28万,,,,,,0,1628414298557567427,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫源T30S,4.98万,3199,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef400002d3f0a47432c~noop.png,4.98万,False,1930031990000000,4.98万,,,,,,0,1628414298557568045,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫源T32S,5.28万,3200,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef500006f3de390e9df~noop.png,5.28万,False,1930032000000000,5.28万,,,,,,0,1628414298557568717,193,SRM鑫源,微卡
+华晨鑫源新能源,指导价：,0,鑫源T50 EV,15.28-17.18万,4301,https://p1-dcd.byteimg.com/img/motor-img/b1ef0b41ffe841ff662134e7d69af50f~noop.png,15.28-17.18万,False,1930043010000000,15.28-17.18万,,,,,,0,1628414298557569189,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫卡T50 PLUS,5.88-6.58万,4833,https://p1-dcd.byteimg.com/img/motor-img/800a4dc3396ad1e3bd8b9a9edce9ad4c~noop.png,5.88-6.58万,False,1930048330000000,5.88-6.58万,,,,,,0,1628414298557569891,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫卡T52 PLUS,6.18-6.68万,4876,https://p9-dcd.byteimg.com/img/motor-img/1ee6341fd38503e20c8e8a9c8add2166~noop.png,6.18-6.68万,False,1930048760000000,6.18-6.68万,,,,,,0,1628414298557570546,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫源T50S,5.98-6.18万,5258,https://p1-dcd.byteimg.com/img/motor-img/3491e02517f591cb28ec80ce6bc683d4~noop.png,5.98-6.18万,False,1930052580000000,5.98-6.18万,,,,"{'type': 3, 'text': '全新车系'}",,0,1628414298557571216,193,SRM鑫源,微卡
+华晨鑫源,指导价：,0,鑫源T52S,6.38-6.48万,5259,https://p1-dcd.byteimg.com/img/motor-img/8c066119bd8bc3ce10106132b29a9ead~noop.png,6.38-6.48万,False,1930052590000000,6.38-6.48万,,,,"{'type': 3, 'text': '全新车系'}",,0,1628414298557572929,193,SRM鑫源,轻卡
+华晨鑫源新能源,指导价：,1,小海狮EV,11.58-11.78万,4293,https://p1-dcd.byteimg.com/img/motor-img/7597dadea98db7e81919271ddd093ca8~noop.png,,True,1930042930000000,11.58-11.78万,,,,,,0,1628414298557574786,193,SRM鑫源,微面·停售
+华晨鑫源新能源,指导价：,1,好运2号,11.68-11.88万,4292,https://p3-dcd.byteimg.com/img/motor-img/915bfdb1add231473a4b2833b315036d~noop.png,,True,1930042920000000,11.68-11.88万,,,,,,0,1628414298557575724,193,SRM鑫源,微面·停售
+华晨鑫源新能源,指导价：,1,鑫源T20 EV,10.68-13.68万,1849,https://p1-dcd.byteimg.com/img/motor-img/8f15d146ca8d8b0c7d6b7e507ddb9be7~noop.png,,True,1930018490000000,10.68-13.68万,,,,,,0,1628414298557577431,193,SRM鑫源,微卡·停售
+华晨鑫源,指导价：,1,鑫源T20S,3.59-3.74万,3197,https://p1-dcd.byteimg.com/img/mosaic-legacy/beef0000ab3b98605789~noop.png,,True,1930031970000000,3.59-3.74万,,,,,,0,1628414298557578385,193,SRM鑫源,微卡·停售
+华晨鑫源,指导价：,1,鑫源T22S,3.89-4.04万,3198,https://p3-dcd.byteimg.com/img/mosaic-legacy/beef0000ab2c17cd8d27~noop.png,,True,1930031980000000,3.89-4.04万,,,,,,0,1628414298557579496,193,SRM鑫源,微卡·停售

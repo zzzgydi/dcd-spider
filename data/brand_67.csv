@@ -1,0 +1,41 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+一汽吉林,指导价：,0,森雅R8,7.49-8.99万,3854,https://p1-dcd.byteimg.com/img/motor-img/067f47a92f04e6277b65d89dde179938~noop.png,7.49-8.99万,False,670038540000000,7.49-8.99万,,,,,0,1628414449635828490,67,一汽,SUV
+一汽红塔,指导价：,0,蓝舰H6,9.68-12.98万,2923,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000983e3895c9e2~noop.png,9.68-12.98万,False,670029230000000,9.68-12.98万,,,,,0,1628414449635830451,67,一汽,皮卡
+一汽吉林,指导价：,0,佳宝V80 EV,11.98-13.68万,3133,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef00000866ae7a18838~noop.png,11.98-13.68万,False,670031330000000,11.98-13.68万,,,,,0,1628414449635832220,67,一汽,微面
+一汽吉林,指导价：,3,森雅鸿雁,暂无报价,5241,https://p1-dcd.byteimg.com/img/motor-img/85cefa24945edcfb9b577087443193bc~noop.png,,True,670052410000000,暂无报价,,,,,0,1628414449635834456,67,一汽,SUV·未上市
+天津一汽,指导价：,1,骏派CX65,6.89-7.69万,2181,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef0000006dc6265ced7~noop.png,,True,670021810000000,6.89-7.69万,,,,,0,1628414449635836654,67,一汽,轿车·停售
+天津一汽,指导价：,1,骏派A50,5.59-7.29万,1766,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000086680323296d~noop.png,,True,670017660000000,5.59-7.29万,,,,,0,1628414449635837620,67,一汽,轿车·停售
+天津一汽,指导价：,1,骏派A70,6.48-8.78万,1402,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef0000086694c420478~noop.png,,True,670014020000000,6.48-8.78万,,,,,0,1628414449635838462,67,一汽,轿车·停售
+天津一汽,指导价：,1,骏派A70E,16.88-18.38万,1696,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000942bd0c74f83~noop.png,,True,670016960000000,16.88-18.38万,,,,,0,1628414449635839462,67,一汽,轿车·停售
+天津一汽,指导价：,1,夏利,2.88-5.08万,1394,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef700004fa7e26c4bbf~noop.png,,True,670013940000000,2.88-5.08万,,,,,0,1628414449635840374,67,一汽,轿车·停售
+天津一汽,指导价：,1,威姿,6.38-8.98万,1398,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef800006b05a2df1187~noop.png,,True,670013980000000,6.38-8.98万,,,,,0,1628414449635841417,67,一汽,轿车·停售
+天津一汽,指导价：,1,一汽NH2,暂无报价,3884,https://p3-dcd.byteimg.com/img/motor-img/1112c57b8c83f1db62d5b9f2b3191900~noop.png,,True,670038840000000,暂无报价,,,,,0,1628414449635842513,67,一汽,轿车·停售
+天津一汽,指导价：,1,一汽X121,暂无报价,3887,https://p1-dcd.byteimg.com/img/motor-img/7423003eaeac141d8259e764ad69d61d~noop.png,,True,670038870000000,暂无报价,,,,,0,1628414449635843622,67,一汽,轿车·停售
+天津一汽,指导价：,1,威志V2,4.69-5.89万,1401,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006be6a31ed26e~noop.png,,True,670014010000000,4.69-5.89万,,,,,0,1628414449635845416,67,一汽,轿车·停售
+天津一汽,指导价：,1,威志V5,5.19-6.59万,1396,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000b4dc33daa28f~noop.png,,True,670013960000000,5.19-6.59万,,,,,0,1628414449635846428,67,一汽,轿车·停售
+天津一汽,指导价：,1,夏利N5,3.69-5.19万,1395,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef20000876badf4f1dc~noop.png,,True,670013950000000,3.69-5.19万,,,,,0,1628414449635847190,67,一汽,轿车·停售
+天津一汽,指导价：,1,夏利N7,4.29-5.39万,1397,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b13000083831d4be0cc~noop.png,,True,670013970000000,4.29-5.39万,,,,,0,1628414449635848450,67,一汽,轿车·停售
+天津一汽,指导价：,1,威乐,6.48-9.48万,1399,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef8000050678efc2622~noop.png,,True,670013990000000,6.48-9.48万,,,,,0,1628414449635849353,67,一汽,轿车·停售
+天津一汽,指导价：,1,一汽NS2,暂无报价,3885,https://p1-dcd.byteimg.com/img/motor-img/1854c2118e96f133c4773fca5b3b4c7a~noop.png,,True,670038850000000,暂无报价,,,,,0,1628414449635850317,67,一汽,轿车·停售
+天津一汽,指导价：,1,威志,5.00-6.88万,1400,https://p9-dcd.byteimg.com/img/mosaic-legacy/1767500004dd68b26235f~noop.png,,True,670014000000000,5.00-6.88万,,,,,0,1628414449635851365,67,一汽,轿车·停售
+一汽吉林,指导价：,1,森雅R7,6.69-10.69万,1406,https://p1-dcd.byteimg.com/img/motor-img/aecc527761d81e6b35253fef9d34ec02~noop.png,,True,670014060000000,6.69-10.69万,,,,,0,1628414449635853639,67,一汽,SUV·停售
+一汽吉林,指导价：,1,森雅R7 EV,17.98万,3108,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef40000088586cacc7d~noop.png,,True,670031080000000,17.98万,,,,,0,1628414449635854820,67,一汽,SUV·停售
+一汽吉林,指导价：,1,森雅R9,8.39-12.59万,2793,https://p1-dcd.byteimg.com/img/mosaic-legacy/888300004bfabcd4e19e~noop.png,,True,670027930000000,8.39-12.59万,,,,,0,1628414449635855613,67,一汽,SUV·停售
+一汽吉林,指导价：,1,森雅S80,4.99-8.95万,1405,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000a1d5f1b885f3~noop.png,,True,670014050000000,4.99-8.95万,,,,,0,1628414449635856550,67,一汽,SUV·停售
+天津一汽,指导价：,1,骏派D60,5.69-9.99万,1403,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000083b72c6262bf~noop.png,,True,670014030000000,5.69-9.99万,,,,,0,1628414449635858047,67,一汽,SUV·停售
+天津一汽,指导价：,1,骏派D80,7.99-12.59万,1939,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef3000083b8df2aa600~noop.png,,True,670019390000000,7.99-12.59万,,,,,0,1628414449635860140,67,一汽,SUV·停售
+一汽吉林,指导价：,1,森雅,6.98-9.88万,1404,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400011ab0829dc793~noop.png,,True,670014040000000,6.98-9.88万,,,,,0,1628414449635861930,67,一汽,MPV·停售
+一汽吉林,指导价：,1,森雅M80,5.19-8.15万,1407,https://p1-dcd.byteimg.com/img/mosaic-legacy/88830000a1d4fe0fbf9c~noop.png,,True,670014070000000,5.19-8.15万,,,,,0,1628414449635863141,67,一汽,MPV·停售
+一汽通用,指导价：,1,坤程,6.06-6.66万,1417,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000088a6702b57b~noop.png,,True,670014170000000,6.06-6.66万,,,,,0,1628414449635865117,67,一汽,皮卡·停售
+一汽吉林,指导价：,1,佳宝V77,3.09-3.59万,1416,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300010d6de7ab5847~noop.png,,True,670014160000000,3.09-3.59万,,,,,0,1628414449635866725,67,一汽,微面·停售
+一汽吉林,指导价：,1,佳宝V70 II代,3.49-5.09万,1851,https://p1-dcd.byteimg.com/img/mosaic-legacy/1767400006a2c3b172fd1~noop.png,,True,670018510000000,3.49-5.09万,,,,,0,1628414449635867885,67,一汽,微面·停售
+一汽吉林,指导价：,1,佳宝V70,3.62-4.88万,1874,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef2000145d6caf9cd28~noop.png,,True,670018740000000,3.62-4.88万,,,,,0,1628414449635869096,67,一汽,微面·停售
+一汽吉林,指导价：,1,佳宝V52,2.72-2.92万,1413,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef1000084fab997c743~noop.png,,True,670014130000000,2.72-2.92万,,,,,0,1628414449635870340,67,一汽,微面·停售
+一汽吉林,指导价：,1,佳宝V55,3.29万,1412,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef40000088722e6cfe2~noop.png,,True,670014120000000,3.29万,,,,,0,1628414449635871321,67,一汽,微面·停售
+一汽吉林,指导价：,1,佳宝V80,4.09-5.39万,1414,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef100009971587960c7~noop.png,,True,670014140000000,4.09-5.39万,,,,,0,1628414449635872311,67,一汽,微面·停售
+一汽吉林,指导价：,1,解放T80,3.49-4.04万,1411,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef1000095618252a51a~noop.png,,True,670014110000000,3.49-4.04万,,,,,0,1628414449635874127,67,一汽,微卡·停售
+一汽吉林,指导价：,1,解放T90,4.65-5.05万,3149,https://p9-dcd.byteimg.com/img/mosaic-legacy/beef00006a82102520b1~noop.png,,True,670031490000000,4.65-5.05万,,,,,0,1628414449635875047,67,一汽,微卡·停售
+一汽吉林,指导价：,1,佳宝T50,3.29-3.45万,1410,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef3000083b95b40a7f2~noop.png,,True,670014100000000,3.29-3.45万,,,,,0,1628414449635876211,67,一汽,微卡·停售
+一汽吉林,指导价：,1,佳宝T51,2.55万,1409,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef1000084fc12276623~noop.png,,True,670014090000000,2.55万,,,,,0,1628414449635876978,67,一汽,微卡·停售
+一汽吉林,指导价：,1,佳宝T57,2.99-3.09万,1408,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400000889d2f00698~noop.png,,True,670014080000000,2.99-3.09万,,,,,0,1628414449635877834,67,一汽,微卡·停售
+天津一汽,指导价：,3,一汽TFC,暂无报价,1940,https://p9-dcd.byteimg.com/img/mosaic-legacy/bef80000172fd92f4c58~noop.png,,True,670019400000000,暂无报价,,,,,0,1628414449635879705,67,一汽,轿车·概念车

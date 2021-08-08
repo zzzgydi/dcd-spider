@@ -1,0 +1,4 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+广汽本田,指导价：,0,广汽本田VE-1,15.98-18.38万,3096,https://p1-dcd.byteimg.com/img/motor-img/6b45b76df3eac473edc4da19a10ce8d7~noop.png,9.98-12.38万,False,1110030960000000,15.98-18.38万,,,,,361,1628414062488315617,111,理念,SUV
+广汽本田,指导价：,1,理念S1,6.78-9.98万,911,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef10000c54977e69b45~noop.png,,True,1110009110000000,6.78-9.98万,,,,,0,1628414062488318512,111,理念,轿车·停售
+广汽本田,指导价：,3,理念纯电动CONCEPT,暂无报价,3071,https://p1-dcd.byteimg.com/img/motor-img/ed6c2e100c8a6890ef162416fa202848~noop.png,,True,1110030710000000,暂无报价,,,,,0,1628414062488321125,111,理念,SUV·概念车

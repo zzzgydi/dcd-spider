@@ -1,0 +1,17 @@
+sub_brand_name,official_price_prefix,business_status,series_name,official_price,series_id,image_url,dealer_price,none_dealer_quote,motor_id,price,pre_sale_date,pre_sale_price,subsidy_price,series_right_tag,dcd_score,unique_id,brand_id,brand_name,car_type
+北京汽车制造厂,指导价：,0,北汽小猫,3.98万,4390,https://p1-dcd.byteimg.com/img/motor-img/beba9a2fe3ed255bb5533d2ee0bbcf44~noop.png,3.98万,False,780043900000000,3.98万,,,,,0,1628413683874904560,78,北汽制造,轿车
+北京汽车制造厂,指导价：,0,北汽大猫,4.98万,4316,https://p1-dcd.byteimg.com/img/motor-img/4d2e7a0fa312f4b8f4f51e65be2acdd1~noop.png,4.98万,False,780043160000000,4.98万,,,,,0,1628413683874906063,78,北汽制造,轿车
+北京汽车制造厂,指导价：,0,北汽豹,5.98万,4394,https://p1-dcd.byteimg.com/img/motor-img/79e11500c18d923f40bcb7c961e7439e~noop.png,5.98万,False,780043940000000,5.98万,,,,,0,1628413683874907869,78,北汽制造,SUV
+北京汽车制造厂,指导价：,0,BJ 212,7.98-10.40万,202,https://p1-dcd.byteimg.com/img/motor-img/67c16da18ac7c40273f8f3bda591f283~noop.png,7.98-10.40万,False,780002020000000,7.98-10.40万,,,,,292,1628413683874908896,78,北汽制造,SUV
+北京汽车制造厂,指导价：,0,勇士,10.48-14.19万,205,https://p1-dcd.byteimg.com/img/motor-img/dcf664514941d152d7c6466649b34f29~noop.png,10.48-14.19万,False,780002050000000,10.48-14.19万,,,,,0,1628413683874909733,78,北汽制造,SUV
+北京汽车制造厂,指导价：,0,勇士皮卡,9.42-13.08万,1989,https://p1-dcd.byteimg.com/img/motor-img/63453ca0add201f246fdb6bfde72eef2~noop.png,9.42-13.08万,False,780019890000000,9.42-13.08万,,,,,0,1628413683874911044,78,北汽制造,皮卡
+北京汽车制造厂,指导价：,0,锐铃,7.93-8.08万,209,https://p1-dcd.byteimg.com/img/mosaic-legacy/9b1300011ef5d386bdaa~noop.png,7.93-8.08万,False,780002090000000,7.93-8.08万,,,,,0,1628413683874911774,78,北汽制造,皮卡
+北京汽车制造厂,指导价：,0,北汽小河马,10.78-11.08万,4723,https://p1-dcd.byteimg.com/img/motor-img/e1cb40a5d31ad962eb7bbe3f169decb7~noop.png,10.78-11.08万,False,780047230000000,10.78-11.08万,,,,,0,1628413683874913013,78,北汽制造,微面
+北京汽车制造厂,指导价：,1,战旗,5.52-9.94万,203,https://p1-dcd.byteimg.com/img/motor-img/a627710a757c0208d4170686ab8914ba~noop.png,,True,780002030000000,5.52-9.94万,,,,,0,1628413683874914598,78,北汽制造,SUV·停售
+北京汽车制造厂,指导价：,1,骑士S12,7.88-10.78万,207,https://p1-dcd.byteimg.com/img/mosaic-legacy/65de00010f540916562d~noop.png,,True,780002070000000,7.88-10.78万,,,,,0,1628413683874915460,78,北汽制造,SUV·停售
+北京汽车制造厂,指导价：,1,北汽007,8.28-10.78万,204,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef600006bc265de2ec8~noop.png,,True,780002040000000,8.28-10.78万,,,,,0,1628413683874916206,78,北汽制造,SUV·停售
+北京汽车制造厂,指导价：,1,北京BW007,8.28-12.28万,206,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef30000987ed5f6cd86~noop.png,,True,780002060000000,8.28-12.28万,,,,,0,1628413683874916877,78,北汽制造,SUV·停售
+北京汽车制造厂,指导价：,1,陆霸,14.28-17.28万,208,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef400001d24191d972c~noop.png,,True,780002080000000,14.28-17.28万,,,,,0,1628413683874917823,78,北汽制造,SUV·停售
+北京汽车制造厂,指导价：,1,战旗皮卡,5.78-7.77万,211,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef200009c5b9d547f3a~noop.png,,True,780002110000000,5.78-7.77万,,,,,0,1628413683874919467,78,北汽制造,皮卡·停售
+北京汽车制造厂,指导价：,1,越铃,5.17-7.58万,210,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef200009c5a401b4353~noop.png,,True,780002100000000,5.17-7.58万,,,,,0,1628413683874920265,78,北汽制造,皮卡·停售
+北京汽车制造厂,指导价：,1,陆铃,6.48万,1880,https://p1-dcd.byteimg.com/img/mosaic-legacy/bef5000071d710c78227~noop.png,,True,780018800000000,6.48万,,,,,0,1628413683874921226,78,北汽制造,皮卡·停售
